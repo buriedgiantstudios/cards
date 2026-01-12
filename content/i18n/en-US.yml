@@ -1,6 +1,6 @@
 Common:
-  Company: Leder Games
-  AppName: Leder Card Library
+  Company: Buried Giant Studios
+  AppName: Buried Giant Studios Card Library
 
   Actions:
     AdvancedLong: Advanced Search
@@ -12,14 +12,10 @@ Common:
 
   Products:
     Oath: Oath
-    Root: Root
     Arcs: Arcs
-    Fort: Fort
-    Vast: Vast
-    Ahoy: Ahoy
 
 Meta:
-  Title: 'Leder Card Library'
+  Title: 'Buried Giant Studios Card Library'
 
 Languages:
   en-US: English
@@ -47,7 +43,7 @@ Components:
     CreatedText: This tool created by
     CreatedBy: Seiyria
 
-    Copyright: The literal and graphical information presented on this site about Leder Games, including card images and symbols is copyright Leder Games.
+    Copyright: The literal and graphical information presented on this site about Buried Giant Studios, including card images and symbols is copyright Buried Giant Studios.
 
   Omnisearch:
     Search: Search all of {{ selectedProduct }}...
@@ -202,8 +198,8 @@ Pages:
           - Example: '`game:oath`'
             Text: Cards that belong to the Oath game.
 
-          - Example: '`-game:root`'
-            Text: Cards that don't belong to the Root game.
+          - Example: '`-game:arcs`'
+            Text: Cards that don't belong to the Arcs game.
 
       Product:
         Name: Product
@@ -211,11 +207,11 @@ Pages:
           You can find cards that are associated with a certain product by using the `product:` operator.
 
         Examples:
-          - Example: '`product:clockwork-1`'
-            Text: Cards that belong to the Clockwork 1 product.
+          - Example: '`product:blighted-reach`'
+            Text: Cards that belong to the Blighted Reach product.
 
-          - Example: '`-product:exiles-partisans`'
-            Text: Cards that don't belong to the Exiles & Partisans product.
+          - Example: '`-product:blighted-reach`'
+            Text: Cards that don't belong to the Blighted Reach product.
 
       Tag:
         Name: Tag
