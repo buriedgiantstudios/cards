@@ -1,6 +1,6 @@
-# Leder Cards
+# BGS Cards
 
-This repository obtains and reformats cards for the Leder Spotlight application.
+This repository obtains and reformats cards for the BGS Spotlight application.
 
 ## Requirements
 

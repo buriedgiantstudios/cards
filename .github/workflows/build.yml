@@ -49,7 +49,7 @@ jobs:
           github-token: ${{ secrets.CROSS_REPO_UPDATE_PAT }}
           script: |
             await github.rest.actions.createWorkflowDispatch({
-              owner: 'LederCards',
+              owner: 'buriedgiantstudios',
               repo: 'Library',
               workflow_id: 'netlify.yml',
               ref: 'master'
