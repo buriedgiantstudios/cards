@@ -31,8 +31,7 @@ This repository obtains and reformats cards for the BGS Spotlight application.
 1. Create a new folder in `content/card-symbols` (the name should match the `gameName` in the `meta-data` file)
 1. Add the product name the product list in `content/i18n` (the name should match the `gameName` in the `meta-data` file)
 1. Add a new 512x512 PNG in `content/card-symbols/products` (the name should match the `gameName` in the `meta-data` file)
-
-Follow the guide for adding a new locale
+1. Follow the steps below for adding new locales and filters.
 
 ### Locale
 
