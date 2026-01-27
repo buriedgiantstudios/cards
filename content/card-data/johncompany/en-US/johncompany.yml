@@ -5,6 +5,8 @@
   name: The Prime Minister's Ear
   tags:
     - Blackmail
+  meta:
+    power: 2
 - id: JOCO-2
   text: >-
     Play at the start of the Revenue phase. Roll one die for each of your officeholders. Lower the Company Balance equal to twice the highest roll (to a minimum of zero) and take that much from the bank.
@@ -12,6 +14,8 @@
   name: Company Fraud
   tags:
     - Blackmail
+  meta:
+    power: 0
 - id: JOCO-3
   text: >-
     Play when retiring one or more pieces (in London Season or Final Scoring). Act as if you also have retirement discounts equal to those on all other players' spouses.
@@ -19,6 +23,8 @@
   name: Letters of Introduction
   tags:
     - Blackmail
+  meta:
+    power: 1
 - id: JOCO-4
   text: >-
     Play when taken from the display or anytime after the Revenue phase on a turn to force any office that is not President or Governor (or Governor General) to vacate their office without retirement.
@@ -26,6 +32,8 @@
   name: Scandal on Leadenhall Street
   tags:
     - Blackmail
+  meta:
+    power: 2
 - id: JOCO-5
   text: >-
     Play when taken from the display or anytime after the Revenue phase on a turn to force a President or Governor (or Governor General) to vacate their office without retirement.
@@ -33,6 +41,8 @@
   name: Scandal in India
   tags:
     - Blackmail
+  meta:
+    power: 2
 - id: JOCO-6
   text: >-
     Play during hiring if you are a candidate. The hiring player must choose you. You may use this to ignore the Nepotism rule.
@@ -40,6 +50,8 @@
   name: Hiring Preference
   tags:
     - Blackmail
+  meta:
+    power: 1
 - id: JOCO-7
   text: >-
     Play anytime on a turn before the Events in India phase. Move the Elephant to any legal position and then take £ equal to the highest open order in the region with the Elephant's tail.
@@ -47,6 +59,8 @@
   name: Envoy to the Mughals
   tags:
     - Blackmail
+  meta:
+    power: 0
 - id: JOCO-8
   text: >-
     Play after a check to force a President or firm to reroll any Trade roll with half as many dice, rounding down. If reduced to zero dice, treat roll as failure.
@@ -54,6 +68,8 @@
   name: Mercantile Connection
   tags:
     - Blackmail
+  meta:
+    power: 1
 - id: JOCO-9
   text: >-
     Play after a check to force a Commander to reroll any Deploy roll with half as many dice, rounding down. If reduced to zero dice, treat roll as failure.
@@ -61,6 +77,8 @@
   name: Diplomatic Connection
   tags:
     - Blackmail
+  meta:
+    power: 2
 - id: JOCO-10
   text: >-
     Play this card to cancel the effect of a blackmail card when played. The canceled card should be taken into your play area face up. You cannot play this card to cancel Letters of Introduction during Final Scoring.
@@ -68,6 +86,8 @@
   name: Man on the Inside
   tags:
     - Blackmail
+  meta:
+    power: 1
 - id: JOCO-11
   text: >-
     SPOUSE. You cannot transfer this card. You may no longer enlist writers as your family action. Note: the extra writer from the Tenure Limits law is still permitted.
@@ -75,6 +95,10 @@
   name: Mr. Rochester
   tags:
     - Prestige
+    - Spouse
+  meta:
+    point: 2
+    discount: 2
 - id: JOCO-12
   text: >-
     SPOUSE. You cannot transfer this card. You may no longer take or own blackmail cards. Any you currently have face down must be traded or discarded. Face up blackmail cards must be discarded.
@@ -82,6 +106,10 @@
   name: Esther Summerson
   tags:
     - Prestige
+    - Spouse
+  meta:
+    point: 2
+    discount: 1
 - id: JOCO-13
   text: >-
     SPOUSE. You cannot transfer this card. You may no longer purchase or own workshops. Any you currently have must be traded or discarded.
@@ -89,6 +117,10 @@
   name: John Thorpe
   tags:
     - Prestige
+    - Spouse
+  meta:
+    point: 2
+    discount: 2
 - id: JOCO-14
   text: >-
     SPOUSE. You cannot transfer this card. You may no longer purchase or own shipyards. Any you currently have must be traded or discarded. (Fitted ships associated with discarded shipyards remain in play.)
@@ -96,6 +128,10 @@
   name: Violet Effingham
   tags:
     - Prestige
+    - Spouse
+  meta:
+    point: 3
+    discount: 1
 - id: JOCO-15
   text: >-
     SPOUSE. You cannot transfer this card. You may no longer seek or own Company shares. If you are Chairman, move your family member back into the Court as a share and vacate the office. Any shares you have must be traded or removed.
@@ -103,6 +139,10 @@
   name: Joseph Sedley
   tags:
     - Prestige
+    - Spouse
+  meta:
+    point: 2
+    discount: 1
 - id: JOCO-16
   text: >-
     SPOUSE. You cannot transfer this card. When taking prestige cards, you may take a card from the top of the deck instead as long as there is at least one card in the display.
@@ -110,6 +150,10 @@
   name: Becky Sharp
   tags:
     - Prestige
+    - Spouse
+  meta:
+    point: 2
+    discount: 0
 - id: JOCO-17
   text: >-
     SPOUSE. You cannot transfer this card. You may no longer enlist officers as your family action. Note: the extra officer from the Army Spending law is still permitted.
@@ -117,6 +161,10 @@
   name: William Collins
   tags:
     - Prestige
+    - Spouse
+  meta:
+    point: 2
+    discount: 1
 - id: JOCO-18
   text: >-
     SPOUSE. You cannot transfer this card. Remove your opportunity marker from the game. It is never placed when you take an action. Note: you may still gain extra actions from laws and an extra writer when there are 4+ vacancies.
@@ -124,6 +172,10 @@
   name: Lady Glencora
   tags:
     - Prestige
+    - Spouse
+  meta:
+    point: 2
+    discount: 2
 - id: JOCO-19
   text: >-
     SPOUSE. You cannot transfer this card. You may only retire to the 8 or 12 victory point prizes.
@@ -131,6 +183,10 @@
   name: Lord Highgate
   tags:
     - Prestige
+    - Spouse
+  meta:
+    point: 3
+    discount: 2
 - id: JOCO-20
   text: >-
     SPOUSE. You cannot transfer this card. Act as if your enterprises no longer have vote icons. Remove your "Vote with my Enterprises" promise from the game, even if it is owned by another player. Any enterprises you transfer to another player cannot be used to vote with that turn.
@@ -138,6 +194,10 @@
   name: Lady Newcome
   tags:
     - Prestige
+    - Spouse
+  meta:
+    point: 3
+    discount: 2
 - id: JOCO-21
   text: >-
     Whenever the Manager of Shipping buys an extra ship or Company ship, take £1 from the bank for each.
@@ -145,6 +205,7 @@
   name: Shipbuilders
   tags:
     - Prestige
+    - Enterprise
 - id: JOCO-22
   text: >-
     With the Prime Minister's consent, you may treat the proposed policy as if it includes an additional window tax. This must be decided before voting begins. If you win a vote as the Opposition Leader, you may add an additional window tax to the policy you decide.
@@ -152,6 +213,7 @@
   name: Tax Collectors
   tags:
     - Prestige
+    - Enterprise
 - id: JOCO-23
   text: >-
     If voting on a manufacturing or shipping policy:
@@ -159,6 +221,7 @@
   name: Labour Newspaper
   tags:
     - Prestige
+    - Enterprise
 - id: JOCO-24
   text: >-
     Each time any player purchases a workshop or a regiment is added to an Army, you take £1 from the bank.
@@ -166,6 +229,7 @@
   name: Foundry
   tags:
     - Prestige
+    - Enterprise
 - id: JOCO-25
   text: >-
     When seeking shares, treat every space as if it costs £1. Other players may use this power with your permission.
@@ -173,6 +237,7 @@
   name: Stockbroker
   tags:
     - Prestige
+    - Enterprise
 - id: JOCO-26
   text: >-
     If voting on a Social or Company share policy:
@@ -180,26 +245,31 @@
   name: Social Magazine
   tags:
     - Prestige
+    - Enterprise
 - id: JOCO-27
   image: JOCO-27
   name: Scottish Castle
   tags:
     - Prestige
+    - Enterprise
 - id: JOCO-28
   image: JOCO-28
   name: Rotten Borough
   tags:
     - Prestige
+    - Enterprise
 - id: JOCO-29
   image: JOCO-29
   name: Rotten Borough
   tags:
     - Prestige
+    - Enterprise
 - id: JOCO-30
   image: JOCO-30
   name: Rotten Borough
   tags:
     - Prestige
+    - Enterprise
 - id: JOCO-31
   text: >-
     Law before Parliament. Extra Action: After taking any family action(s), you may buy a workshop. When passed, players gain £2 for each manufacturing enterprise they own. At the start of the Revenue phase, lower the Company Balance by £1 for every £7. Skip this penalty after deregulation.
