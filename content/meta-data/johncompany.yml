@@ -1,0 +1,26 @@
+id: johncompany
+name: John Company
+
+filters:
+  - name: Power
+    prop: power
+    type: number
+
+subproducts:
+  - name: John Company 2nd Edition
+    id: johncompany
+    desc: >
+      John Company is a game about being the coolest.
+
+external:
+  rules: https://rules.buriedgiantstudios.com/?product=johncompany
+
+# https://handlebarsjs.com/guide/
+cardTemplate:
+  en-US: >
+    {{#if meta.power }}
+      <div>
+        <p>Power: {{ meta.power }}
+      </div>
+    {{/if}}
+

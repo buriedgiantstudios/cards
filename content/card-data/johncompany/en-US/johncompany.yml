@@ -1,0 +1,402 @@
+- id: JOCO-1
+  text: >-
+    Play anytime on a turn before the Family phase to swap two adjacent power markers.
+  image: JOCO-1
+  name: The Prime Minister's Ear
+- id: JOCO-2
+  text: >-
+    Play at the start of the Revenue phase. Roll one die for each of your officeholders. Lower the Company Balance equal to twice the highest roll (to a minimum of zero) and take that much from the bank.
+  image: JOCO-2
+  name: Company Fraud
+- id: JOCO-3
+  text: >-
+    Play when retiring one or more pieces (in London Season or Final Scoring). Act as if you also have retirement discounts equal to those on all other players' spouses.
+  image: JOCO-3
+  name: Letters of Introduction
+- id: JOCO-4
+  text: >-
+    Play when taken from the display or anytime after the Revenue phase on a turn to force any office that is not President or Governor (or Governor General) to vacate their office without retirement.
+  image: JOCO-4
+  name: Scandal on Leadenhall Street
+- id: JOCO-5
+  text: >-
+    Play when taken from the display or anytime after the Revenue phase on a turn to force a President or Governor (or Governor General) to vacate their office without retirement.
+  image: JOCO-5
+  name: Scandal in India
+- id: JOCO-6
+  text: >-
+    Play during hiring if you are a candidate. The hiring player must choose you. You may use this to ignore the Nepotism rule.
+  image: JOCO-6
+  name: Hiring Preference
+- id: JOCO-7
+  text: >-
+    Play anytime on a turn before the Events in India phase. Move the Elephant to any legal position and then take £ equal to the highest open order in the region with the Elephant's tail.
+  image: JOCO-7
+  name: Envoy to the Mughals
+- id: JOCO-8
+  text: >-
+    Play after a check to force a President or firm to reroll any Trade roll with half as many dice, rounding down. If reduced to zero dice, treat roll as failure.
+  image: JOCO-8
+  name: Mercantile Connection
+- id: JOCO-9
+  text: >-
+    Play after a check to force a Commander to reroll any Deploy roll with half as many dice, rounding down. If reduced to zero dice, treat roll as failure.
+  image: JOCO-9
+  name: Diplomatic Connection
+- id: JOCO-10
+  text: >-
+    Play this card to cancel the effect of a blackmail card when played. The canceled card should be taken into your play area face up. You cannot play this card to cancel Letters of Introduction during Final Scoring.
+  image: JOCO-10
+  name: Man on the Inside
+- id: JOCO-11
+  text: >-
+    SPOUSE. You cannot transfer this card. You may no longer enlist writers as your family action. Note: the extra writer from the Tenure Limits law is still permitted.
+  image: JOCO-11
+  name: Mr. Rochester
+- id: JOCO-12
+  text: >-
+    SPOUSE. You cannot transfer this card. You may no longer take or own blackmail cards. Any you currently have face down must be traded or discarded. Face up blackmail cards must be discarded.
+  image: JOCO-12
+  name: Esther Summerson
+- id: JOCO-13
+  text: >-
+    SPOUSE. You cannot transfer this card. You may no longer purchase or own workshops. Any you currently have must be traded or discarded.
+  image: JOCO-13
+  name: John Thorpe
+- id: JOCO-14
+  text: >-
+    SPOUSE. You cannot transfer this card. You may no longer purchase or own shipyards. Any you currently have must be traded or discarded. (Fitted ships associated with discarded shipyards remain in play.)
+  image: JOCO-14
+  name: Violet Effingham
+- id: JOCO-15
+  text: >-
+    SPOUSE. You cannot transfer this card. You may no longer seek or own Company shares. If you are Chairman, move your family member back into the Court as a share and vacate the office. Any shares you have must be traded or removed.
+  image: JOCO-15
+  name: Joseph Sedley
+- id: JOCO-16
+  text: >-
+    SPOUSE. You cannot transfer this card. When taking prestige cards, you may take a card from the top of the deck instead as long as there is at least one card in the display.
+  image: JOCO-16
+  name: Becky Sharp
+- id: JOCO-17
+  text: >-
+    SPOUSE. You cannot transfer this card. You may no longer enlist officers as your family action. Note: the extra officer from the Army Spending law is still permitted.
+  image: JOCO-17
+  name: William Collins
+- id: JOCO-18
+  text: >-
+    SPOUSE. You cannot transfer this card. Remove your opportunity marker from the game. It is never placed when you take an action. Note: you may still gain extra actions from laws and an extra writer when there are 4+ vacancies.
+  image: JOCO-18
+  name: Lady Glencora
+- id: JOCO-19
+  text: >-
+    SPOUSE. You cannot transfer this card. You may only retire to the 8 or 12 victory point prizes.
+  image: JOCO-19
+  name: Lord Highgate
+- id: JOCO-20
+  text: >-
+    SPOUSE. You cannot transfer this card. Act as if your enterprises no longer have vote icons. Remove your "Vote with my Enterprises" promise from the game, even if it is owned by another player. Any enterprises you transfer to another player cannot be used to vote with that turn.
+  image: JOCO-20
+  name: Lady Newcome
+- id: JOCO-21
+  text: >-
+    Whenever the Manager of Shipping buys an extra ship or Company ship, take £1 from the bank for each.
+  image: JOCO-21
+  name: Shipbuilders
+- id: JOCO-22
+  text: >-
+    With the Prime Minister's consent, you may treat the proposed policy as if it includes an additional window tax. This must be decided before voting begins. If you win a vote as the Opposition Leader, you may add an additional window tax to the policy you decide.
+  image: JOCO-22
+  name: Tax Collectors
+- id: JOCO-23
+  text: >-
+    If voting on a manufacturing or shipping policy:
+  image: JOCO-23
+  name: Labour Newspaper
+- id: JOCO-24
+  text: >-
+    Each time any player purchases a workshop or a regiment is added to an Army, you take £1 from the bank.
+  image: JOCO-24
+  name: Foundry
+- id: JOCO-25
+  text: >-
+    When seeking shares, treat every space as if it costs £1. Other players may use this power with your permission.
+  image: JOCO-25
+  name: Stockbroker
+- id: JOCO-26
+  text: >-
+    If voting on a Social or Company share policy:
+  image: JOCO-26
+  name: Social Magazine
+- id: JOCO-27
+  image: JOCO-27
+  name: Scottish Castle
+- id: JOCO-28
+  image: JOCO-28
+  name: Rotten Borough
+- id: JOCO-29
+  image: JOCO-29
+  name: Rotten Borough
+- id: JOCO-30
+  image: JOCO-30
+  name: Rotten Borough
+- id: JOCO-31
+  text: >-
+    Law before Parliament. Extra Action: After taking any family action(s), you may buy a workshop. When passed, players gain £2 for each manufacturing enterprise they own. At the start of the Revenue phase, lower the Company Balance by £1 for every £7. Skip this penalty after deregulation.
+  image: JOCO-31
+  name: Calico Acts
+- id: JOCO-32
+  text: >-
+    Law before Parliament. Trade in China is worth £5 per export icon. If the office has not been created, create the Superintendent of Trade in China office.
+  image: JOCO-32
+  name: Envoy to China
+- id: JOCO-33
+  text: >-
+    Law before Parliament. Extra Action: After taking any family action(s), you may enlist an officer. Place 2 regiments in each Army.
+  image: JOCO-33
+  name: Army Spending
+- id: JOCO-34
+  text: >-
+    Law before Parliament. Once per turn, after any office except the Chairman has finished acting, the Prime Minister may remove its officeholder. The piece is returned to its supply and the office card is added to the Vacant Offices box.
+  image: JOCO-34
+  name: Board of Control
+- id: JOCO-35
+  text: >-
+    Law before Parliament. Extra Action: After taking any family action(s), you may seek a share. Lower the Company Debt marker to the leftmost space.
+  image: JOCO-35
+  name: Debt Restructure
+- id: JOCO-36
+  text: >-
+    Law before Parliament. Each family member on a prize now earns their family £1 during the Bonuses phase.
+  image: JOCO-36
+  name: Inclosure Acts
+- id: JOCO-37
+  text: >-
+    Law before Parliament. Extra Action: After taking any family action(s) other than enlist writer, you may gain a single writer. The Chairman will always retire during the first step of the London Season.
+  image: JOCO-37
+  name: Tenure Limits
+- id: JOCO-38
+  text: >-
+    Law before Parliament. Regiments no longer add to Company expenses. In attacks against the Company, each unrest is worth +1 strength.
+  image: JOCO-38
+  name: Sepoy Recruitment
+- id: JOCO-39
+  text: >-
+    Law before Parliament. Extra Action: After taking any family action(s), you may buy a shipyard. Fitting player ships now costs £2 for the Manager of Shipping and for private firms.
+  image: JOCO-39
+  name: Ship Subsidy
+- id: JOCO-40
+  text: >-
+    Law before Parliament. Each President's bonus is added to the Company Balance.
+  image: JOCO-40
+  name: Trade Regulations
+- id: JOCO-41
+  text: >-
+    Law before Parliament. All Governors add one die to their dice pool. Failed Administer actions place 2 unrest instead of 1. If the Governor General is in play, they earn an additional £3 as part of their bonus for a successful Govern action. Failed Govern actions place 2 unrest in each region instead of 1.
+  image: JOCO-41
+  name: Zamindar Taxes
+- id: JOCO-42
+  text: >-
+    Law before Parliament. All loot is now added to the Company Balance.
+  image: JOCO-42
+  name: Treasure Reform
+- id: JOCO-43
+  text: >-
+    Law before Parliament. The Director of Trade becomes the Governor General. All Governors become pensioners. Return the Director of Trade and Governor cards to the box. Any Company ships on regions (those unfinished by Governors) are returned to the supply.
+  image: JOCO-43
+  name: Governor General
+- id: JOCO-44
+  text: >-
+    Law before Parliament. If your opportunity token is not on the workshop space and you take the purchase workshop action, pay only £3 (not £5). Note: this does not apply to a workshop purchased with Calico Acts. Furthermore, a player (or the Crown) without an opportunity token will always benefit from this law. Discard this law if deregulation occurs. Note: If deregulation has already occurred, this law may still be passed.
+  image: JOCO-44
+  name: Industry Subsidy
+- id: JOCO-45
+  text: >-
+    Law before Parliament. Players gain an additional £1 for each of their writers placed on an order in India. If the Writer Graft Reform law is in effect, discard it. If voting on deregulation, add 5 to its initial support. Historical note: relaxed restrictions led to cheaper prices on Indian goods in Britain and popular support for broader deregulation.
+  image: JOCO-45
+  name: Writer Privileges
+- id: JOCO-46
+  text: >-
+    Law before Parliament. Extra Action: After taking any family action(s), you may buy a luxury. Players no longer pay window taxes. However, a player with the Tax Collector enterprise may still add a single window tax exempt from this law as per the rules on that card.
+  image: JOCO-46
+  name: Window Tax Repeal
+- id: JOCO-47
+  text: >-
+    Law before Parliament. Immediately after Military Affairs acts, the Prime Minister may demote one Commander to an officer and then appoint a Commander from officers in that army following the rules for hiring and Nepotism.
+  image: JOCO-47
+  name: Military Oversight
+- id: JOCO-48
+  text: >-
+    Law before Parliament. Writer bonuses are paid to the Company Balance track instead. Note: writers still make money from the Windfall event. If the Writer Privileges law is in effect, discard it.
+  image: JOCO-48
+  name: Writer Graft Reform
+- id: JOCO-49
+  text: >-
+    Law before Parliament. Advance the value of Company Shares if possible e.g. from +1/-1 VP to +2/-2 VP. Each Company Debt now costs £2 during Expenses.
+  image: JOCO-49
+  name: Company Aids Government
+- id: JOCO-50
+  text: >-
+    Law before Parliament. If the Company would take any emergency loans the Chairman may discard this card to avoid those loans and cancel any remaining expenses. Note: this means that Standing will not be reduced from emergency loans, but will still be reduced from the Company not meeting expectations.
+  image: JOCO-50
+  name: Royal Protection
+- id: JOCO-51
+  text: >-
+    Dilemma before Parliament. First, the Prime Minister picks one officeholder. If passed: Return officeholder to supply, and add office card to the Vacant Offices box. If failed: Company Standing falls one space. This may cause Company failure.
+  image: JOCO-51
+  name: Public Demands Impeachment!
+- id: JOCO-52
+  text: >-
+    Dilemma before Parliament. Immediately search the discard pile and select one law (you may select a dilemma). Note: cards drawn this turn are not yet in the discard pile. After resolving the vote, shuffle all discards, cards drawn this turn, and this law into the deck. If there are no cards in the discard pile, ignore this card, shuffle it back into the deck, and draw a new law.
+  image: JOCO-52
+  name: Old Ideas Made New!
+- id: JOCO-53
+  text: >-
+    Dilemma before Parliament. If passed: Enact this policy consequence a second time. If failed: The Turmoil event occurs in each home region. Add 1 unrest to every Company-controlled region.
+  image: JOCO-53
+  name: Relief Demanded for Indian Famine!
+- id: JOCO-54
+  text: >-
+    Dilemma before Parliament. If passed: Rotten Boroughs are now only worth one vote each. Votes now cost £2 instead of £1. If failed: Nothing happens.
+  image: JOCO-54
+  name: Masses Demand Franchise!
+- id: JOCO-55
+  text: >-
+    Dilemma before Parliament. If passed: The Prime Minister selects 3 non-extra ships and 3 officers/regiments. Return ships to shipyards or their supply. Officers/regiments are returned to their supplies. If failed: Roll the storm die and resolve a Foreign Invasion event in the home region(s) associated with any sea zone shown (if none, no invasion occurs).
+  image: JOCO-55
+  name: War Against France!
+- id: JOCO-56
+  text: >-
+    Special Session of Parliament. At the start of a turn, the Prime Minister may call a session of Parliament to vote on this law if either Standing or Debt is on a lined space. If either piece is on a space with a star, the session must be called. In either case, no policy is proposed. The initial support of the law depends on the status of Standing and Debt. The Company loses its trade monopoly. Players may now start a firm. Clear half (rounding down) of Company Debt and place the Standing marker on the "S" space on the track. Flip this card. If this law fails, set it aside. The Prime Minister will remain in power and the value of Company shares is advanced.
+  image: JOCO-56
+  name: Deregulation
+- id: JOCO-57
+  text: >-
+    May seek debt up to track max. Taking more than 3 requires the Court's approval. £5 per. Then, allocate Company Balance. Add one to this office's attrition roll.
+  image: JOCO-57
+  name: Chairman
+- id: JOCO-58
+  text: >-
+    May take Special Envoy actions: Dice Pool. £1. Success: Open one order in a region not controlled by the Company or open trade with China. Then, may transfer two pieces.
+  image: JOCO-58
+  name: Director of Trade
+- id: JOCO-59
+  text: >-
+    Fit ships until your office has £2 or less remaining: £2, £3, £5. Fit only if all player ships are fitted. Place fitted ships in any sea zone.
+  image: JOCO-59
+  name: Manager of Shipping
+- id: JOCO-60
+  text: >-
+    May transfer two pieces. Then, assign Officers-in-Training. Lastly, appoint Commanders.
+  image: JOCO-60
+  name: Military Affairs
+- id: JOCO-61
+  text: >-
+    Decide the order of operations. May take Trade actions: Dice Pool. £1 for each other region declared. Success: Fill orders and increase the Company Balance. After a success you may not Trade again this turn.
+  image: JOCO-61
+  name: President of Bombay
+- id: JOCO-62
+  text: >-
+    Decide the order of operations. May take Trade actions: Dice Pool. £1 for each other region declared. Success: Fill orders and increase the Company Balance. After a success you may not Trade again this turn.
+  image: JOCO-62
+  name: President of Madras
+- id: JOCO-63
+  text: >-
+    Decide the order of operations. May take Trade actions: Dice Pool. £1 for each other region declared. Success: Fill orders and increase the Company Balance. After a success you may not Trade again this turn.
+  image: JOCO-63
+  name: President of Bengal
+- id: JOCO-64
+  text: >-
+    First, increase the Company Balance by £3 for each Company-controlled region. Then, may take Govern actions. Dice Pool. £1. After a success you may not Govern again this turn. Always add an unrest in each EIC region for each 6 rolled. Success: You gain £1 per EIC region. Then, for each EIC region either: £2. Failure: unrest in each EIC region.
+  image: JOCO-64
+  name: Governor General
+- id: JOCO-65
+  text: >-
+    May take one Trade in China action: Success. Dice Pool S. Increase Company Balance by £4 per export icon in controlled regions. You gain £1 per export icon in controlled regions.
+  image: JOCO-65
+  name: Superintendent of Trade in China
+- id: JOCO-66
+  text: >-
+    May take Administer actions: Initial Dice Pool 3. Success: You gain £1 (or £2) and: £2 or. Lower after each check. For each Tax after first. Failure.
+  image: JOCO-66
+  name: Governor of Bombay
+- id: JOCO-67
+  text: >-
+    May take Administer actions: Initial Dice Pool 4. Success: You gain £1 (or £2) and: £2 or. Lower after each check. For each Tax after first. Failure.
+  image: JOCO-67
+  name: Governor of Madras
+- id: JOCO-68
+  text: >-
+    May take Administer actions: Initial Dice Pool 4. Success: You gain £1 (or £2) and: £2 or. Lower after each check. For each Tax after first. Failure.
+  image: JOCO-68
+  name: Governor of Bengal
+- id: JOCO-69
+  text: >-
+    May take Administer actions: Initial Dice Pool 3. Success: You gain £1 (or £2) and: £2 or. Lower after each check. For each Tax after first. Failure.
+  image: JOCO-69
+  name: Governor of Punjab
+- id: JOCO-70
+  text: >-
+    May take Administer actions: Initial Dice Pool 4. Success: You gain £1 (or £2) and: £2 or. Lower after each check. For each Tax after first. Failure.
+  image: JOCO-70
+  name: Governor of Delhi
+- id: JOCO-71
+  text: >-
+    May take Administer actions: Initial Dice Pool 3. Success: You gain £1 (or £2) and: £2 or. Lower after each check. For each Tax after first. Failure.
+  image: JOCO-71
+  name: Governor of Maratha
+- id: JOCO-72
+  text: >-
+    May take Administer actions: Initial Dice Pool 3. Success: You gain £1 (or £2) and: £2 or. Lower after each check. For each Tax after first. Failure.
+  image: JOCO-72
+  name: Governor of Hyderabad
+- id: JOCO-73
+  text: >-
+    May take Administer actions: Initial Dice Pool 3. Success: You gain £1 (or £2) and: £2 or. Lower after each check. For each Tax after first. Failure.
+  image: JOCO-73
+  name: Governor of Mysore
+- id: JOCO-74
+  text: >-
+    Company Standing and Debt: Place the Standing marker on the space above £10 expectations. Place the Debt marker on the 0 space. Company Treasuries: Place £3 in every Company treasury. Passed Laws: Place Royal Protection near the area of play. Starting Regiments: Place 1 regiment in the Army of Bombay, 1 in the Army of Madras, and 1 in the Army of Bengal. Starting Company Ships: None.
+  image: JOCO-74
+  name: Early Company
+- id: JOCO-75
+  text: >-
+    Company Standing and Debt: Place the Standing marker on the space above £12 expectations. Place the Debt marker on the 3 space. Company Treasuries: Place £4 in every Company treasury. Passed Laws: Place Calico Acts near the area of play. Starting Regiments: Place 1 regiment in the Army of Bombay, 1 in the Army of Madras, and 1 in the Army of Bengal. Starting Company Ships: Place 1 Company Ship in East Indian. Place the Bengal control token in the Bengal Presidency.
+  image: JOCO-75
+  name: Company Under Siege
+- id: JOCO-76
+  text: >-
+    Company Standing and Debt: Place the Standing marker on the space above £10 expectations. Place the Debt marker on the 0 space. Company Treasuries: Place £3 in every Company treasury. Passed Laws: Place Military Oversight, Deregulation (Debtor's Prison side), and Calico Acts near the area of play. Return Governor General law to box and place its overlay over the Director of Trade. Starting Regiments: Place 2 regiments in each Army. Starting Company Ships: Place 1 Company Ship in each sea zone. Company Shares: Place Company share victory point token (+2/-2 VP side) in the Court of Directors. Place China office to right of board. Place the Bombay/Madras/Bengal control tokens in the matching Presidencies.
+  image: JOCO-76
+  name: Post Monopoly
+- id: JOCO-77
+  text: >-
+    Treat the value of Company shares as if the Company had been successful.
+  image: JOCO-77
+  name: Court of Directors Blameless!
+- id: JOCO-78
+  text: >-
+    Lower each player's score by 1 VP for each of their shipyards.
+  image: JOCO-78
+  name: Careless Shipbuilders Indicted!
+- id: JOCO-79
+  text: >-
+    Do not score workshops. If deregulated, do not score firm shares or pieces in Debtor's Prison.
+  image: JOCO-79
+  name: Industry's Greed Condemned!
+- id: JOCO-80
+  text: >-
+    Lower each player's score by 1 VP for each of their passed law tokens. Then, the Prime Minister lowers their score by 2 VP. The cartoon on this card captures the public's skepticism towards Prime Minister Disraeli's imperial ambitions. The depiction of Disraeli as the villain Abanazar from an adaptation of Aladdin also underlines his Jewish ancestry in ways that demonstrate how racism permeated even anti-imperialist positions.
+  image: JOCO-80
+  name: Parliament Exposed!
+- id: JOCO-81
+  text: >-
+    Lower each player's score by half of the sum of their officers, Commanders, and trophies (rounding down).
+  image: JOCO-81
+  name: Military Rebuked!
+- id: JOCO-82
+  text: >-
+    Lower each player's score by 2 VP for each of their Governors or by 4 VP for the Governor General. Anyone who had a Governor that was removed in Region Loss on the final turn should lower their score by 2 VP for each.
+  image: JOCO-82
+  name: The British Despots of India!
