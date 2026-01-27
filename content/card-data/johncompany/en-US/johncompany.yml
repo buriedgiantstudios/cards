@@ -564,3 +564,63 @@
   name: The British Despots of India!
   tags:
     - Company Failure
+- id: JOCO-83
+  image: JOCO-83
+  name: AI Card 1
+  tags:
+    - AI
+- id: JOCO-84
+  image: JOCO-84
+  name: AI Card 2
+  tags:
+    - AI
+- id: JOCO-85
+  image: JOCO-85
+  name: AI Card 3
+  tags:
+    - AI
+- id: JOCO-86
+  image: JOCO-86
+  name: AI Card 4
+  tags:
+    - AI
+- id: JOCO-87
+  image: JOCO-87
+  name: AI Card 5
+  tags:
+    - AI
+- id: JOCO-88
+  image: JOCO-88
+  name: AI Card 6
+  tags:
+    - AI
+- id: JOCO-89
+  image: JOCO-89
+  name: AI Card 7
+  tags:
+    - AI
+- id: JOCO-90
+  image: JOCO-90
+  name: AI Card 8
+  tags:
+    - AI
+- id: JOCO-91
+  image: JOCO-91
+  name: AI Card 9
+  tags:
+    - AI
+- id: JOCO-92
+  image: JOCO-92
+  name: AI Card 10
+  tags:
+    - AI
+- id: JOCO-93
+  image: JOCO-93
+  name: AI Card 11
+  tags:
+    - AI
+- id: JOCO-94
+  image: JOCO-94
+  name: Commander Actions
+  tags:
+    - Aid
