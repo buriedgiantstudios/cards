@@ -90,6 +90,15 @@ Pages:
     ComplexityLabel: Complexity
     ComplexityPlaceholder: Complexity
 
+    PowerLabel: Power
+    PowerPlaceholder: Power
+
+    RetirementDiscountLabel: Retirement Discount
+    RetirementDiscountPlaceholder: Retirement Discount
+
+    VictoryPointsLabel: Victory Points
+    VictoryPointsPlaceholder: Victory Points
+
     NumberText: If left unspecified, will not be included in the search query
 
     Operators:
