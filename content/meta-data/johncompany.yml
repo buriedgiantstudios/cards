@@ -32,7 +32,7 @@ cardTemplate:
       </div>
     {{/if}}
 
-    {{#if meta.power }}
+    {{#if meta.victorypoints }}
       <div>
         <p>Victory Points: {{ meta.victorypoints }}
       </div>
