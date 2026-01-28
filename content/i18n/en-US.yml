@@ -99,6 +99,9 @@ Pages:
     VictoryPointsLabel: Victory Points
     VictoryPointsPlaceholder: Victory Points
 
+    StartingSupportLabel: Starting Support
+    StartingSupportPlaceholder: Starting Support
+
     NumberText: If left unspecified, will not be included in the search query
 
     Operators:

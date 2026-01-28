@@ -13,6 +13,10 @@ filters:
   - name: Retirement Discount
     prop: discount
     type: number
+  
+  - name: Starting Support
+    prop: support
+    type: number
 
 subproducts:
   - name: John Company 2nd Edition
@@ -41,6 +45,12 @@ cardTemplate:
     {{#if meta.discount }}
       <div>
         <p>Retirement Discount: {{ meta.discount }}
+      </div>
+    {{/if}}
+
+    {{#if meta.support }}
+      <div>
+        <p>Starting Support: {{ meta.support }}
       </div>
     {{/if}}
 
