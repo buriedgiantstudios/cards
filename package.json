@@ -22,7 +22,7 @@
     "copy:headers": "ts-node scripts/copy-headers",
     "preserve": "npm run build",
     "data:build": "concurrently --prefix=none \"npm run build:*\"",
-    "data:serve": "serve -l 8091 dist",
+    "data:serve": "serve --cors -l 8091 dist",
     "data:watch": "nodemon --watch content --ext yml --exec \"npm run data:build\"",
     "start": "concurrently \"npm run data:*\""
   },
