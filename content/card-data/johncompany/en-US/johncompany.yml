@@ -201,6 +201,7 @@
   tags:
     - Prestige
     - Enterprise
+    - Shipyard
 - id: JOCO-PRESTIGE-22
   text: >-
     With the Prime Minister's consent, you may treat the proposed policy as if it includes an additional window tax. This must be decided before voting begins. If you win a vote as the Opposition Leader, you may add an additional window tax to the policy you decide.
@@ -209,6 +210,7 @@
   tags:
     - Prestige
     - Enterprise
+    - Workshop
 - id: JOCO-PRESTIGE-23
   text: >-
     If voting on a manufacturing or shipping policy:
@@ -217,6 +219,7 @@
   tags:
     - Prestige
     - Enterprise
+    - Workshop
 - id: JOCO-PRESTIGE-24
   text: >-
     Each time any player purchases a workshop or a regiment is added to an Army, you take £1 from the bank.
@@ -225,6 +228,7 @@
   tags:
     - Prestige
     - Enterprise
+    - Workshop
 - id: JOCO-PRESTIGE-25
   text: >-
     When seeking shares, treat every space as if it costs £1. Other players may use this power with your permission.
@@ -233,6 +237,7 @@
   tags:
     - Prestige
     - Enterprise
+    - Luxury
 - id: JOCO-PRESTIGE-26
   text: >-
     If voting on a Social or Company share policy:
@@ -241,30 +246,37 @@
   tags:
     - Prestige
     - Enterprise
+    - Luxury
 - id: JOCO-PRESTIGE-27
   image: JOCO-27
   name: Scottish Castle
   tags:
     - Prestige
     - Enterprise
+    - Luxury
+  meta:
+    power: 3
 - id: JOCO-PRESTIGE-28
   image: JOCO-28
   name: Rotten Borough
   tags:
     - Prestige
     - Enterprise
+    - Luxury
 - id: JOCO-PRESTIGE-29
   image: JOCO-29
   name: Rotten Borough
   tags:
     - Prestige
     - Enterprise
+    - Luxury
 - id: JOCO-PRESTIGE-30
   image: JOCO-30
   name: Rotten Borough
   tags:
     - Prestige
     - Enterprise
+    - Luxury
 - id: JOCO-LAW-31
   text: >-
     Extra Action: After taking any family action(s), you may buy a workshop. When passed, players gain £2 for each manufacturing enterprise they own. At the start of the Revenue phase, lower the Company Balance by £1 for every £7. Skip this penalty after deregulation.
@@ -272,6 +284,9 @@
   name: Calico Acts
   tags:
     - Law
+    - Workshop Policy
+  meta:
+    support: 1
 - id: JOCO-LAW-32
   text: >-
     Trade in China is worth £5 per export icon. If the office has not been created, create the Superintendent of Trade in China office.
@@ -279,6 +294,9 @@
   name: Envoy to China
   tags:
     - Law
+    - Shipyard Policy
+  meta:
+    support: -3
 - id: JOCO-LAW-33
   text: >-
     Extra Action: After taking any family action(s), you may enlist an officer. Place 2 regiments in each Army.
@@ -286,6 +304,9 @@
   name: Army Spending
   tags:
     - Law
+    - Tax Policy
+  meta:
+    support: -4
 - id: JOCO-LAW-34
   text: >-
     Once per turn, after any office except the Chairman has finished acting, the Prime Minister may remove its officeholder. The piece is returned to its supply and the office card is added to the Vacant Offices box.
@@ -293,6 +314,9 @@
   name: Board of Control
   tags:
     - Law
+    - Power Policy
+  meta:
+    support: 0
 - id: JOCO-LAW-35
   text: >-
     Extra Action: After taking any family action(s), you may seek a share. Lower the Company Debt marker to the leftmost space.
@@ -300,6 +324,9 @@
   name: Debt Restructure
   tags:
     - Law
+    - Tax Policy
+  meta:
+    support: -3
 - id: JOCO-LAW-36
   text: >-
     Each family member on a prize now earns their family £1 during the Bonuses phase.
@@ -307,6 +334,9 @@
   name: Inclosure Acts
   tags:
     - Law
+    - Bonus Policy
+  meta:
+    support: -4
 - id: JOCO-LAW-37
   text: >-
     Extra Action: After taking any family action(s) other than enlist writer, you may gain a single writer. The Chairman will always retire during the first step of the London Season.
@@ -314,6 +344,9 @@
   name: Tenure Limits
   tags:
     - Law
+    - Power Policy
+  meta:
+    support: 0
 - id: JOCO-LAW-38
   text: >-
     Regiments no longer add to Company expenses. In attacks against the Company, each unrest is worth +1 strength.
@@ -321,6 +354,9 @@
   name: Sepoy Recruitment
   tags:
     - Law
+    - Bonus Policy
+  meta:
+    support: -3
 - id: JOCO-LAW-39
   text: >-
     Extra Action: After taking any family action(s), you may buy a shipyard. Fitting player ships now costs £2 for the Manager of Shipping and for private firms.
@@ -328,6 +364,9 @@
   name: Ship Subsidy
   tags:
     - Law
+    - Tax Policy
+  meta:
+    support: -3
 - id: JOCO-LAW-40
   text: >-
     Each President's bonus is added to the Company Balance.
@@ -335,6 +374,9 @@
   name: Trade Regulations
   tags:
     - Law
+    - Shipyard Policy
+  meta:
+    support: -1
 - id: JOCO-LAW-41
   text: >-
     All Governors add one die to their dice pool. Failed Administer actions place 2 unrest instead of 1. If the Governor General is in play, they earn an additional £3 as part of their bonus for a successful Govern action. Failed Govern actions place 2 unrest in each region instead of 1.
@@ -342,6 +384,9 @@
   name: Zamindar Taxes
   tags:
     - Law
+    - Share Policy
+  meta:
+    support: -2
 - id: JOCO-LAW-42
   text: >-
     All loot is now added to the Company Balance.
@@ -349,6 +394,9 @@
   name: Treasure Reform
   tags:
     - Law
+    - Share Policy
+  meta:
+    support: -3
 - id: JOCO-LAW-43
   text: >-
     The Director of Trade becomes the Governor General. All Governors become pensioners. Return the Director of Trade and Governor cards to the box. Any Company ships on regions (those unfinished by Governors) are returned to the supply.
@@ -356,6 +404,9 @@
   name: Governor General
   tags:
     - Law
+    - Shipyard Policy
+  meta:
+    support: 1
 - id: JOCO-LAW-44
   text: >-
     If your opportunity token is not on the workshop space and you take the purchase workshop action, pay only £3 (not £5). Note: this does not apply to a workshop purchased with Calico Acts. Furthermore, a player (or the Crown) without an opportunity token will always benefit from this law. Discard this law if deregulation occurs. Note: If deregulation has already occurred, this law may still be passed.
@@ -363,6 +414,9 @@
   name: Industry Subsidy
   tags:
     - Law
+    - Tax Policy
+  meta:
+    support: -3
 - id: JOCO-LAW-45
   text: >-
     Players gain an additional £1 for each of their writers placed on an order in India. If the Writer Graft Reform law is in effect, discard it. If voting on deregulation, add 5 to its initial support. Historical note: relaxed restrictions led to cheaper prices on Indian goods in Britain and popular support for broader deregulation.
@@ -370,6 +424,9 @@
   name: Writer Privileges
   tags:
     - Law
+    - Workshop Policy
+  meta:
+    support: -3
 - id: JOCO-LAW-46
   text: >-
     Extra Action: After taking any family action(s), you may buy a luxury. Players no longer pay window taxes. However, a player with the Tax Collector enterprise may still add a single window tax exempt from this law as per the rules on that card.
@@ -377,6 +434,9 @@
   name: Window Tax Repeal
   tags:
     - Law
+    - Luxury Policy
+  meta:
+    support: -5
 - id: JOCO-LAW-47
   text: >-
     Immediately after Military Affairs acts, the Prime Minister may demote one Commander to an officer and then appoint a Commander from officers in that army following the rules for hiring and Nepotism.
@@ -384,6 +444,9 @@
   name: Military Oversight
   tags:
     - Law
+    - Share Policy
+  meta:
+    support: 5
 - id: JOCO-LAW-48
   text: >-
     Writer bonuses are paid to the Company Balance track instead. Note: writers still make money from the Windfall event. If the Writer Privileges law is in effect, discard it.
@@ -391,6 +454,9 @@
   name: Writer Graft Reform
   tags:
     - Law
+    - Power Policy
+  meta:
+    support: 0
 - id: JOCO-LAW-49
   text: >-
     Advance the value of Company Shares if possible e.g. from +1/-1 VP to +2/-2 VP. Each Company Debt now costs £2 during Expenses.
@@ -398,6 +464,9 @@
   name: Company Aids Government
   tags:
     - Law
+    - Power Policy
+  meta:
+    support: 1
 - id: JOCO-LAW-50
   text: >-
     If the Company would take any emergency loans the Chairman may discard this card to avoid those loans and cancel any remaining expenses. Note: this means that Standing will not be reduced from emergency loans, but will still be reduced from the Company not meeting expectations.
@@ -405,6 +474,9 @@
   name: Royal Protection
   tags:
     - Law
+    - Luxury Policy
+  meta:
+    support: 3
 - id: JOCO-LAW-51
   text: >-
     First, the Prime Minister picks one officeholder. If passed: Return officeholder to supply, and add office card to the Vacant Offices box. If failed: Company Standing falls one space. This may cause Company failure.
@@ -413,6 +485,9 @@
   tags:
     - Law
     - Dilemma
+    - Power Policy
+  meta:
+    support: 1
 - id: JOCO-LAW-52
   text: >-
     Immediately search the discard pile and select one law (you may select a dilemma). Note: cards drawn this turn are not yet in the discard pile. After resolving the vote, shuffle all discards, cards drawn this turn, and this law into the deck. If there are no cards in the discard pile, ignore this card, shuffle it back into the deck, and draw a new law.
@@ -429,6 +504,9 @@
   tags:
     - Law
     - Dilemma
+    - Tax Policy
+  meta:
+    support: 1
 - id: JOCO-LAW-54
   text: >-
     If passed: Rotten Boroughs are now only worth one vote each. Votes now cost £2 instead of £1. If failed: Nothing happens.
@@ -437,6 +515,9 @@
   tags:
     - Law
     - Dilemma
+    - Luxury Policy
+  meta:
+    support: 1
 - id: JOCO-LAW-55
   text: >-
     If passed: The Prime Minister selects 3 non-extra ships and 3 officers/regiments. Return ships to shipyards or their supply. Officers/regiments are returned to their supplies. If failed: Roll the storm die and resolve a Foreign Invasion event in the home region(s) associated with any sea zone shown (if none, no invasion occurs).
@@ -445,6 +526,9 @@
   tags:
     - Law
     - Dilemma
+    - Tax Policy
+  meta:
+    support: 1
 - id: JOCO-LAW-56
   text: >-
     Special Session of Parliament. At the start of a turn, the Prime Minister may call a session of Parliament to vote on this law if either Standing or Debt is on a lined space. If either piece is on a space with a star, the session must be called. In either case, no policy is proposed. The initial support of the law depends on the status of Standing and Debt. The Company loses its trade monopoly. Players may now start a firm. Clear half (rounding down) of Company Debt and place the Standing marker on the "S" space on the track. Flip this card. If this law fails, set it aside. The Prime Minister will remain in power and the value of Company shares is advanced.
