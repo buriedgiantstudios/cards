@@ -14,8 +14,6 @@
   name: Company Fraud
   tags:
     - Blackmail
-  meta:
-    power: 0
 - id: JOCO-BLACKMAIL-3
   text: >-
     Play when retiring one or more pieces (in London Season or Final Scoring). Act as if you also have retirement discounts equal to those on all other players' spouses.
@@ -59,8 +57,6 @@
   name: Envoy to the Mughals
   tags:
     - Blackmail
-  meta:
-    power: 0
 - id: JOCO-BLACKMAIL-8
   text: >-
     Play after a check to force a President or firm to reroll any Trade roll with half as many dice, rounding down. If reduced to zero dice, treat roll as failure.
@@ -153,7 +149,6 @@
     - Spouse
   meta:
     power: 2
-    discount: 0
 - id: JOCO-PRESTIGE-17
   text: >-
     *You cannot transfer this card.* You may no longer enlist officers as your family action. Note: the extra officer from the Army Spending law is still permitted.
