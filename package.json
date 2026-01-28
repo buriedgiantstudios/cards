@@ -19,16 +19,21 @@
     "validate:card-data": "ts-node scripts/validate-cards",
     "finalize:version": "ts-node scripts/finalize-version",
     "finalize:json": "ts-node scripts/finalize-json",
-    "copy:headers": "ts-node scripts/copy-headers"
+    "copy:headers": "ts-node scripts/copy-headers",
+    "preserve": "npm run build",
+    "data:build": "concurrently --prefix=none \"npm run build:*\"",
+    "data:serve": "serve -l 8091 dist",
+    "data:watch": "nodemon --watch content --ext yml --exec \"npm run data:build\"",
+    "start": "concurrently \"npm run data:*\""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/limelightcards/cards.git"
+    "url": "git+https://github.com/buriedgiantstudios/cards.git"
   },
   "bugs": {
-    "url": "https://github.com/limelightcards/cards/issues"
+    "url": "https://github.com/buriedgiantstudios/cards/issues"
   },
-  "homepage": "https://github.com/limelightcards/cards#readme",
+  "homepage": "https://github.com/buriedgiantstudios/cards#readme",
   "dependencies": {
     "compress-json": "^2.1.2",
     "fs-extra": "^10.1.0",
@@ -44,6 +49,8 @@
     "imagemin": "^7.0.1",
     "imagemin-webp": "^6.1.0",
     "jimp": "^0.22.12",
-    "rimraf": "^5.0.5"
+    "nodemon": "^3.1.11",
+    "rimraf": "^5.0.5",
+    "serve": "^14.2.5"
   }
 }
