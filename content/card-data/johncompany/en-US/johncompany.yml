@@ -97,7 +97,7 @@
     - Prestige
     - Spouse
   meta:
-    points: 2
+    victorypoints: 2
     discount: 2
 - id: JOCO-PRESTIGE-12
   text: >-
@@ -108,7 +108,7 @@
     - Prestige
     - Spouse
   meta:
-    points: 2
+    victorypoints: 2
     discount: 1
 - id: JOCO-PRESTIGE-13
   text: >-
@@ -119,7 +119,7 @@
     - Prestige
     - Spouse
   meta:
-    points: 2
+    victorypoints: 2
     discount: 2
 - id: JOCO-PRESTIGE-14
   text: >-
@@ -130,7 +130,7 @@
     - Prestige
     - Spouse
   meta:
-    points: 3
+    victorypoints: 3
     discount: 1
 - id: JOCO-PRESTIGE-15
   text: >-
@@ -141,7 +141,7 @@
     - Prestige
     - Spouse
   meta:
-    points: 2
+    victorypoints: 2
     discount: 1
 - id: JOCO-PRESTIGE-16
   text: >-
@@ -163,7 +163,7 @@
     - Prestige
     - Spouse
   meta:
-    points: 2
+    victorypoints: 2
     discount: 1
 - id: JOCO-PRESTIGE-18
   text: >-
@@ -174,7 +174,7 @@
     - Prestige
     - Spouse
   meta:
-    points: 2
+    victorypoints: 2
     discount: 2
 - id: JOCO-PRESTIGE-19
   text: >-
@@ -185,7 +185,7 @@
     - Prestige
     - Spouse
   meta:
-    points: 3
+    victorypoints: 3
     discount: 2
 - id: JOCO-RESTIGE-20
   text: >-
@@ -196,7 +196,7 @@
     - Prestige
     - Spouse
   meta:
-    points: 3
+    victorypoints: 3
     discount: 2
 - id: JOCO-PRESTIGE-21
   text: >-

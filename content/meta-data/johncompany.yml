@@ -7,7 +7,7 @@ filters:
     type: number
 
   - name: Victory Points
-    prop: points
+    prop: victorypoints
     type: number
 
   - name: Retirement Discount
@@ -34,7 +34,7 @@ cardTemplate:
 
     {{#if meta.power }}
       <div>
-        <p>Victory Points: {{ meta.points }}
+        <p>Victory Points: {{ meta.victorypoints }}
       </div>
     {{/if}}
 
