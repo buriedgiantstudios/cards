@@ -25,7 +25,7 @@ This repository obtains and reformats cards for the BGS Spotlight application.
 
 ### Products
 
-1. Create a new file matching the game name in `content/meta-data`
+1. Create a new file matching the game name in `content/meta-data` (subproduct ids must be different from the game id and unique)
 1. Create a new folder in `content/card-data` (the name should match the `gameName` in the `meta-data` file)
 1. Create a new folder in `content/card-images` (the name should match the `gameName` in the `meta-data` file)
 1. Create a new folder in `content/card-symbols` (the name should match the `gameName` in the `meta-data` file)
