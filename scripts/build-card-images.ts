@@ -11,12 +11,14 @@ const copyAllCardImages = async () => {
 
   const productLocales = new Set();
 
-  allCardImages.forEach((f) => {
-    const [, , game, locale, filename] = f.split(path.sep);
-    filenameMapping[f] = `${game}/${locale}/${filename}`;
+  allCardImages
+    .filter((f) => f.endsWith('.png'))
+    .forEach((f) => {
+      const [, , game, locale, filename] = f.split(path.sep);
+      filenameMapping[f] = `${game}/${locale}/${filename}`;
 
-    productLocales.add(`${game}/${locale}`);
-  });
+      productLocales.add(`${game}/${locale}`);
+    });
 
   productLocales.forEach((prodLocale) => {
     fs.ensureDirSync(`./dist/cards/${prodLocale}`);

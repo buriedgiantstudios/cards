@@ -10,14 +10,16 @@ const readAllChangelogs = async () => {
 
   const allChangelogData = {};
 
-  allChangelogFiles.forEach((f) => {
-    const [, , game] = f.split(path.sep);
-    const locale = path.basename(f, '.yml');
-    const changelogs = yaml.load(fs.readFileSync(f));
+  allChangelogFiles
+    .filter((f) => f.endsWith('.yml'))
+    .forEach((f) => {
+      const [, , game] = f.split(path.sep);
+      const locale = path.basename(f, '.yml');
+      const changelogs = yaml.load(fs.readFileSync(f));
 
-    allChangelogData[game] ??= {};
-    allChangelogData[game][locale] = changelogs;
-  });
+      allChangelogData[game] ??= {};
+      allChangelogData[game][locale] = changelogs;
+    });
 
   fs.writeJsonSync(`dist/changelog.json`, allChangelogData);
   console.log(`Got ${allChangelogFiles.length} changelog files!`);

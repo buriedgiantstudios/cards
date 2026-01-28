@@ -10,14 +10,16 @@ const readAllFAQ = async () => {
 
   const allFAQData = {};
 
-  allFAQFiles.forEach((f) => {
-    const [, , game] = f.split(path.sep);
-    const locale = path.basename(f, '.yml');
-    const faqs = yaml.load(fs.readFileSync(f));
+  allFAQFiles
+    .filter((f) => f.endsWith('.yml'))
+    .forEach((f) => {
+      const [, , game] = f.split(path.sep);
+      const locale = path.basename(f, '.yml');
+      const faqs = yaml.load(fs.readFileSync(f));
 
-    allFAQData[game] ??= {};
-    allFAQData[game][locale] = faqs;
-  });
+      allFAQData[game] ??= {};
+      allFAQData[game][locale] = faqs;
+    });
 
   fs.writeJsonSync(`dist/faq.json`, allFAQData);
   console.log(`Got ${allFAQFiles.length} FAQ files!`);

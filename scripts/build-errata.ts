@@ -10,14 +10,16 @@ const readAllErrata = async () => {
 
   const allErrataData = {};
 
-  allErrataFiles.forEach((f) => {
-    const [, , game] = f.split(path.sep);
-    const locale = path.basename(f, '.yml');
-    const faqs = yaml.load(fs.readFileSync(f));
+  allErrataFiles
+    .filter((f) => f.endsWith('.yml'))
+    .forEach((f) => {
+      const [, , game] = f.split(path.sep);
+      const locale = path.basename(f, '.yml');
+      const faqs = yaml.load(fs.readFileSync(f));
 
-    allErrataData[game] ??= {};
-    allErrataData[game][locale] = faqs;
-  });
+      allErrataData[game] ??= {};
+      allErrataData[game][locale] = faqs;
+    });
 
   fs.writeJsonSync(`dist/errata.json`, allErrataData);
   console.log(`Got ${allErrataFiles.length} errata files!`);

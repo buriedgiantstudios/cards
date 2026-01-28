@@ -27,6 +27,7 @@ const formatCard = (card) => {
 const readAllCards = async () => {
   const allCardFiles = await readdir('./content/card-data');
   const allCards = allCardFiles
+    .filter((f) => f.endsWith('.yml'))
     .map((f) => {
       const cards = yaml.load(fs.readFileSync(f));
 
