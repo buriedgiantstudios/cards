@@ -1,6 +1,10 @@
 # BGS Cards
 
-This repository obtains and reformats cards for the BGS Spotlight application.
+Hello! If you are interested in contributing to the Rules Library for Buried Giant, you can do so in two ways:
+- If you have a card issue, please open up an Issue.
+- If you have a fix to propose, please open up a Pull Request. All of the relevant data for cards contained in `content/card-data` for card text, `content/errata` for errata, `content/faq` for frequently asked questions. 
+
+If you're interested in forking this code and using it yourself, you'll find what you need below.
 
 ## Requirements
 
