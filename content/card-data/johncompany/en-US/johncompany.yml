@@ -187,7 +187,7 @@
   meta:
     victorypoints: 3
     discount: 2
-- id: JOCO-RESTIGE-20
+- id: JOCO-PRESTIGE-20
   text: >-
     *You cannot transfer this card.* Act as if your enterprises no longer have vote icons. Remove your "Vote with my Enterprises" promise from the game, even if it is owned by another player. Any enterprises you transfer to another player cannot be used to vote with that turn.
   image: JOCO-20
