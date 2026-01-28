@@ -16,7 +16,7 @@ filters:
 
 subproducts:
   - name: John Company 2nd Edition
-    id: johncompany
+    id: johncompany2nd
     desc: >
       John Company is a game about being the worst.
 
