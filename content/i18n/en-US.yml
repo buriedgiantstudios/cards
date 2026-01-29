@@ -14,6 +14,7 @@ Common:
     Oath: Oath
     Arcs: Arcs
     John Company: John Company
+    Pax Pamir: Pax Pamir
 
 Meta:
   Title: 'Buried Giant Studios Card Library'
@@ -101,6 +102,9 @@ Pages:
 
     StartingSupportLabel: Starting Support
     StartingSupportPlaceholder: Starting Support
+
+    RankLabel: Starting Support
+    RankPlaceholder: Rank
 
     NumberText: If left unspecified, will not be included in the search query
 
