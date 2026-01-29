@@ -1,0 +1,1604 @@
+- id: PAXP-1
+  image: PAXP-1
+  name: Mohan Lal
+  meta:
+    rank: 3
+  tags:
+    - Kabul
+    - Intelligence
+    - Russian Trophy
+  text: >-
+    *"You all tell yourselves all sorts of fairy stories: you are here to sell
+    us your wonderful British goods, you want to set us free, you want us to
+    grow up...but [you came here] for one reason. To surrender [our kingdom],
+    to give it up. That is the only reason."*<br><br>
+    **Indispensable Advisors:** Your spies cannot be removed in battles with other spies.
+- id: PAXP-2
+  image: PAXP-2
+  name: Jan-Fishan Khan
+  meta:
+    rank: 2
+  tags:
+    - Kabul
+    - Intelligence
+    - Russian Trophy
+  text: >-
+    *Served Shah Shuja and the British during the first Anglo-Afghan War. For
+    his service he was given his name which means "scatterer of souls" from a
+    Sufi couplet: "If I had a thousand lives I would scatter them all at your
+    blessed feet."*
+- id: PAXP-3
+  image: PAXP-3
+  name: Prince Akbar Khan
+  meta:
+    rank: 2
+  tags:
+    - Kabul
+    - Intelligence
+    - Afghan Patriot
+  text: >-
+    *Son of Dost Mohammad and Afghan hero, Akbar Khan led a revolt in Kabul
+    against the British garrison. Later he helped defeat General Elphinstone's
+    force. He famously captured and killed William
+    Macnaghten.*<br><br>
+    **Insurrection:** After resolving a Dominance Check,
+    place two Afghan armies in Kabul.
+- id: PAXP-4
+  image: PAXP-4
+  name: Charles Stoddart
+  meta:
+    rank: 1
+  tags:
+    - Kabul
+    - Intelligence
+    - Afghan Trophy
+  text: >-
+    *Stoddart was dispatched to Bukhara in an attempt to convince Nasrullah
+    Khan to free Russian slaves and form a treaty with Britain. Upon arriving,
+    he was arrested and eventually beheaded. His death caused a sensation in
+    Britain.*
+- id: PAXP-5
+  image: PAXP-5
+  name: Shah Shuja Durrani
+  meta:
+    rank: 1
+  tags:
+    - Kabul
+    - Political
+    - Afghan Trophy
+  text: >-
+    *King of Afghanistan, deposed in 1809. He later traded the 793 carat
+    Koh-i-Noor diamond to gain his freedom. The British returned him to the
+    throne in 1839, which he held for just three years before his
+    assassination.*<br><br>
+    **Claim of Ancient Lineage:** When you take the tax action, act as if you
+    rule every region.
+- id: PAXP-6
+  image: PAXP-6
+  name: Aminullah Khan Logari
+  meta:
+    rank: 1
+  tags:
+    - Kabul
+    - Political
+    - Afghan Patriot
+  text: >-
+    *During the reign of Shah Zaman, he was a prominent governor, who
+    maintained his power even as the Durrani emperors were ousted. Though
+    initially open to Shah Shuja's restoration, Logari became dissatisfied with
+    British participation in Afghan politics.*
+- id: PAXP-7
+  image: PAXP-7
+  name: Dost Mohammad
+  meta:
+    rank: 2
+  tags:
+    - Kabul
+    - Political
+  text: >-
+    *Twice king of Afghanistan, Dost Mohammad was born to a prominent family in
+    the service of the Durrani Empire. He was exiled to British India after
+    being usurped by Shah Shuja and the British. He later returned to Kabul and
+    ruled until his death in 1863.*
+- id: PAXP-8
+  image: PAXP-8
+  name: Kabul Bazaar
+  meta:
+    rank: 1
+  tags:
+    - Kabul
+    - Economic
+  text: >-
+    *Though part of the northern branch of the Silk Road, Afghanistan rarely
+    consumed international goods as traders struggled to generate demand. By
+    the nineteenth century, most of the commerce in the country took place in
+    seasonal markets that capitalized on migration patterns.*
+- id: PAXP-9
+  image: PAXP-9
+  name: Afghan Handicrafts
+  meta:
+    rank: 1
+  tags:
+    - Kabul
+    - Economic
+  text: >-
+    *Afghan crafts such as weaving, pottery, and metalwork all reflected the
+    cosmopolitan history of the country. Ancient Islamic motifs could be woven
+    into designs that were both political and aesthetic. These goods were often
+    produced at home and then taken to market for sale during yearly
+    migrations.*
+- id: PAXP-10
+  image: PAXP-10
+  name: Balkh Arsenic Mine
+  meta:
+    rank: 1
+  tags:
+    - Kabul
+    - Economic
+  text: >-
+    *Commonly associated with its lethal properties, Arsenic has many other
+    applications. In Afghanistan, it was used in fabric dyes to brighten colors
+    and could be combined with black pepper to make a popular British
+    anti-venom called the Tanjore pill.*
+- id: PAXP-11
+  image: PAXP-11
+  name: Lapis Lazuli Mine
+  meta:
+    rank: 2
+  tags:
+    - Kabul
+    - Economic
+    - Afghan Patriot
+  text: >-
+    *Lapis lazuli has been mined in northwestern Afghanistan for nearly nine
+    thousand years. Prized for its intense blue color, the stone was used in
+    highend Afghan products, and has been found in ancient Egyptian tombs and
+    throughout Europe and Asia.*
+- id: PAXP-12
+  image: PAXP-12
+  name: City of Ghazni
+  meta:
+    rank: 3
+  tags:
+    - Kabul
+    - Economic
+  text: >-
+    *The ancient capital of the Ghaznavid Empire, which once extended from
+    central Persia to the Punjab. By the nineteenth century, Ghazni was largely
+    in decline, though it still remained a center of trade and was critical to
+    the logistical challenges facing an Afghan state.*
+- id: PAXP-13
+  image: PAXP-13
+  name: Ghilzai Nomads
+  meta:
+    rank: 2
+  tags:
+    - Kabul
+    - Economic
+    - Russian Trophy
+  text: >-
+    *The Ghilzai people form the largest portion of the Pashtun population with
+    concentrations in central and southern Afghanistan. Many tribes belonging
+    to this group lived nomadically, and they formed an important element of
+    the region's cultural and commercial foundation.*
+- id: PAXP-14
+  image: PAXP-14
+  name: Money Lenders
+  meta:
+    rank: 2
+  tags:
+    - Kabul
+    - Economic
+  text: >-
+    *Because of the scarcity of physical currency, credit was often the only
+    lubricant in local economies and allowed Afghanistan's small business class
+    to stay liquid and respond to shortages that were endemic to the seasonal
+    nature of the Afghan economy.*
+- id: PAXP-15
+  image: PAXP-15
+  name: Durrani Royal Guard
+  meta:
+    rank: 1
+  tags:
+    - Kabul
+    - Military
+  text: >-
+    *After the death of Ahmad Shah, his son Timur moved the capital from
+    Kandahar to Kabul and recruited Qizilbash, Shia colonists from Persia, to
+    form a Royal Guard which he felt he could trust more than one made up of
+    Pashtuns.*<br><br>
+    **Bodyguards:** Your political cards cannot be targets of
+    the betray action.
+- id: PAXP-16
+  image: PAXP-16
+  name: Bala Hissar
+  meta:
+    rank: 1
+  tags:
+    - Kabul
+    - Military
+  text: >-
+    *For over a thousand years the Bala Hissar was the central architectural
+    feature of Kabul. During the Durrani Empire, the palace-fortress also
+    served as the seat of political power in the region. The building was
+    largely destroyed by an armory explosion during the British occupation in
+    1879.*
+- id: PAXP-17
+  image: PAXP-17
+  name: Citadel of Ghazni
+  meta:
+    rank: 1
+  tags:
+    - Kabul
+    - Military
+  text: >-
+    *The "key" to Kabul, this citadel south of the Afghan capital overlooked
+    vital supply routes. It was captured by the British during the first
+    Anglo-Afghan war.*<br><br>
+    **Citadel:** Your tribes in Kabul cannot be
+    attacked.
+- id: PAXP-18
+  image: PAXP-18
+  name: Harry Flashman
+  meta:
+    rank: 1
+  tags:
+    - Punjab
+    - Intelligence
+  text: >-
+    *The fictional creation of Thomas Hughes, Sir Harry Paget Flashman was a
+    scoundrel, a coward, and a brilliant, charming solider. His first fictional
+    adventure was set during the first Anglo-Afghan War. While Flashman never
+    existed, he embodied an ethos widespread in the British imagination.*
+- id: PAXP-19
+  image: PAXP-19
+  name: Eldred Pottinger
+  meta:
+    rank: 2
+  tags:
+    - Punjab
+    - Intelligence
+    - Russian Trophy
+  text: >-
+    *While traveling through Asia in disguise, Pottinger found the city of
+    Herat besieged by Persian forces. He revealed himself to the local
+    commander and helped the Afghan forces defeat the Persians, though Afghan
+    histories dispute his role in lifting the siege.*
+- id: PAXP-20
+  image: PAXP-20
+  name: Henry Rawlinson
+  meta:
+    rank: 1
+  tags:
+    - Punjab
+    - Intelligence
+    - British Patriot
+    - Russian Trophy
+  text: >-
+    *Army officer, politician, and orientalist, Rawlinson advocated for a
+    larger role for Afghanistan in Britain's foreign policy. He served as a
+    political agent in Kandahar and fought in the First Anglo-Afghan war.*
+- id: PAXP-21
+  image: PAXP-21
+  name: Alexander Burnes
+  meta:
+    rank: 2
+  tags:
+    - Punjab
+    - Intelligence
+    - Afghan Trophy
+  text: >-
+    *Burnes joined the East India Company at 16 and quickly rose through the
+    ranks, aggravating senior operatives like Wade. He advised the British to
+    support Dost Mohammad, but was rebuked by Macnaghten. He nonetheless aided
+    the British coup and was killed when a mob overtook his home in
+    Kabul.*<br><br>
+    **Strange Bedfellows:** For spy travel, you treat cards that
+    share a region as adjacent.
+- id: PAXP-22
+  image: PAXP-22
+  name: George Hayward
+  meta:
+    rank: 1
+  tags:
+    - Punjab
+    - Intelligence
+    - British Patriot
+    - Russian Trophy
+  text: >-
+    *The Royal Geographical Society was primarily apolitical, but, under the
+    leadership of Rawlinson (then its vice president), Hayward was sent on a
+    politicallymotivated mission to find the source of the Oxus River that
+    proved fatal. His death was likely an act of political retribution.*
+- id: PAXP-23
+  image: PAXP-23
+  name: Henry Pottinger
+  meta:
+    rank: 1
+  tags:
+    - Punjab
+    - Intelligence
+    - British Patriot
+    - Russian Trophy
+  text: >-
+    *Uncle of Eldred Pottinger, Henry Pottinger led an expedition to
+    Baluchistan and helped map Persia and western India. He would later replace
+    Charles Elliot as the chief diplomat to China and oversaw the Treaty of
+    Nanking and the acquisition of Hong Kong.*
+- id: PAXP-24
+  image: PAXP-24
+  name: Ranjit Singh
+  meta:
+    rank: 2
+  tags:
+    - Punjab
+    - Political
+  text: >-
+    *Founder of the Sikh Empire, Ranjit Singh centralized power in the Punjab.
+    Singh maintained power in part through his empire's religious tolerance and
+    his military reforms.*<br><br>
+    **Civil Service Reforms:** You do not pay
+    bribes when taking hostage actions.
+- id: PAXP-25
+  image: PAXP-25
+  name: Josiah Harlan
+  meta:
+    rank: 1
+  tags:
+    - Punjab
+    - Political
+    - Afghan Patriot
+    - British Trophy
+  text: >-
+    *Born in Pennsylvania, Harlan thought himself a modern day Alexander the
+    Great. He enlisted with the East India Company and soon found himself in
+    the service of Ranjit Singh. He later led an attack against Murad Beg and
+    became Prince of Ghor Province.*
+- id: PAXP-26
+  image: PAXP-26
+  name: Paolo Avitabile
+  meta:
+    rank: 1
+  tags:
+    - Punjab
+    - Political
+    - Afghan Trophy
+  text: >-
+    *An Italian veteran of the Napoleonic Wars, Avitabile traveled east after
+    Waterloo, peddling his military expertise. He served as governor of
+    Peshawar under Ranjit Singh. He was a brutal ruler and was infamous for his
+    unorthodox execution techniques, including throwing the condemned from the
+    top of the Mahabat Mosque.*
+- id: PAXP-27
+  image: PAXP-27
+  name: Maqpon Dynasty
+  meta:
+    rank: 1
+  tags:
+    - Punjab
+    - Political
+  text: >-
+    *The Maqpon royal family held control over Baltistan, a region north of the
+    Sikh Empire, for nearly 700 years. The rulers maintained a cosmopolitan
+    identity that fused elements of Buddhism and Islam. In 1840 the Maqpon
+    dynasty was conquered by Zorawar Singh Kahluria.*
+- id: PAXP-28
+  image: PAXP-28
+  name: Anarkali Bazaar
+  meta:
+    rank: 1
+  tags:
+    - Punjab
+    - Economic
+    - Afghan Trophy
+  text: >-
+    *The oldest of its kind in Lahore, the Anarkali Bazaar is thought to take
+    its name from a nearby mausoleum built to honor the likely fictitious slave
+    girl buried alive by order of the Mughal Emperor Akbar.*
+- id: PAXP-29
+  image: PAXP-29
+  name: Khyber Pass
+  meta:
+    rank: 2
+  tags:
+    - Punjab
+    - Economic
+  text: >-
+    *Providing passage through the Spin Ghar mountains, the Khyber Pass is one
+    of the world's most highly trafficked mountain passes and has often been a
+    part of the Silk Road's northern route. Hari Singh Nalwa controlled the
+    pass under the authority of Ranjit Singh.*
+- id: PAXP-30
+  image: PAXP-30
+  name: Sikh Merchants in Lahore
+  meta:
+    rank: 1
+  tags:
+    - Punjab
+    - Economic
+  text: >-
+    *Sikh identity came into being during the ascent of Mughal power. To
+    survive persecution, Sikh gurus sought alliances with other minority
+    religious groups. This coalition also facilitated far-reaching commercial
+    networks, centralized around Lahore.*
+- id: PAXP-31
+  image: PAXP-31
+  name: Company Weapons
+  meta:
+    rank: 1
+  tags:
+    - Punjab
+    - Military
+  text: >-
+    *A variant of the classic "Brown Bess" smooth-bore musket, the India
+    Pattern (1795) was developed by the East India Company and was slightly
+    lighter and more compact than the Short Land musket. The weapon was used
+    until 1850.*
+- id: PAXP-32
+  image: PAXP-32
+  name: Army of the Indus
+  meta:
+    rank: 3
+  tags:
+    - Punjab
+    - Military
+    - British Patriot
+    - Afghan Trophy
+  text: >-
+    *The persistent anxieties of the Russophobes in the East India Company
+    eventually convinced Lord Auckland to form the Army of the Indus in order
+    to topple the Afghan state. When it marched, this massive force of British
+    and Indian troops was made infamous by its massive baggage train. One
+    officer even took two camels for the sole purpose of carrying his cigars.*
+- id: PAXP-33
+  image: PAXP-33
+  name: Zorawar Singh Kahluria
+  meta:
+    rank: 2
+  tags:
+    - Punjab
+    - Military
+  text: >-
+    *Kahluria was instrumental in the expansion of the Sikh Empire. He had a
+    genius for logistics which enabled him to conduct successful campaigns in
+    Ladakh and Baltistan. These conquests secured his reputation as "The Indian
+    Napoleon." He was killed by a Tibetan lancer at To-yo in 1841.*
+- id: PAXP-34
+  image: PAXP-34
+  name: Sindhi Warriors
+  meta:
+    rank: 1
+  tags:
+    - Punjab
+    - Military
+    - British Trophy
+  text: >-
+    *Like the Sikhs to the north, the Sindhi people depended upon religious
+    tolerance and alliances for their survival. Their coalition was crushed by
+    Charles Napier's campaign in 1843.*
+- id: PAXP-35
+  image: PAXP-35
+  name: Hari Singh Nalwa
+  meta:
+    rank: 2
+  tags:
+    - Punjab
+    - Military
+  text: >-
+    *Known as the Baagh Maar or Tiger-killer, he was the central military
+    figure that enabled the regional stability of the Sikh Empire. He conquered
+    the Kashmir and was later installed as its governor. He was also known for
+    his feats of military engineering.*
+- id: PAXP-36
+  image: PAXP-36
+  name: Bengal Native Infantry
+  meta:
+    rank: 1
+  tags:
+    - Punjab
+    - Military
+    - British Patriot
+    - Afghan Trophy
+  text: >-
+    *First formed in the late 18th century, regiments of Bengal infantry were
+    used to augment the forces of the East India Company throughout the
+    subcontinent. Many of these regiments were disbanded after the 1857 Indian
+    Mutiny.*
+- id: PAXP-37
+  image: PAXP-37
+  name: Seaforth Highlanders
+  meta:
+    rank: 1
+  tags:
+    - Punjab
+    - Military
+    - British Patriot
+    - Afghan Trophy
+  text: >-
+    *First raised in the late 18th century by Francis Mackenzie, 1st Baron
+    Seaforth, this regiment saw a variety of colonial action throughout the
+    19th century and was sent to Afghanistan in 1842.*
+- id: PAXP-38
+  image: PAXP-38
+  name: Akali Sikhs
+  meta:
+    rank: 2
+  tags:
+    - Punjab
+    - Military
+    - British Trophy
+  text: >-
+    *Among the five symbols of Sikh faith is the Kirpan, a small dagger or
+    sword. This item symbolizes personal sovereignty and resistance to tyranny.
+    Much of the success of the Sikhs in this period could be traced to their
+    capable military prowess.*
+- id: PAXP-39
+  image: PAXP-39
+  name: William Moorcroft
+  meta:
+    rank: 1
+  tags:
+    - Kandahar
+    - Intelligence
+  text: >-
+    *Moorcroft led an expedition to central Asia in search of Marco Polo's
+    legendary "Turcoman" horses. He fell ill in Northern Afghanistan and likely
+    died, though some speculate he continued to operate as an informant for
+    twelve more years before dying in an attempt to return to India.*
+- id: PAXP-40
+  image: PAXP-40
+  name: William Hay Macnaghten
+  meta:
+    rank: 2
+  tags:
+    - Kandahar
+    - Intelligence
+    - British Patriot
+    - Afghan Trophy
+  text: >-
+    *Macnaghten impressed his superiors with his grasp of Islamic law and
+    quickly rose through the ranks of the EIC. He soon found himself managing a
+    vast international intervention and intelligence network. His
+    administrative failures contributed to EIC's defeat in the First
+    Anglo-Afghan war.*
+- id: PAXP-41
+  image: PAXP-41
+  name: Charles Masson
+  meta:
+    rank: 2
+  tags:
+    - Kandahar
+    - Intelligence
+  text: >-
+    *Once enlisted in the EIC, Masson faked his death and took on a new name in
+    order to explore Afghanistan on foot, undertaking historical research on
+    ancient Bactria. Much of this work was supported by Prince Akbar Khan. When
+    discovered, he was blackmailed into working as a British
+    informant.*<br><br>
+    **Safe House:** When another player removes your spy in battle, you may
+    place it on this card instead.
+- id: PAXP-42
+  image: PAXP-42
+  name: Barakzai Sadars
+  meta:
+    rank: 1
+  tags:
+    - Kandahar
+    - Political
+    - Afghan Patriot
+    - Afghan Trophy
+  text: >-
+    *Dost Mohammad relied on an extensive network of family connections in
+    order to maintain control of Afghanistan. Five of his stepbrothers managed
+    Kandahar and surrounding territories.*<br><br>
+    **Charismatic Courtiers:** You do not pay bribes when playing cards.
+- id: PAXP-43
+  image: PAXP-43
+  name: Giljee Nobles
+  meta:
+    rank: 1
+  tags:
+    - Kandahar
+    - Political
+    - Afghan Trophy
+  text: >-
+    *Once a prominent tribe in central Afghanistan, the Giljee were displaced
+    by the Duranni. They were among the first tribes to revolt against the Shah
+    Shuja.*<br><br>
+    **Blackmail:** At start of turn, you may place a spy on any Kandahar court
+    card without a spy.
+- id: PAXP-44
+  image: PAXP-44
+  name: Baluchi Chiefs
+  meta:
+    rank: 1
+  tags:
+    - Kandahar
+    - Political
+    - Russian Trophy
+  text: >-
+    *The Baluchi traditionally controlled the Bolan Pass. The failure of the
+    British to maintain the traditional payments for the security of mountain
+    passes like the Bolan contributed directly to the outbreak of rebellion
+    that eventually destroyed the Army of the Indus.*
+- id: PAXP-45
+  image: PAXP-45
+  name: Haji Khan Kakar
+  meta:
+    rank: 1
+  tags:
+    - Kandahar
+    - Political
+  text: >-
+    *Originally a staunch supporter of Dost Mohammad and the Barakzai leaders,
+    Kakar was one of the first defectors to Shah Shuja. Afghan poet Maulana
+    Hamid Kashmirir describes Kakar as "the outsider, the traitor, the master
+    of betrayal...mixing poison in sugar."*
+- id: PAXP-46
+  image: PAXP-46
+  name: Bank
+  meta:
+    rank: 1
+  tags:
+    - Kandahar
+    - Economic
+  text: >-
+    *The Rupee was the chief currency of Afghanistan during the nineteenth
+    century, with much of the specie coming directly from raids into the
+    Punjab. Because currency was rarely struck locally, banks in the major
+    cities were highly leveraged in order to keep coins in local circulation.*
+- id: PAXP-47
+  image: PAXP-47
+  name: Bolan Pass
+  meta:
+    rank: 2
+  tags:
+    - Kandahar
+    - Economic
+    - Russian Trophy
+  text: >-
+    *The Army of the Indus used the Bolan Pass to invade central Afghanistan.
+    The dense ridges and maze-like cliff walkways made it easy for the Baluchi
+    to ambush British soldiers without fear of reprisal.*
+- id: PAXP-48
+  image: PAXP-48
+  name: Fruit Markets
+  meta:
+    rank: 1
+  tags:
+    - Kandahar
+    - Economic
+  text: >-
+    *Southern Afghanistan produces some of the highest quality pomegranates in
+    the world. When British troops first entered Kandahar, they were amazed by
+    the quality and variety of the produce at market.*
+- id: PAXP-49
+  image: PAXP-49
+  name: Kandahari Markets
+  meta:
+    rank: 1
+  tags:
+    - Kandahar
+    - Economic
+  text: >-
+    *For much of its history, Kandahar served as a critical agricultural and
+    commercial anchor for the region's nomadic tribes. Its location also
+    provided easy access to the Punjab. For these reasons, Kandahar was
+    designated the capital of the Durrani Empire from 1747 till 1776.*
+- id: PAXP-50
+  image: PAXP-50
+  name: British Regulars
+  meta:
+    rank: 2
+  tags:
+    - Kandahar
+    - Military
+    - British Patriot
+    - Russian Trophy
+  text: >-
+    *The vast majority of British regiments in the region were directly
+    affiliated with the East India Company. However, the British Army also
+    maintained some units. A few of these, including the 13th Light Infantry,
+    were part of the British invasion through the Bolan Pass.*
+- id: PAXP-51
+  image: PAXP-51
+  name: Sir John Keane
+  meta:
+    rank: 1
+  tags:
+    - Kandahar
+    - Military
+    - British Patriot
+    - Russian Trophy
+  text: >-
+    *Keane's varied military career was typical of officers in this period. He
+    fought in the Battle of New Orleans, served in the West Indies, and,
+    eventually, was stationed in India.*<br><br>
+    **Indian Supplies:** Your armies may move without a road.
+- id: PAXP-52
+  image: PAXP-52
+  name: Pashtun Mercenary
+  meta:
+    rank: 1
+  tags:
+    - Kandahar
+    - Military
+  text: >-
+    *Often mercenaries were hired to extract revenue from regions outside of a
+    ruler's traditional control. Many of these mercenary forces were composed
+    of politically ambitious Pashtuns or disenfranchised Giljee nobility.*
+- id: PAXP-53
+  image: PAXP-53
+  name: Jezail Sharpshooters
+  meta:
+    rank: 2
+  tags:
+    - Kandahar
+    - Military
+    - Russian Trophy
+  text: >-
+    *An inexpensive and extremely effective weapon, the muzzle-loading jezail
+    rifle was a staple of both regular and irregular Afghan forces. Compared to
+    the 150 yard accuracy of the British Brown Bess, experienced jezail
+    sharpshooters could be accurate at ranges up to 500 yards.*
+- id: PAXP-54
+  image: PAXP-54
+  name: Herati Bandits
+  meta:
+    rank: 1
+  tags:
+    - Herat
+    - Intelligence
+  text: >-
+    *After the collapse of the Durrani empire, long stretches of the Silk Road
+    lapsed into lawlessness. Minor tribal rulers competed with bandits in hopes
+    of extracting tolls. As a consequence, overland trade dried up as merchants
+    looked for safer routes.*<br><br>
+    **Blackmail:** At start of turn, you may place a spy on any Herat court
+    card without a spy.
+- id: PAXP-55
+  image: PAXP-55
+  name: Hazara Chiefs
+  meta:
+    rank: 1
+  tags:
+    - Herat
+    - Political
+  text: >-
+    *The Persian-speaking Hazara people ruled a semi-autonomous region in
+    western Afghanistan that remained outside of both the Persian and Afghan
+    emperors until the second reign of Dost Mohammad.*
+- id: PAXP-56
+  image: PAXP-56
+  name: Yar Mohammad Alikozai
+  meta:
+    rank: 2
+  tags:
+    - Herat
+    - Political
+    - Afghan Trophy
+  text: >-
+    *A political insider who was able to maintain influence throughout the 19th
+    century, Yar Mohammad often served as a high level advisor. In 1839 he
+    betrayed Prince Kameran and expelled British agents in hopes of placing
+    Herat under Persian influence and protection.*<br><br>
+    **Well-Connected:** Your spies may double their distance moved when using a
+    move action.
+- id: PAXP-57
+  image: PAXP-57
+  name: Exiled Durrani Nobility
+  meta:
+    rank: 1
+  tags:
+    - Herat
+    - Political
+    - British Trophy
+  text: >-
+    *Many scions of the Durrani empire attempted to retain some authority in
+    exile. They often maintained small, underground courts in the region's more
+    independent cities such as Herat. Dost Mohammad was systematic in his
+    persecution of the former ruling class and made an example of those he
+    caught, such as Shah Zaman whom he had blinded and imprisoned.*
+- id: PAXP-58
+  image: PAXP-58
+  name: Ishaqzai Chiefs
+  meta:
+    rank: 1
+  tags:
+    - Herat
+    - Political
+    - Afghan Patriot
+  text: >-
+    *The Ishaqzai were prominent during the Durrani empire but fell out of
+    power with the ascendancy of the Barakzai. In the later 19th century they
+    were relentlessly persecuted and forced to abandon their nomadic lifestyle
+    for farming settlements.*
+- id: PAXP-59
+  image: PAXP-59
+  name: Tajik Warband
+  meta:
+    rank: 2
+  tags:
+    - Herat
+    - Military
+  text: >-
+    *The Tajik people have their origins in the Muslim armies that crossed into
+    central Asia in the 8th century. Because of the dominance of the Samanid
+    Empire in the 9th and 10th centuries, Tajik people can be found throughout
+    the region, forming a considerable plurality in western Afghanistan.*
+- id: PAXP-60
+  image: PAXP-60
+  name: Nomadic Warlord
+  meta:
+    rank: 1
+  tags:
+    - Herat
+    - Military
+    - Russian Trophy
+  text: >-
+    *Many tribes in Afghanistan were nomadic and herdsmen by trade. Still, they
+    sometimes formed warbands and used seasonal raids to supplement their
+    income.*
+- id: PAXP-61
+  image: PAXP-61
+  name: Karakul Sheep
+  meta:
+    rank: 2
+  tags:
+    - Herat
+    - Economic
+  text: >-
+    *Karakul sheep had a coarse wool which was suitable only for rug-making.
+    Their chief value was in their fat tails, which were used in cuisine and in
+    soap-making.*
+- id: PAXP-62
+  image: PAXP-62
+  name: Qanat System
+  meta:
+    rank: 1
+  tags:
+    - Herat
+    - Economic
+  text: >-
+    *An ancient irrigation technology that is still in use in the present day,
+    qanats use a series of vertical shafts and gently sloping tunnels to
+    irrigate fields and regulate the flow of water while offering protection
+    from evaporation.*
+- id: PAXP-63
+  image: PAXP-63
+  name: Farah Road
+  meta:
+    rank: 3
+  tags:
+    - Herat
+    - Economic
+  text: >-
+    *Because of the long winter and difficult conditions of the passes between
+    Herat and Kabul, west-bound commercial traffic was routed through Kandahar
+    and then through Farah. Like most trade in Afghanistan, the goods on this
+    route would have been luxury items because of the expense of the trip.*
+- id: PAXP-64
+  image: PAXP-64
+  name: Opium Fields
+  meta:
+    rank: 2
+  tags:
+    - Herat
+    - Economic
+  text: >-
+    *Though opium would prove a lucrative cash crop for Afghan farmers in the
+    20th century, during the 19th century production was subdued at best and
+    was only traded regionally.*
+- id: PAXP-65
+  image: PAXP-65
+  name: Minaret of Jam
+  meta:
+    rank: 1
+  tags:
+    - Herat
+    - Economic
+  text: >-
+    *One of the ancient roads between Herat and Kabul is marked by this
+    medieval structure. Built around 1190, some suggest that it was part of
+    Firozkoh, the lost capital of the Ghorid dynasty which was destroyed by
+    Ögedei Khan, the son of Genghis Khan.*
+- id: PAXP-66
+  image: PAXP-66
+  name: Baluchi Smugglers
+  meta:
+    rank: 2
+  tags:
+    - Herat
+    - Economic
+    - Afghan Trophy
+  text: >-
+    *The Baluchi long controlled the Bolan Pass and participated in trade with
+    the Indian subcontinent. Smugglers even ran goods throughout southern
+    Afghanistan and into Persia.*<br><br>
+    **Herat Influence:** You do not pay for Herat cards in the market.
+- id: PAXP-67
+  image: PAXP-67
+  name: Wheat Fields
+  meta:
+    rank: 2
+  tags:
+    - Herat
+    - Economic
+  text: >-
+    *Wheat has served as Afghanistan's agricultural mainstay since antiquity.
+    Though subsistence farming left little for the market, wheat was still
+    sometimes milled into flour for sale to nomadic herdsmen.*
+- id: PAXP-68
+  image: PAXP-68
+  name: Ghaem Magham Farahani
+  meta:
+    rank: 2
+  tags:
+    - Persia
+    - Intelligence
+  text: >-
+    *Politician, scientist, and poet who briefly served as prime minister of
+    Iran. He was betrayed and murdered on the orders of Mohammad Shah Qajar in
+    1835.*<br><br>
+    **Persian Influence:** You do not pay for Persia cards in the market.
+- id: PAXP-69
+  image: PAXP-69
+  name: Count Ivan Simonich
+  meta:
+    rank: 2
+  tags:
+    - Persia
+    - Intelligence
+    - Russian Patriot
+    - British Trophy
+  text: >-
+    *Russian diplomat and intelligence officer who helped coordinate
+    information networks across central Asia. He helped the Persians direct the
+    unsuccessful siege of Herat in 1838.*
+- id: PAXP-70
+  image: PAXP-70
+  name: Alexander Griboyedov
+  meta:
+    rank: 2
+  tags:
+    - Persia
+    - Intelligence
+    - Russian Patriot
+    - Afghan Trophy
+  text: >-
+    *Satirist, playwright, and Alexander Pushkin's closest friend, Griboyedov
+    served as the Russian ambassador to Persia. He attempted to provide asylum
+    to three refugees who fled the royal harems and was killed when a mob
+    stormed the embassy.*<br><br>
+    **Russian Influence:** You do not pay for Russian Patriots in the market.
+- id: PAXP-71
+  image: PAXP-71
+  name: Joseph Wolff
+  meta:
+    rank: 1
+  tags:
+    - Persia
+    - Intelligence
+    - British Patriot
+    - Afghan Trophy
+  text: >-
+    *Joseph Wolff was a minor celebrity among evangelical travel writers in
+    England. He befriended Arthur Conolly on a previous journey to Asia, and,
+    upon seeing the news of his imprisonment, embarked on a quixotic journey to
+    Bukhara to save his friend. He did not succeed.*
+- id: PAXP-72
+  image: PAXP-72
+  name: Claude Wade
+  meta:
+    rank: 2
+  tags:
+    - Persia
+    - Intelligence
+    - Russian Trophy
+  text: >-
+    *Bengal-born scholar of Persia who served as a diplomatic agent in
+    Ludhiana, Wade distrusted Alexander Burnes and helped make the case for
+    deeper British involvement in the region.*<br><br>
+    **Safe House:** When another player removes your spy in battle, you may
+    place it on this card instead.
+- id: PAXP-73
+  image: PAXP-73
+  name: Jean-François Allard
+  meta:
+    rank: 1
+  tags:
+    - Persia
+    - Intelligence
+    - British Trophy
+  text: >-
+    *Allard served as captain of the 7th Hussars under Napoleon. After the
+    defeat at Waterloo, Allard traveled throughout Persia and central Asia. He
+    eventually came to serve Ranjit Singh and helped reform the Sikh military.*
+- id: PAXP-74
+  image: PAXP-74
+  name: Hajj Mirza Aghasi
+  meta:
+    rank: 1
+  tags:
+    - Persia
+    - Political
+    - Afghan Patriot
+    - Russian Trophy
+  text: >-
+    *Prime minister to Mohammad Shah Qajar. He brought the Shah into Sufi
+    mysticism. Aghasi fought against the mullahs who sought to decentralize
+    Persian political authority and attempted to modernize the country while
+    maintaining independence from the West.*
+- id: PAXP-75
+  image: PAXP-75
+  name: Abbas Mirza
+  meta:
+    rank: 1
+  tags:
+    - Persia
+    - Political
+  text: >-
+    *A son of Fath Ali-Shah, Mirza was trained as a military commander and led
+    troops against Russia and the Ottomans. He sent young commanders to Europe
+    in hopes of integrating new military tactics into the Persian Army, but was
+    largely unable to modernize the Persian army.*
+- id: PAXP-76
+  image: PAXP-76
+  name: Fath-Ali Shah
+  meta:
+    rank: 2
+  tags:
+    - Persia
+    - Political
+  text: >-
+    *Fath-Ali Shah developed Persian court etiquette and oversaw a growth in
+    artistic production. Despite engaging in numerous wars with the Russians,
+    Fath-Ali Shah maintained diplomatic and commercial contact with Russia and
+    other Western powers.*
+- id: PAXP-77
+  image: PAXP-77
+  name: Mohammad Shah
+  meta:
+    rank: 1
+  tags:
+    - Persia
+    - Political
+  text: >-
+    *The grandson of Fath Ali-Shah, he was the designated heir to the Persian
+    throne. Mohammad Shah rebuffed British attempts to outlaw the slave trade
+    and fell under Russian influence in his effort to modernize Iran. Though
+    sickly throughout his life, Mohammad Shah was a capable ruler.*
+- id: PAXP-78
+  image: PAXP-78
+  name: Civic Improvements
+  meta:
+    rank: 2
+  tags:
+    - Persia
+    - Economic
+  text: >-
+    *The Qajar dynasty of Persia made large capital investments to expand the
+    road network. This was largely a measure to integrate the border tribes
+    with city centers.*<br><br>
+    **Infrastructure:** After you take the build action, place one additional
+    block in a legal space.
+- id: PAXP-79
+  image: PAXP-79
+  name: Persian Slave Markets
+  meta:
+    rank: 1
+  tags:
+    - Persia
+    - Economic
+    - British Trophy
+  text: >-
+    *In central Asia the slave trade continued throughout the 19th century.
+    Many slaves were originally from populations that had been displaced by war
+    or famine. Others came to market by way of the Indian Ocean and Africa's
+    eastern coast.*
+- id: PAXP-80
+  image: PAXP-80
+  name: Anglo-Persian Trade
+  meta:
+    rank: 1
+  tags:
+    - Persia
+    - Economic
+    - British Patriot
+    - Russian Trophy
+  text: >-
+    *The relationship between Britain and Persia was fluid for much the 19th
+    century. The British formed a strategic alliance with the Persians in 1801
+    as a bulwark against French expansion in the East. However, the Persians
+    supported Napoleon in 1807 and joined an alliance against Russia.*
+- id: PAXP-81
+  image: PAXP-81
+  name: Russo-Persian Trade
+  meta:
+    rank: 2
+  tags:
+    - Persia
+    - Economic
+    - Russian Patriot
+    - British Trophy
+  text: >-
+    *Persia's defeat in the Russo-Persian War led to the 1828 Treaty of
+    Turkmenchay. Persia offered Russia many concessions, including ceding the
+    right of Persian ships to navigate the Caspian Sea. The treaty sparked
+    outrage throughout Persia and led to the storming of the Russian embassy.*
+- id: PAXP-82
+  image: PAXP-82
+  name: Persian Army
+  meta:
+    rank: 2
+  tags:
+    - Persia
+    - Military
+  text: >-
+    *In an effort to modernize the army, Abbas Mirza sent many Persian officers
+    to England in 1813. Improved training led to the growth of Persian regional
+    power, especially in relation to their chief rivals in Russia and the
+    Ottoman Empire.*
+- id: PAXP-83
+  image: PAXP-83
+  name: Shah's Guard
+  meta:
+    rank: 1
+  tags:
+    - Persia
+    - Military
+  text: >-
+    *One of the world's oldest military institutions with roots in the
+    "Immortal Guard" of the Achaemenid Empire, these elite guards were an
+    important dimension of the civic power of the Qajar dynasty.*<br><br>
+    **Bodyguards:** Your political cards cannot be targets of the betray
+    action.
+- id: PAXP-84
+  image: PAXP-84
+  name: Russian Regulars
+  meta:
+    rank: 2
+  tags:
+    - Persia
+    - Military
+    - Russian Patriot
+    - Afghan Trophy
+  text: >-
+    *Infantrymen were often stationed at Orenburg which served as a staging
+    ground for Russian operations across the Transcaspian Oblast.*
+- id: PAXP-85
+  image: PAXP-85
+  name: Bukharan Jews
+  meta:
+    rank: 1
+  tags:
+    - Transcaspia
+    - Intelligence
+    - British Trophy
+  text: >-
+    *Jewish populations have lived in central Asia since the 7th century but
+    routinely faced persecution. In the early 19th century, many Jews fled
+    Persia and settled in major cities across the region, including Bukhara,
+    Herat, and Kabul.*
+- id: PAXP-86
+  image: PAXP-86
+  name: Jan Prosper Witkiewicz
+  meta:
+    rank: 2
+  tags:
+    - Transcaspia
+    - Intelligence
+    - Russian Patriot
+  text: >-
+    *Exiled to central Asia at 14 for attempting to organize a resistance
+    against Russia in Poland, he made the most of his misfortune and found work
+    within the Russian Foreign Service. He failed to deliver Kabul to his
+    Russian masters. Disheartened, he burned his personal papers and committed
+    suicide.*
+- id: PAXP-87
+  image: PAXP-87
+  name: Imperial Surveyors
+  meta:
+    rank: 1
+  tags:
+    - Transcaspia
+    - Intelligence
+    - Russian Patriot
+  text: >-
+    *Many diplomatic missions to the Russian steppe and central Asia used
+    map-making as a cover for their intelligence gathering. The most famous of
+    these was the Great Trigonometrical Survey led by the British to map the
+    Indian subcontinent.*
+- id: PAXP-88
+  image: PAXP-88
+  name: Arthur Conolly
+  meta:
+    rank: 1
+  tags:
+    - Transcaspia
+    - Intelligence
+    - British Patriot
+  text: >-
+    *A renowned explorer and travel writer, Conolly first coined the phrase
+    "The Great Game." During a later expedition, he was captured while
+    attempting to rescue Charles Stoddart. The two were beheaded in Bukhara.*
+- id: PAXP-89
+  image: PAXP-89
+  name: Aga Mehdi
+  meta:
+    rank: 1
+  tags:
+    - Transcaspia
+    - Intelligence
+    - Russian Patriot
+  text: >-
+    *Disguised as a merchant from Yarkand, Mehdi was, in fact, a Russian agent
+    who operated in and around Kashmir. He attempted to open diplomatic
+    channels with Ranjit Singh.*
+- id: PAXP-90
+  image: PAXP-90
+  name: Nasrullah Khan
+  meta:
+    rank: 1
+  tags:
+    - Transcaspia
+    - Political
+    - British Trophy
+  text: >-
+    *A fierce and paranoid ruler, Nasrullah Khan gained notoriety across Europe
+    for the imprisonment and execution of two British agents. In the 1830s
+    Nasrullah organized several unsuccessful campaigns in the region against
+    other local Khans in a bid for regional supremacy.*
+- id: PAXP-91
+  image: PAXP-91
+  name: Allah Quli Bahadur
+  meta:
+    rank: 1
+  tags:
+    - Transcaspia
+    - Political
+    - Russian Trophy
+  text: >-
+    *Bahadur ramped up the enslavement of Russian citizens in order to
+    compensate for shortfalls in trade. Fearing a Russian casus belli, British
+    agents convinced the Khan to release the Russian slaves.*<br><br>
+    **Savvy Operator:** This card is always treated as if it were in the
+    favored suit.
+- id: PAXP-92
+  image: PAXP-92
+  name: Mir Murad Beg
+  meta:
+    rank: 1
+  tags:
+    - Transcaspia
+    - Political
+    - British Trophy
+  text: >-
+    *Khan of Kunduz and later ruler of Bukhara, Mir Murad Beg's kingdom
+    eventually extended to much of modern day Uzbekistan.*
+- id: PAXP-93
+  image: PAXP-93
+  name: Madali Khan
+  meta:
+    rank: 2
+  tags:
+    - Transcaspia
+    - Political
+    - British Trophy
+  text: >-
+    *Ascending to the throne at the age of 12, he expanded the Khanate of
+    Kokand to its greatest territorial extent. Unlike his predecessor, Madali
+    Khan opened diplomatic relationships with European powers. His removal from
+    power led to decades of political turmoil in the region.*
+- id: PAXP-94
+  image: PAXP-94
+  name: Khivan Slave Markets
+  meta:
+    rank: 1
+  tags:
+    - Transcaspia
+    - Economic
+    - British Trophy
+  text: >-
+    *In central Asia the slave trade continued throughout the 19th century.
+    Many slaves were originally from populations that had been displaced by war
+    or famine. Others came to market by way of the Indian Ocean and Africa's
+    eastern coast.*
+- id: PAXP-95
+  image: PAXP-95
+  name: Supplies from Orenburg
+  meta:
+    rank: 1
+  tags:
+    - Transcaspia
+    - Economic
+    - Russian Patriot
+    - Afghan Trophy
+  text: >-
+    *The city of Orenburg was a critical outpost, supply depot, and
+    administrative city in the Russian Empire, enabling the Empire to project
+    power across the steppe of central Asia. Virtually all diplomatic officers
+    and military forces operating in the region were supported through
+    Orenburg.*
+- id: PAXP-96
+  image: PAXP-96
+  name: Panjdeh Oasis
+  meta:
+    rank: 2
+  tags:
+    - Transcaspia
+    - Economic
+    - British Trophy
+  text: >-
+    *This location was central to overland trade with the Khanates of the
+    Transcaspian. The caravans of this route were dominated by the Lohanis who
+    were often considered the richest and most stable of the nomadic merchants
+    of Afghanistan.*
+- id: PAXP-97
+  image: PAXP-97
+  name: The Ark of Bukhara
+  meta:
+    rank: 1
+  tags:
+    - Transcaspia
+    - Military
+  text: >-
+    *Built in the 5th century, the Ark is a massive fortress which legend says
+    was constructed by the epic hero Siyavusha. The Ark has undergone centuries
+    of renovation and improvement.*<br><br>
+    **Citadel:** Your tribes in Transcaspia cannot be attacked.
+- id: PAXP-98
+  image: PAXP-98
+  name: European Cannons
+  meta:
+    rank: 3
+  tags:
+    - Transcaspia
+    - Military
+    - British Trophy
+  text: >-
+    *Western weaponry was commonly shipped to proxy states on the imperial
+    frontiers in order to efficiently gain the upper hand over numerically
+    superior native forces. Such supplies enabled the successful seizure of
+    Georgia and Dagestan during the Russo-Persia war.*
+- id: PAXP-99
+  image: PAXP-99
+  name: Cossacks
+  meta:
+    rank: 1
+  tags:
+    - Transcaspia
+    - Military
+    - Russian Patriot
+    - British Trophy
+  text: >-
+    *Cossacks formed an important component of the Russian strategy in central
+    Asia. These irregular cavalry served as scouts, police forces, and
+    skirmishers.*<br><br>
+    **Irregulars:** This card is always treated as if it were in the favored
+    suit.
+- id: PAXP-100
+  image: PAXP-100
+  name: Count Perovsky
+  meta:
+    rank: 2
+  tags:
+    - Transcaspia
+    - Military
+    - Russian Patriot
+    - British Trophy
+  text: >-
+    *Taken prisoner during the Napoleonic Wars, Perovsky continued his military
+    career after being freed during the fall of Paris. In 1839 he led an
+    expeditionary force from Orenburg in an attempt to subdue the Khanate of
+    Khiva. His campaigns set the stage for a series of treaties that would put
+    central Asia firmly under the control of the Russian Empire.*
+
+- id: PAXP-EVENT-101
+  image: PAXP-101
+  name: Dominance Check
+  tags:
+    - Event
+
+- id: PAXP-EVENT-105
+  image: PAXP-105
+  name: New Tactics
+  tags:
+    - Event
+
+- id: PAXP-EVENT-106
+  image: PAXP-106
+  name: Embarrassment of Riches / Koh-i-noor Recovered
+  tags:
+    - Event
+
+- id: PAXP-EVENT-107
+  image: PAXP-107
+  name: Disregard for Customs / Courtly Manners
+  tags:
+    - Event
+
+- id: PAXP-EVENT-108
+  image: PAXP-108
+  name: Failure to Impress / Rumor
+  tags:
+    - Event
+
+- id: PAXP-EVENT-109
+  image: PAXP-109
+  name: Riots in Punjab / Conflict Fatigue
+  tags:
+    - Event
+
+- id: PAXP-EVENT-110
+  image: PAXP-110
+  name: Riots in Herat / Nationalism
+  tags:
+    - Event
+
+- id: PAXP-EVENT-111
+  image: PAXP-111
+  name: Public Withdrawal
+  tags:
+    - Event
+
+- id: PAXP-EVENT-112
+  image: PAXP-112
+  name: Riots in Kabul / Nation Building
+  tags:
+    - Event
+
+- id: PAXP-EVENT-113
+  image: PAXP-113
+  name: Riots in Persia / Backing of Persian Aristocracy
+  tags:
+    - Event
+
+- id: PAXP-EVENT-114
+  image: PAXP-114
+  name: Confidence Failure / Other Persuasive Methods
+  tags:
+    - Event
+
+- id: PAXP-EVENT-115
+  image: PAXP-115
+  name: Pashtunwali Values
+  tags:
+    - Event
+
+- id: PAXP-EVENT-116
+  image: PAXP-116
+  name: Rebuke
+  tags:
+    - Event
+
+- id: PAXP-WAKHAN-117
+  image: PAXP-117
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-118
+  image: PAXP-118
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-119
+  image: PAXP-119
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-120
+  image: PAXP-120
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-121
+  image: PAXP-121
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-122
+  image: PAXP-122
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-123
+  image: PAXP-123
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-124
+  image: PAXP-124
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-125
+  image: PAXP-125
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-126
+  image: PAXP-126
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-127
+  image: PAXP-127
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-128
+  image: PAXP-128
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-129
+  image: PAXP-129
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-130
+  image: PAXP-130
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-131
+  image: PAXP-131
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-132
+  image: PAXP-132
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-133
+  image: PAXP-133
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-134
+  image: PAXP-134
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-135
+  image: PAXP-135
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-136
+  image: PAXP-136
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-137
+  image: PAXP-137
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-138
+  image: PAXP-138
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-139
+  image: PAXP-139
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-140
+  image: PAXP-140
+  name: Wakhan's Actions
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-141
+  image: PAXP-141
+  name: Wakhan's Gifts and Prizes
+  tags:
+    - Wakhan
+- id: PAXP-WAKHAN-142
+  image: PAXP-142
+  name: Wakhan's Priorities
+  tags:
+    - Wakhan

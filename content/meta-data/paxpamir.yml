@@ -1,0 +1,25 @@
+id: paxpamir
+name: Pax Pamir
+
+filters:
+  - name: Rank
+    prop: rank
+    type: number
+
+subproducts:
+  - name: Pax Pamir 2nd Edition
+    id: paxpamir2nd
+    desc: >
+      Pax Pamir is a game about the Great Game.
+
+external:
+  rules: https://rules.buriedgiantstudios.com/?product=johncompany
+
+# https://handlebarsjs.com/guide/
+cardTemplate:
+  en-US: >
+    {{#if meta.rank }}
+      <div>
+        <p>Rank: {{ meta.rank }}
+      </div>
+    {{/if}}
