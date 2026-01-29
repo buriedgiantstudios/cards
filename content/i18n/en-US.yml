@@ -103,6 +103,9 @@ Pages:
     StartingSupportLabel: Starting Support
     StartingSupportPlaceholder: Starting Support
 
+    RankLabel: Starting Support
+    RankPlaceholder: Rank
+
     NumberText: If left unspecified, will not be included in the search query
 
     Operators:
