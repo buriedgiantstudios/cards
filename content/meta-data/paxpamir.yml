@@ -13,7 +13,7 @@ subproducts:
       Pax Pamir is a game about the Great Game.
 
 external:
-  rules: https://rules.buriedgiantstudios.com/?product=johncompany
+  rules: https://rules.buriedgiantstudios.com/?product=paxpamir
 
 # https://handlebarsjs.com/guide/
 cardTemplate:
