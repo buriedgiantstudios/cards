@@ -7,6 +7,7 @@
     - Kabul
     - Intelligence
     - Russian Prize
+    - Move
   text: >-
     *"You all tell yourselves all sorts of fairy stories: you are here to sell
     us your wonderful British goods, you want to set us free, you want us to
@@ -22,6 +23,8 @@
     - Kabul
     - Intelligence
     - Russian Prize
+    - Battle
+    - Move
   text: >-
     *Served Shah Shuja and the British during the first Anglo-Afghan War. For
     his service he was given his name which means "scatterer of souls" from a
@@ -36,6 +39,7 @@
     - Kabul
     - Intelligence
     - Afghan Patriot
+    - Battle
   text: >-
     *Son of Dost Mohammad and Afghan hero, Akbar Khan led a revolt in Kabul
     against the British garrison. Later he helped defeat General Elphinstone's
@@ -66,6 +70,7 @@
     - Kabul
     - Political
     - Afghan Prize
+    - Build
   text: >-
     *King of Afghanistan, deposed in 1809. He later traded the 793 carat
     Koh-i-Noor diamond to gain his freedom. The British returned him to the
@@ -82,6 +87,8 @@
     - Kabul
     - Political
     - Afghan Patriot
+    - Build
+    - Battle
   text: >-
     *During the reign of Shah Zaman, he was a prominent governor, who
     maintained his power even as the Durrani emperors were ousted. Though
@@ -108,6 +115,7 @@
   tags:
     - Kabul
     - Economic
+    - Tax
   text: >-
     *Though part of the northern branch of the Silk Road, Afghanistan rarely
     consumed international goods as traders struggled to generate demand. By
@@ -121,6 +129,8 @@
   tags:
     - Kabul
     - Economic
+    - Tax
+    - Move
   text: >-
     *Afghan crafts such as weaving, pottery, and metalwork all reflected the
     cosmopolitan history of the country. Ancient Islamic motifs could be woven
@@ -135,6 +145,8 @@
   tags:
     - Kabul
     - Economic
+    - Build
+    - Betray
   text: >-
     *Commonly associated with its lethal properties, Arsenic has many other
     applications. In Afghanistan, it was used in fabric dyes to brighten colors
@@ -149,6 +161,8 @@
     - Kabul
     - Economic
     - Afghan Patriot
+    - Tax
+    - Gift
   text: >-
     *Lapis lazuli has been mined in northwestern Afghanistan for nearly nine
     thousand years. Prized for its intense blue color, the stone was used in
@@ -162,6 +176,7 @@
   tags:
     - Kabul
     - Economic
+    - Gift
   text: >-
     *The ancient capital of the Ghaznavid Empire, which once extended from
     central Persia to the Punjab. By the nineteenth century, Ghazni was largely
@@ -176,6 +191,8 @@
     - Kabul
     - Economic
     - Russian Prize
+    - Tax
+    - Move
   text: >-
     *The Ghilzai people form the largest portion of the Pashtun population with
     concentrations in central and southern Afghanistan. Many tribes belonging
@@ -189,6 +206,8 @@
   tags:
     - Kabul
     - Economic
+    - Gift
+    - Build
   text: >-
     *Because of the scarcity of physical currency, credit was often the only
     lubricant in local economies and allowed Afghanistan's small business class
@@ -202,6 +221,7 @@
   tags:
     - Kabul
     - Military
+    - Betray
   text: >-
     *After the death of Ahmad Shah, his son Timur moved the capital from
     Kandahar to Kabul and recruited Qizilbash, Shia colonists from Persia, to
@@ -217,6 +237,8 @@
   tags:
     - Kabul
     - Military
+    - Tax
+    - Betray
   text: >-
     *For over a thousand years the Bala Hissar was the central architectural
     feature of Kabul. During the Durrani Empire, the palace-fortress also
@@ -231,6 +253,7 @@
   tags:
     - Kabul
     - Military
+    - Build
   text: >-
     *The "key" to Kabul, this citadel south of the Afghan capital overlooked
     vital supply routes. It was captured by the British during the first
@@ -245,6 +268,8 @@
   tags:
     - Punjab
     - Intelligence
+    - Gift
+    - Betray
   text: >-
     *The fictional creation of Thomas Hughes, Sir Harry Paget Flashman was a
     scoundrel, a coward, and a brilliant, charming solider. His first fictional
@@ -259,6 +284,8 @@
     - Punjab
     - Intelligence
     - Russian Prize
+    - Move
+    - Betray
   text: >-
     *While traveling through Asia in disguise, Pottinger found the city of
     Herat besieged by Persian forces. He revealed himself to the local
@@ -274,6 +301,8 @@
     - Intelligence
     - British Patriot
     - Russian Prize
+    - Gift
+    - Move
   text: >-
     *Army officer, politician, and orientalist, Rawlinson advocated for a
     larger role for Afghanistan in Britain's foreign policy. He served as a
@@ -287,6 +316,7 @@
     - Punjab
     - Intelligence
     - Afghan Prize
+    - Move
   text: >-
     *Burnes joined the East India Company at 16 and quickly rose through the
     ranks, aggravating senior operatives like Wade. He advised the British to
@@ -305,6 +335,8 @@
     - Intelligence
     - British Patriot
     - Russian Prize
+    - Move
+    - Gift
   text: >-
     *The Royal Geographical Society was primarily apolitical, but, under the
     leadership of Rawlinson (then its vice president), Hayward was sent on a
@@ -320,6 +352,8 @@
     - Intelligence
     - British Patriot
     - Russian Prize
+    - Battle
+    - Move
   text: >-
     *Uncle of Eldred Pottinger, Henry Pottinger led an expedition to
     Baluchistan and helped map Persia and western India. He would later replace
@@ -333,6 +367,7 @@
   tags:
     - Punjab
     - Political
+    - Betray
   text: >-
     *Founder of the Sikh Empire, Ranjit Singh centralized power in the Punjab.
     Singh maintained power in part through his empire's religious tolerance and
@@ -349,6 +384,7 @@
     - Political
     - Afghan Patriot
     - British Prize
+    - Tax
   text: >-
     *Born in Pennsylvania, Harlan thought himself a modern day Alexander the
     Great. He enlisted with the East India Company and soon found himself in
@@ -363,6 +399,7 @@
     - Punjab
     - Political
     - Afghan Prize
+    - Betray
   text: >-
     *An Italian veteran of the Napoleonic Wars, Avitabile traveled east after
     Waterloo, peddling his military expertise. He served as governor of
@@ -377,6 +414,7 @@
   tags:
     - Punjab
     - Political
+    - Build
   text: >-
     *The Maqpon royal family held control over Baltistan, a region north of the
     Sikh Empire, for nearly 700 years. The rulers maintained a cosmopolitan
@@ -391,6 +429,8 @@
     - Punjab
     - Economic
     - Afghan Prize
+    - Tax
+    - Build
   text: >-
     *The oldest of its kind in Lahore, the Anarkali Bazaar is thought to take
     its name from a nearby mausoleum built to honor the likely fictitious slave
@@ -403,6 +443,8 @@
   tags:
     - Punjab
     - Economic
+    - Tax
+    - Move
   text: >-
     *Providing passage through the Spin Ghar mountains, the Khyber Pass is one
     of the world's most highly trafficked mountain passes and has often been a
@@ -416,6 +458,8 @@
   tags:
     - Punjab
     - Economic
+    - Tax
+    - Gift
   text: >-
     *Sikh identity came into being during the ascent of Mughal power. To
     survive persecution, Sikh gurus sought alliances with other minority
@@ -429,6 +473,8 @@
   tags:
     - Punjab
     - Military
+    - Tax
+    - Betray
   text: >-
     *A variant of the classic "Brown Bess" smooth-bore musket, the India
     Pattern (1795) was developed by the East India Company and was slightly
@@ -444,6 +490,7 @@
     - Military
     - British Patriot
     - Afghan Prize
+    - Move
   text: >-
     *The persistent anxieties of the Russophobes in the East India Company
     eventually convinced Lord Auckland to form the Army of the Indus in order
@@ -458,6 +505,8 @@
   tags:
     - Punjab
     - Military
+    - Battle
+    - Gift
   text: >-
     *Kahluria was instrumental in the expansion of the Sikh Empire. He had a
     genius for logistics which enabled him to conduct successful campaigns in
@@ -472,6 +521,9 @@
     - Punjab
     - Military
     - British Prize
+    - Battle
+    - Move
+    - Betray
   text: >-
     *Like the Sikhs to the north, the Sindhi people depended upon religious
     tolerance and alliances for their survival. Their coalition was crushed by
@@ -484,6 +536,8 @@
   tags:
     - Punjab
     - Military
+    - Battle
+    - Move
   text: >-
     *Known as the Baagh Maar or Tiger-killer, he was the central military
     figure that enabled the regional stability of the Sikh Empire. He conquered
@@ -499,6 +553,8 @@
     - Military
     - British Patriot
     - Afghan Prize
+    - Battle
+    - Betray
   text: >-
     *First formed in the late 18th century, regiments of Bengal infantry were
     used to augment the forces of the East India Company throughout the
@@ -514,6 +570,8 @@
     - Military
     - British Patriot
     - Afghan Prize
+    - Battle
+    - Move
   text: >-
     *First raised in the late 18th century by Francis Mackenzie, 1st Baron
     Seaforth, this regiment saw a variety of colonial action throughout the
@@ -527,6 +585,7 @@
     - Punjab
     - Military
     - British Prize
+    - Battle
   text: >-
     *Among the five symbols of Sikh faith is the Kirpan, a small dagger or
     sword. This item symbolizes personal sovereignty and resistance to tyranny.
@@ -540,6 +599,8 @@
   tags:
     - Kandahar
     - Intelligence
+    - Move
+    - Battle
   text: >-
     *Moorcroft led an expedition to central Asia in search of Marco Polo's
     legendary "Turcoman" horses. He fell ill in Northern Afghanistan and likely
@@ -555,6 +616,8 @@
     - Intelligence
     - British Patriot
     - Afghan Prize
+    - Tax
+    - Move
   text: >-
     *Macnaghten impressed his superiors with his grasp of Islamic law and
     quickly rose through the ranks of the EIC. He soon found himself managing a
@@ -569,6 +632,9 @@
   tags:
     - Kandahar
     - Intelligence
+    - Gift
+    - Move
+    - Build
   text: >-
     *Once enlisted in the EIC, Masson faked his death and took on a new name in
     order to explore Afghanistan on foot, undertaking historical research on
@@ -587,6 +653,7 @@
     - Political
     - Afghan Patriot
     - Afghan Prize
+    - Build
   text: >-
     *Dost Mohammad relied on an extensive network of family connections in
     order to maintain control of Afghanistan. Five of his stepbrothers managed
@@ -601,6 +668,7 @@
     - Kandahar
     - Political
     - Afghan Prize
+    - Battle
   text: >-
     *Once a prominent tribe in central Afghanistan, the Giljee were displaced
     by the Duranni. They were among the first tribes to revolt against the Shah
@@ -616,6 +684,8 @@
     - Kandahar
     - Political
     - Russian Prize
+    - Build
+    - Tax
   text: >-
     *The Baluchi traditionally controlled the Bolan Pass. The failure of the
     British to maintain the traditional payments for the security of mountain
@@ -629,6 +699,8 @@
   tags:
     - Kandahar
     - Political
+    - Betray
+    - Gift
   text: >-
     *Originally a staunch supporter of Dost Mohammad and the Barakzai leaders,
     Kakar was one of the first defectors to Shah Shuja. Afghan poet Maulana
@@ -642,6 +714,7 @@
   tags:
     - Kandahar
     - Economic
+    - Gift
   text: >-
     *The Rupee was the chief currency of Afghanistan during the nineteenth
     century, with much of the specie coming directly from raids into the
@@ -656,6 +729,8 @@
     - Kandahar
     - Economic
     - Russian Prize
+    - Gift
+    - Move
   text: >-
     *The Army of the Indus used the Bolan Pass to invade central Afghanistan.
     The dense ridges and maze-like cliff walkways made it easy for the Baluchi
@@ -668,6 +743,8 @@
   tags:
     - Kandahar
     - Economic
+    - Move
+    - Build
   text: >-
     *Southern Afghanistan produces some of the highest quality pomegranates in
     the world. When British troops first entered Kandahar, they were amazed by
@@ -680,6 +757,8 @@
   tags:
     - Kandahar
     - Economic
+    - Tax
+    - Build
   text: >-
     *For much of its history, Kandahar served as a critical agricultural and
     commercial anchor for the region's nomadic tribes. Its location also
@@ -695,6 +774,8 @@
     - Military
     - British Patriot
     - Russian Prize
+    - Battle
+    - Move
   text: >-
     *The vast majority of British regiments in the region were directly
     affiliated with the East India Company. However, the British Army also
@@ -710,6 +791,7 @@
     - Military
     - British Patriot
     - Russian Prize
+    - Battle
   text: >-
     *Keane's varied military career was typical of officers in this period. He
     fought in the Battle of New Orleans, served in the West Indies, and,
@@ -723,6 +805,8 @@
   tags:
     - Kandahar
     - Military
+    - Battle
+    - Tax
   text: >-
     *Often mercenaries were hired to extract revenue from regions outside of a
     ruler's traditional control. Many of these mercenary forces were composed
@@ -736,6 +820,7 @@
     - Kandahar
     - Military
     - Russian Prize
+    - Betray
   text: >-
     *An inexpensive and extremely effective weapon, the muzzle-loading jezail
     rifle was a staple of both regular and irregular Afghan forces. Compared to
@@ -749,6 +834,7 @@
   tags:
     - Herat
     - Intelligence
+    - Tax
   text: >-
     *After the collapse of the Durrani empire, long stretches of the Silk Road
     lapsed into lawlessness. Minor tribal rulers competed with bandits in hopes
@@ -764,6 +850,9 @@
   tags:
     - Herat
     - Political
+    - Battle
+    - Tax
+    - Move
   text: >-
     *The Persian-speaking Hazara people ruled a semi-autonomous region in
     western Afghanistan that remained outside of both the Persian and Afghan
@@ -777,6 +866,7 @@
     - Herat
     - Political
     - Afghan Prize
+    - Betray
   text: >-
     *A political insider who was able to maintain influence throughout the 19th
     century, Yar Mohammad often served as a high level advisor. In 1839 he
@@ -793,6 +883,8 @@
     - Herat
     - Political
     - British Prize
+    - Betray
+    - Move
   text: >-
     *Many scions of the Durrani empire attempted to retain some authority in
     exile. They often maintained small, underground courts in the region's more
@@ -808,6 +900,8 @@
     - Herat
     - Political
     - Afghan Patriot
+    - Gift
+    - Build
   text: >-
     *The Ishaqzai were prominent during the Durrani empire but fell out of
     power with the ascendancy of the Barakzai. In the later 19th century they
@@ -821,6 +915,8 @@
   tags:
     - Herat
     - Military
+    - Betray
+    - Battle
   text: >-
     *The Tajik people have their origins in the Muslim armies that crossed into
     central Asia in the 8th century. Because of the dominance of the Samanid
@@ -835,6 +931,9 @@
     - Herat
     - Military
     - Russian Prize
+    - Tax
+    - Gift
+    - Battle
   text: >-
     *Many tribes in Afghanistan were nomadic and herdsmen by trade. Still, they
     sometimes formed warbands and used seasonal raids to supplement their
@@ -847,6 +946,7 @@
   tags:
     - Herat
     - Economic
+    - Tax
   text: >-
     *Karakul sheep had a coarse wool which was suitable only for rug-making.
     Their chief value was in their fat tails, which were used in cuisine and in
@@ -859,6 +959,8 @@
   tags:
     - Herat
     - Economic
+    - Gift
+    - Build
   text: >-
     *An ancient irrigation technology that is still in use in the present day,
     qanats use a series of vertical shafts and gently sloping tunnels to
@@ -872,6 +974,7 @@
   tags:
     - Herat
     - Economic
+    - Move
   text: >-
     *Because of the long winter and difficult conditions of the passes between
     Herat and Kabul, west-bound commercial traffic was routed through Kandahar
@@ -885,6 +988,7 @@
   tags:
     - Herat
     - Economic
+    - Tax
   text: >-
     *Though opium would prove a lucrative cash crop for Afghan farmers in the
     20th century, during the 19th century production was subdued at best and
@@ -897,6 +1001,9 @@
   tags:
     - Herat
     - Economic
+    - Battle
+    - Tax
+    - Move
   text: >-
     *One of the ancient roads between Herat and Kabul is marked by this
     medieval structure. Built around 1190, some suggest that it was part of
@@ -911,6 +1018,7 @@
     - Herat
     - Economic
     - Afghan Prize
+    - Battle
   text: >-
     *The Baluchi long controlled the Bolan Pass and participated in trade with
     the Indian subcontinent. Smugglers even ran goods throughout southern
@@ -924,6 +1032,8 @@
   tags:
     - Herat
     - Economic
+    - Move
+    - Gift
   text: >-
     *Wheat has served as Afghanistan's agricultural mainstay since antiquity.
     Though subsistence farming left little for the market, wheat was still
@@ -936,6 +1046,7 @@
   tags:
     - Persia
     - Intelligence
+    - Tax
   text: >-
     *Politician, scientist, and poet who briefly served as prime minister of
     Iran. He was betrayed and murdered on the orders of Mohammad Shah Qajar in
@@ -951,6 +1062,8 @@
     - Intelligence
     - Russian Patriot
     - British Prize
+    - Battle
+    - Move
   text: >-
     *Russian diplomat and intelligence officer who helped coordinate
     information networks across central Asia. He helped the Persians direct the
@@ -965,6 +1078,7 @@
     - Intelligence
     - Russian Patriot
     - Afghan Prize
+    - Move
   text: >-
     *Satirist, playwright, and Alexander Pushkin's closest friend, Griboyedov
     served as the Russian ambassador to Persia. He attempted to provide asylum
@@ -981,6 +1095,8 @@
     - Intelligence
     - British Patriot
     - Afghan Prize
+    - Move
+    - Gift
   text: >-
     *Joseph Wolff was a minor celebrity among evangelical travel writers in
     England. He befriended Arthur Conolly on a previous journey to Asia, and,
@@ -995,6 +1111,7 @@
     - Persia
     - Intelligence
     - Russian Prize
+    - Move
   text: >-
     *Bengal-born scholar of Persia who served as a diplomatic agent in
     Ludhiana, Wade distrusted Alexander Burnes and helped make the case for
@@ -1010,6 +1127,8 @@
     - Persia
     - Intelligence
     - British Prize
+    - Build
+    - Battle
   text: >-
     *Allard served as captain of the 7th Hussars under Napoleon. After the
     defeat at Waterloo, Allard traveled throughout Persia and central Asia. He
@@ -1024,6 +1143,8 @@
     - Political
     - Afghan Patriot
     - Russian Prize
+    - Betray
+    - Battle
   text: >-
     *Prime minister to Mohammad Shah Qajar. He brought the Shah into Sufi
     mysticism. Aghasi fought against the mullahs who sought to decentralize
@@ -1037,6 +1158,8 @@
   tags:
     - Persia
     - Political
+    - Tax
+    - Battle
   text: >-
     *A son of Fath Ali-Shah, Mirza was trained as a military commander and led
     troops against Russia and the Ottomans. He sent young commanders to Europe
@@ -1063,6 +1186,8 @@
   tags:
     - Persia
     - Political
+    - Build
+    - Betray
   text: >-
     *The grandson of Fath Ali-Shah, he was the designated heir to the Persian
     throne. Mohammad Shah rebuffed British attempts to outlaw the slave trade
@@ -1076,6 +1201,7 @@
   tags:
     - Persia
     - Economic
+    - Build
   text: >-
     *The Qajar dynasty of Persia made large capital investments to expand the
     road network. This was largely a measure to integrate the border tribes
@@ -1091,6 +1217,8 @@
     - Persia
     - Economic
     - British Prize
+    - Tax
+    - Move
   text: >-
     *In central Asia the slave trade continued throughout the 19th century.
     Many slaves were originally from populations that had been displaced by war
@@ -1106,6 +1234,8 @@
     - Economic
     - British Patriot
     - Russian Prize
+    - Tax
+    - Build
   text: >-
     *The relationship between Britain and Persia was fluid for much the 19th
     century. The British formed a strategic alliance with the Persians in 1801
@@ -1121,6 +1251,8 @@
     - Economic
     - Russian Patriot
     - British Prize
+    - Tax
+    - Build
   text: >-
     *Persia's defeat in the Russo-Persian War led to the 1828 Treaty of
     Turkmenchay. Persia offered Russia many concessions, including ceding the
@@ -1134,6 +1266,8 @@
   tags:
     - Persia
     - Military
+    - Gift
+    - Battle
   text: >-
     *In an effort to modernize the army, Abbas Mirza sent many Persian officers
     to England in 1813. Improved training led to the growth of Persian regional
@@ -1147,6 +1281,7 @@
   tags:
     - Persia
     - Military
+    - Tax
   text: >-
     *One of the world's oldest military institutions with roots in the
     "Immortal Guard" of the Achaemenid Empire, these elite guards were an
@@ -1163,6 +1298,7 @@
     - Military
     - Russian Patriot
     - Afghan Prize
+    - Battle
   text: >-
     *Infantrymen were often stationed at Orenburg which served as a staging
     ground for Russian operations across the Transcaspian Oblast.*
@@ -1175,6 +1311,8 @@
     - Transcaspia
     - Intelligence
     - British Prize
+    - Gift
+    - Build
   text: >-
     *Jewish populations have lived in central Asia since the 7th century but
     routinely faced persecution. In the early 19th century, many Jews fled
@@ -1189,6 +1327,8 @@
     - Transcaspia
     - Intelligence
     - Russian Patriot
+    - Move
+    - Build
   text: >-
     *Exiled to central Asia at 14 for attempting to organize a resistance
     against Russia in Poland, he made the most of his misfortune and found work
@@ -1204,6 +1344,9 @@
     - Transcaspia
     - Intelligence
     - Russian Patriot
+    - Move
+    - Gift
+    - Build
   text: >-
     *Many diplomatic missions to the Russian steppe and central Asia used
     map-making as a cover for their intelligence gathering. The most famous of
@@ -1218,6 +1361,8 @@
     - Transcaspia
     - Intelligence
     - British Patriot
+    - Move
+    - Gift
   text: >-
     *A renowned explorer and travel writer, Conolly first coined the phrase
     "The Great Game." During a later expedition, he was captured while
@@ -1231,6 +1376,9 @@
     - Transcaspia
     - Intelligence
     - Russian Patriot
+    - Move
+    - Betray
+    - Battle
   text: >-
     *Disguised as a merchant from Yarkand, Mehdi was, in fact, a Russian agent
     who operated in and around Kashmir. He attempted to open diplomatic
@@ -1244,6 +1392,8 @@
     - Transcaspia
     - Political
     - British Prize
+    - Tax
+    - Betray
   text: >-
     *A fierce and paranoid ruler, Nasrullah Khan gained notoriety across Europe
     for the imprisonment and execution of two British agents. In the 1830s
@@ -1258,6 +1408,7 @@
     - Transcaspia
     - Political
     - Russian Prize
+    - Betray
   text: >-
     *Bahadur ramped up the enslavement of Russian citizens in order to
     compensate for shortfalls in trade. Fearing a Russian casus belli, British
@@ -1273,6 +1424,9 @@
     - Transcaspia
     - Political
     - British Prize
+    - Battle
+    - Tax
+    - Move
   text: >-
     *Khan of Kunduz and later ruler of Bukhara, Mir Murad Beg's kingdom
     eventually extended to much of modern day Uzbekistan.*
@@ -1285,6 +1439,8 @@
     - Transcaspia
     - Political
     - British Prize
+    - Battle
+    - Betray
   text: >-
     *Ascending to the throne at the age of 12, he expanded the Khanate of
     Kokand to its greatest territorial extent. Unlike his predecessor, Madali
@@ -1299,6 +1455,8 @@
     - Transcaspia
     - Economic
     - British Prize
+    - Tax
+    - Betray
   text: >-
     *In central Asia the slave trade continued throughout the 19th century.
     Many slaves were originally from populations that had been displaced by war
@@ -1314,6 +1472,8 @@
     - Economic
     - Russian Patriot
     - Afghan Prize
+    - Tax
+    - Move
   text: >-
     *The city of Orenburg was a critical outpost, supply depot, and
     administrative city in the Russian Empire, enabling the Empire to project
@@ -1329,6 +1489,8 @@
     - Transcaspia
     - Economic
     - British Prize
+    - Tax
+    - Move
   text: >-
     *This location was central to overland trade with the Khanates of the
     Transcaspian. The caravans of this route were dominated by the Lohanis who
@@ -1342,6 +1504,7 @@
   tags:
     - Transcaspia
     - Military
+    - Build
   text: >-
     *Built in the 5th century, the Ark is a massive fortress which legend says
     was constructed by the epic hero Siyavusha. The Ark has undergone centuries
@@ -1356,6 +1519,7 @@
     - Transcaspia
     - Military
     - British Prize
+    - Gift
   text: >-
     *Western weaponry was commonly shipped to proxy states on the imperial
     frontiers in order to efficiently gain the upper hand over numerically
@@ -1371,6 +1535,7 @@
     - Military
     - Russian Patriot
     - British Prize
+    - Battle
   text: >-
     *Cossacks formed an important component of the Russian strategy in central
     Asia. These irregular cavalry served as scouts, police forces, and
@@ -1387,6 +1552,7 @@
     - Military
     - Russian Patriot
     - British Prize
+    - Battle
   text: >-
     *Taken prisoner during the Napoleonic Wars, Perovsky continued his military
     career after being freed during the fall of Paris. In 1839 he led an
