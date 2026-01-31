@@ -2,7 +2,7 @@
     - q: >-
         When do you collect the action card?
       a: >-
-        At the end of the round, after all players have finished their turns.
+       After all players have finished their turns, after checking initiative and before Events in the campaign.
     - q: >-
         Can this be stolen once it has been played but not resolved?
       a: >-
@@ -12,7 +12,7 @@
     - q: >-
         When do you collect the action card?
       a: >-
-        At the end of the round, after all players have finished their turns.
+        After all players have finished their turns, after checking initiative and before Events.
     - q: >-
         Can this be stolen once it has been played but not resolved?
       a: >-
@@ -22,7 +22,7 @@
     - q: >-
         When do you collect the action card?
       a: >-
-        At the end of the round, after all players have finished their turns.
+        After all players have finished their turns, after checking initiative and before Events in the campaign.
     - q: >-
         Can this be stolen once it has been played but not resolved?
       a: >-
@@ -75,6 +75,10 @@
         How does this interact with '7' action cards and $link:Faithful Cards$?
       a: >-
         For '7' action cards, you may declare any ambition. For Faithful cards, you may declare an ambition based on the current Faith, such as $link:Pluralistic Faith$.
+   - q: >-
+        As $link:Feastbringer$, can you Surpass/Pivot and declare with Galactic Bards if you give the Bards to a Rival as the cost for the Generous modifier?
+      a: >-
+        No; cards must be in your play area throughout an effect to use their modifiers.
   card: Galactic Bards
 - faq:
     - q: >-
@@ -126,6 +130,10 @@
         Can I declare without giving away a Guild card if I have none, or if I'm using Populist Demands?
       a: >-
         No. Giving away a Guild is a mandatory cost for all declares.
+     - q: >-
+        As $link:Feastbringer$, can you Surpass/Pivot and declare with $link:Galactic Bards$ if you give the Bards to a Rival as the cost for the Generous modifier?
+      a: >-
+        No; cards must be in your play area throughout an effect to use their modifiers.
   card: Feastbringer
 - faq:
     - q: >-
@@ -407,7 +415,7 @@
     - q: >-
         If I am First Regent and have Green Vault, can I take Fuel or Material from my own Captives as the Demand for Policy of Escalation?
       a: >-
-        No; that would be removing a frozen piece from the freezing piece, which is not allowed other  than by scrapping or through specific wording on Green Vault.
+        No; that would be removing a frozen piece from the freezing piece, which is not allowed other than by scrapping or through specific wording on Green Vault.
   card: Green Vault
 - faq:
     - q: >-
@@ -643,6 +651,10 @@
         How does the harm rule work with battle?
       a: >-
         Resolve it after dealing hits but before resolving raids. Always do this, even if no hits are dealt!
+ - q: >-
+        In a Closed Economy, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control. 
   card: Feudal Law
 - faq:
     - q: >-
@@ -810,43 +822,43 @@
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 1st Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 2nd Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 3rd Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 4th Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 5th Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 6th Cluster
 - faq:
     - q: >-
         In a Closed Economy, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Closed Economy
 - faq:
     - q: >-
@@ -1211,3 +1223,55 @@
       a: >-
         Just discard 3 resources at any point during Negotiations. It's an action you take on your own.
   card: Magnate Act I Objective
+  - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    card: Fuel Monopoly
+  - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    card: Relic Monopoly
+      - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    card: Weapon Monopoly
+      - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    card: Material Monopoly
+      - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    card: Psionic Monopoly
+ - q: >-
+        When do you collect the action card?
+      a: >-
+        After all players have finished their turns, after checking initiative and before Events.
+    - q: >-
+        Can this be stolen once it has been played but not resolved?
+      a: >-
+        Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.
+    card: The Young Light
+ - q: >-
+        When do you collect the action card?
+      a: >-
+        After all players have finished their turns, after checking initiative and before Events.
+    - q: >-
+        Can this be stolen once it has been played but not resolved?
+      a: >-
+        Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.
+    card: The Prophet
+ - q: >-
+        When do you collect the action card?
+      a: >-
+        After all players have finished their turns, after checking initiative and before Events.
+    - q: >-
+        Can this be stolen once it has been played but not resolved?
+      a: >-
+        Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.
+    card: The Prodigal One
