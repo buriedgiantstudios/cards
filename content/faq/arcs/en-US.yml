@@ -1275,3 +1275,12 @@
       a: >-
         Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.
     card: The Prodigal One
+
+     - q: >-
+        What happens if there aren't enough ships in the supply of the Outlaw earliest in turn order to replace all Imperial ships in the system?
+      a: >-
+        Only remove the amount of ships that can be replaced with ships from that Outlaw's supply, and no more. 
+        If both damaged and fresh Imperial ships could be replaced, but there are not enough ships to replace them all, 
+        the player whose turn it is decides which ones to replace. If it is no one's turn, the player with initiative
+        decides.
+    card: Imperial Defectors
