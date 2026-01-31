@@ -33,6 +33,10 @@
         Is Trade blocked by $link:Sworn Guardians$?
       a: >-
         The Trade action is not stealing and is not blocked by $link:Sworn Guardians$.
+- q: >-
+        Can you Trade resources from Cartels or Monopolies?
+      a: >-
+        No, because in general you can't give or take directly from a supply. You only "gain" from a supply.
   card: Elder Broker
 - faq:
     - q: >-
@@ -372,6 +376,10 @@
         If I guess a Conspiracy token incorrectly, is it revealed?
       a: >-
         No, it stays face down.
+    - q: >-
+        If I advance to zero in the middle of a Chapter due to my Rival guessing a Conspiracy wrong, do I win immediately?
+      a: >-
+        No. You only have a right to win if your marker is still at zero at the end of scoring. You can still increase the marker above zero at that time if your revealed Conspiracies are wrong.
   card: Foiling Conspiracies
 - faq:
     - q: >-
@@ -396,6 +404,10 @@
         Can I place resources I gain from the supply, such as through taxing, on Green Vault?
       a: >-
         Yes! 
+    - q: >-
+        If I am First Regent and have Green Vault, can I take Fuel or Material from my own Captives as the Demand for Policy of Escalation?
+      a: >-
+        No; that would be removing a frozen piece from the freezing piece, which is not allowed other  than by scrapping or through specific wording on Green Vault.
   card: Green Vault
 - faq:
     - q: >-
@@ -415,7 +427,7 @@
     - q: >-
         If I win the $link:Commonwealth Ambition$ as a non-Member, how much Power do I gain?
       a: >-
-        You gain Power for second place alone.
+        You gain Power for second place alone, without doubling it.
     - q: >-
         If the Commonwealth wins the $link:Commonwealth Ambition$ and I am a Member, how much Power do I gain?
       a: >-
@@ -1188,4 +1200,14 @@
         What happens if this is still in the court at the end of an Act?
       a: >-
         At the end of an Act, all cards in the court are shuffled into the court deck, including Armistice. When it is secured in a future Act, it will again return to behind Edict 25. 
+    - q: >-
+        When I secure this card, do I take Captives, or Trophies if I Ransacked it?
+      a: >-
+        No; you put them on other Court cards. The When Secured action supersedes the normal agent-taking rule.
   card: Armistice
+- faq:
+    - q: >-
+        How exactly do I discard for Export to the Galactic Core?
+      a: >-
+        Just discard 3 resources at any point during Negotiations. It's an action you take on your own.
+  card: Magnate Act I Objective
