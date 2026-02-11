@@ -2,7 +2,7 @@
     - q: >-
         When do you collect the action card?
       a: >-
-       After all players have finished their turns, after checking initiative and before Events in the campaign.
+       After all players have finished their turns, before checking initiative and before Events in the campaign.
     - q: >-
         Can this be stolen once it has been played but not resolved?
       a: >-
@@ -12,7 +12,7 @@
     - q: >-
         When do you collect the action card?
       a: >-
-        After all players have finished their turns, after checking initiative and before Events.
+        After all players have finished their turns, before checking initiative and before Events.
     - q: >-
         Can this be stolen once it has been played but not resolved?
       a: >-
@@ -22,7 +22,7 @@
     - q: >-
         When do you collect the action card?
       a: >-
-        After all players have finished their turns, after checking initiative and before Events in the campaign.
+        After all players have finished their turns, before checking initiative and before Events in the campaign.
     - q: >-
         Can this be stolen once it has been played but not resolved?
       a: >-
