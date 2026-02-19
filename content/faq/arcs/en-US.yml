@@ -708,6 +708,10 @@
         When I move Loyal ships, can I move a Witness along with them even if I am not taking a Catapult move?
       a: >-
         Yes.
+     - q: >-
+        Can I move Witnesses with or without ships?
+      a: >-
+        Yes, unless you are Catapulting, in which case you must move ships as well. Otherwise, as long as you control the system the Witnesses start in, you may move them with or without your ships or any other pieces you can move.
   card: Witnesses
 - faq:
     - q: >-
@@ -1036,7 +1040,7 @@
      - q: >-
         Can I move Blight with or without ships?
       a: >-
-        Yes. As long as you control the system the Blight start in, you may move them with or without your ships or any other pieces you can move.
+        Yes. As long as you are not Catapulting, and you control the system the Blight start in, you may move them with or without your ships or any other pieces you can move.
   card: Blight Fury
   
 - faq:
@@ -1048,7 +1052,7 @@
      - q: >-
         Can I move Blight with or without ships?
       a: >-
-        Yes. As long as you control the system the Blight start in, you may move them with or without your ships or any other pieces you can move.
+        Yes. As long as you are not Catapulting, and you control the system the Blight start in, you may move them with or without your ships or any other pieces you can move.
   card: Blight Society
   
 - faq:
