@@ -499,10 +499,6 @@
   card: Pirate Act III Objective
 - faq:
     - q: >-
-        Does the Sponsored token return somewhere when the Sponsored ambition is declared?
-      a: >-
-        No. It remains on its current ambition.
-    - q: >-
         Can I still place a resource on the Imperial Trust if the Sponsored token did not move?
       a: >-
         Yes!
@@ -614,7 +610,8 @@
     - q: >-
         Do the Imperial Truce Law and $link:Armistice$ block this?
       a: >-
-        Yes. The Truce Law prevents Imperial-on-Imperial harm in the presence of Imperial ships, and Armistice prevents Commonwealth harm against Commonwealth Members and Free cities.
+        Yes, if the protected building type is present. The Truce Law prevents Imperial-on-Imperial harm in the presence of Imperial ships, and Armistice prevents Commonwealth harm against Commonwealth Members and Free cities. The action only harms buildings, so if a Regent tries to break a planet with no Rival Regent buildings while Imperial and Rival Regent ships are present, Truce Law does not block the action. However, the Rival Regent cannot battle the Regent breaking the planet due to Truce. 
+     - q: >-
   card: Breaking Worlds
 - faq:
     - q: >-
@@ -1035,7 +1032,25 @@
         Is it legal to take a Catapult move with ships and Blight, as long as I drop the Blight off in the first system?
       a: >-
         No. Blight cannot Catapult move, period. This includes with the Seeker Golem.
+
+     - q: >-
+        Can I move Blight with or without ships?
+      a: >-
+        Yes. As long as you control the system the Blight start in, you may move them with or without your ships or any other pieces you can move.
   card: Blight Fury
+  
+- faq:
+    - q: >-
+        Is it legal to take a Catapult move with ships and Blight, as long as I drop the Blight off in the first system?
+      a: >-
+        No. Blight cannot Catapult move, period. This includes with the Seeker Golem.
+
+     - q: >-
+        Can I move Blight with or without ships?
+      a: >-
+        Yes. As long as you control the system the Blight start in, you may move them with or without your ships or any other pieces you can move.
+  card: Blight Society
+  
 - faq:
     - q: >-
         When exactly do I refill the Court after my Rival secures the card?
@@ -1251,7 +1266,7 @@
  - q: >-
         When do you collect the action card?
       a: >-
-        After all players have finished their turns, after checking initiative and before Events.
+        After all players have finished their turns, before checking initiative and before Events.
     - q: >-
         Can this be stolen once it has been played but not resolved?
       a: >-
@@ -1260,7 +1275,7 @@
  - q: >-
         When do you collect the action card?
       a: >-
-        After all players have finished their turns, after checking initiative and before Events.
+        After all players have finished their turns, before checking initiative and before Events.
     - q: >-
         Can this be stolen once it has been played but not resolved?
       a: >-
@@ -1269,7 +1284,7 @@
  - q: >-
         When do you collect the action card?
       a: >-
-        After all players have finished their turns, after checking initiative and before Events.
+        After all players have finished their turns, before checking initiative and before Events.
     - q: >-
         Can this be stolen once it has been played but not resolved?
       a: >-
@@ -1284,3 +1299,9 @@
         the player whose turn it is decides which ones to replace. If it is no one's turn, the player with initiative
         decides.
     card: Imperial Defectors
+
+     - q: >-
+        May I attach a card to an attached card, rather than the base Court row?
+      a: >-
+        No. This is not a forced attach allowing you to ignore attachment rules, and by default you may only attach to the base Court row.
+    card: Spreading the Faith
