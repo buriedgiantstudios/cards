@@ -2,7 +2,7 @@
     - q: >-
         When do you collect the action card?
       a: >-
-        At the end of the round, after all players have finished their turns.
+       After all players have finished their turns, before checking initiative and before Events in the campaign.
     - q: >-
         Can this be stolen once it has been played but not resolved?
       a: >-
@@ -12,7 +12,7 @@
     - q: >-
         When do you collect the action card?
       a: >-
-        At the end of the round, after all players have finished their turns.
+        After all players have finished their turns, before checking initiative and before Events.
     - q: >-
         Can this be stolen once it has been played but not resolved?
       a: >-
@@ -22,7 +22,7 @@
     - q: >-
         When do you collect the action card?
       a: >-
-        At the end of the round, after all players have finished their turns.
+        After all players have finished their turns, before checking initiative and before Events in the campaign.
     - q: >-
         Can this be stolen once it has been played but not resolved?
       a: >-
@@ -33,6 +33,10 @@
         Is Trade blocked by $link:Sworn Guardians$?
       a: >-
         The Trade action is not stealing and is not blocked by $link:Sworn Guardians$.
+- q: >-
+        Can you Trade resources from Cartels or Monopolies?
+      a: >-
+        No, because in general you can't give or take directly from a supply. You only "gain" from a supply.
   card: Elder Broker
 - faq:
     - q: >-
@@ -71,6 +75,10 @@
         How does this interact with '7' action cards and $link:Faithful Cards$?
       a: >-
         For '7' action cards, you may declare any ambition. For Faithful cards, you may declare an ambition based on the current Faith, such as $link:Pluralistic Faith$.
+   - q: >-
+        As $link:Feastbringer$, can you Surpass/Pivot and declare with Galactic Bards if you give the Bards to a Rival as the cost for the Generous modifier?
+      a: >-
+        No; cards must be in your play area throughout an effect to use their modifiers.
   card: Galactic Bards
 - faq:
     - q: >-
@@ -122,6 +130,10 @@
         Can I declare without giving away a Guild card if I have none, or if I'm using Populist Demands?
       a: >-
         No. Giving away a Guild is a mandatory cost for all declares.
+     - q: >-
+        As $link:Feastbringer$, can you Surpass/Pivot and declare with $link:Galactic Bards$ if you give the Bards to a Rival as the cost for the Generous modifier?
+      a: >-
+        No; cards must be in your play area throughout an effect to use their modifiers.
   card: Feastbringer
 - faq:
     - q: >-
@@ -372,6 +384,10 @@
         If I guess a Conspiracy token incorrectly, is it revealed?
       a: >-
         No, it stays face down.
+    - q: >-
+        If I advance to zero in the middle of a Chapter due to my Rival guessing a Conspiracy wrong, do I win immediately?
+      a: >-
+        No. You only have a right to win if your marker is still at zero at the end of scoring. You can still increase the marker above zero at that time if your revealed Conspiracies are wrong.
   card: Foiling Conspiracies
 - faq:
     - q: >-
@@ -396,6 +412,10 @@
         Can I place resources I gain from the supply, such as through taxing, on Green Vault?
       a: >-
         Yes! 
+    - q: >-
+        If I am First Regent and have Green Vault, can I take Fuel or Material from my own Captives as the Demand for Policy of Escalation?
+      a: >-
+        No; that would be removing a frozen piece from the freezing piece, which is not allowed other than by scrapping or through specific wording on Green Vault.
   card: Green Vault
 - faq:
     - q: >-
@@ -415,7 +435,7 @@
     - q: >-
         If I win the $link:Commonwealth Ambition$ as a non-Member, how much Power do I gain?
       a: >-
-        You gain Power for second place alone.
+        You gain Power for second place alone, without doubling it.
     - q: >-
         If the Commonwealth wins the $link:Commonwealth Ambition$ and I am a Member, how much Power do I gain?
       a: >-
@@ -478,10 +498,6 @@
         No. They have a Loyal piece in the Pirate Haven's system.
   card: Pirate Act III Objective
 - faq:
-    - q: >-
-        Does the Sponsored token return somewhere when the Sponsored ambition is declared?
-      a: >-
-        No. It remains on its current ambition.
     - q: >-
         Can I still place a resource on the Imperial Trust if the Sponsored token did not move?
       a: >-
@@ -594,7 +610,8 @@
     - q: >-
         Do the Imperial Truce Law and $link:Armistice$ block this?
       a: >-
-        Yes. The Truce Law prevents Imperial-on-Imperial harm in the presence of Imperial ships, and Armistice prevents Commonwealth harm against Commonwealth Members and Free cities.
+        Yes, if the protected building type is present. The Truce Law prevents Imperial-on-Imperial harm in the presence of Imperial ships, and Armistice prevents Commonwealth harm against Commonwealth Members and Free cities. The action only harms buildings, so if a Regent tries to break a planet with no Rival Regent buildings while Imperial and Rival Regent ships are present, Truce Law does not block the action. However, the Rival Regent cannot battle the Regent breaking the planet due to Truce. 
+     - q: >-
   card: Breaking Worlds
 - faq:
     - q: >-
@@ -631,6 +648,10 @@
         How does the harm rule work with battle?
       a: >-
         Resolve it after dealing hits but before resolving raids. Always do this, even if no hits are dealt!
+ - q: >-
+        In a Closed Economy, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control. 
   card: Feudal Law
 - faq:
     - q: >-
@@ -687,6 +708,10 @@
         When I move Loyal ships, can I move a Witness along with them even if I am not taking a Catapult move?
       a: >-
         Yes.
+     - q: >-
+        Can I move Witnesses with or without ships?
+      a: >-
+        Yes, unless you are Catapulting, in which case you must move ships as well. Otherwise, as long as you control the system the Witnesses start in, you may move them with or without your ships or any other pieces you can move.
   card: Witnesses
 - faq:
     - q: >-
@@ -711,6 +736,10 @@
         How does this interact with $link:Passages & The Twisted Passage$?
       a: >-
         You can use Force Beams to Guide ships into the Twisted Passage, but not out of it.
+ - q: >-
+        Does the Guide action ignore the Imperial Movement Law?
+      a: >-
+        No. A Regent taking a Guide action must still comply with Movement Law.
   card: Force Beams
 - faq:
     - q: >-
@@ -751,6 +780,10 @@
         If I move ships of the Judge into a gate starport from $link:Gate Ports$, whose agent is captured?
       a: >-
         The Judge's agent is captured, since it is their ship.
+      - q: >-
+        Would Truce Law prevent me from self-hitting the Judge's ships when I attack with them in battle as a Regent Chosen and Imperial ships are present? 
+      a: >-
+        No. Due to an errata, hits the attacker deals to attacking ships are not considered harm. Thus, cards like $link:Empathy for All$ also do not trigger when you self-hit Judge ships as the Chosen.
   card: Judge's Chosen
 - faq:
     - q: >-
@@ -798,43 +831,43 @@
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 1st Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 2nd Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 3rd Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 4th Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 5th Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 6th Cluster
 - faq:
     - q: >-
         In a Closed Economy, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city with any Imperial ships, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Closed Economy
 - faq:
     - q: >-
@@ -1005,13 +1038,35 @@
         How does the Crisis work if the $link:Imperial Officers$ is discarded or in the Court deck?
       a: >-
         The Crisis does *not* work while the card is discarded or in the Court deck.
+     - q: >-
+        What do you do if there is already a card attached to Command Chaos?
+      a: >-
+        Attach the Officers to Command Chaos, keeping the other attached card attached as well.
   card: Command Chaos
 - faq:
     - q: >-
         Is it legal to take a Catapult move with ships and Blight, as long as I drop the Blight off in the first system?
       a: >-
         No. Blight cannot Catapult move, period. This includes with the Seeker Golem.
+
+     - q: >-
+        Can I move Blight with or without ships?
+      a: >-
+        Yes. As long as you are not Catapulting, and you control the system the Blight start in, you may move them with or without your ships or any other pieces you can move.
   card: Blight Fury
+  
+- faq:
+    - q: >-
+        Is it legal to take a Catapult move with ships and Blight, as long as I drop the Blight off in the first system?
+      a: >-
+        No. Blight cannot Catapult move, period. This includes with the Seeker Golem.
+
+     - q: >-
+        Can I move Blight with or without ships?
+      a: >-
+        Yes. As long as you are not Catapulting, and you control the system the Blight start in, you may move them with or without your ships or any other pieces you can move.
+  card: Blight Society
+  
 - faq:
     - q: >-
         When exactly do I refill the Court after my Rival secures the card?
@@ -1109,19 +1164,41 @@
         Can I use $link:Sprinter Drives$ or other sources of extra movement to gain more Fuel?
       a: >-
         No. This card can only be triggered once, for spending the action pip from Copy to move.
+    - q: >-
+        Can I attach this even if there are no Available ambition markers?
+      a: >-
+        Yes. Any card that says you can attach it to do something else can simply be attached, unless the card checks "if you do" attach.
   card: Fuel Liaisons
 - faq:
     - q: >-
         Can I use $link:Dealmakers$ or other sources of extra influence to gain more Psionic?
       a: >-
         No. This card can only be triggered once, for spending the action pip from Copy to influence.
+    - q: >-
+        Can I attach this even if there are no Available ambition markers?
+      a: >-
+        Yes. Any card that says you can attach it to do something else can simply be attached, unless the card checks "if you do" attach.
   card: Psionic Liaisons
 - faq:
     - q: >-
         Can I use the secure from Ransacking the Court or other sources of extra secures to gain more Relics?
       a: >-
         No. This card can only be triggered once, for spending the action pip from Copy to secure.
+     - q: >-
+        Can I attach this even if there are no Available ambition markers?
+      a: >-
+        Yes. Any card that says you can attach it to do something else can simply be attached, unless the card checks "if you do" attach.
   card: Relic Liaisons
+     - q: >-
+        Can I attach this even if there are no Available ambition markers?
+      a: >-
+        Yes. Any card that says you can attach it to do something else can simply be attached, unless the card checks "if you do" attach.
+  card: Weapon Liaisons
+     - q: >-
+        Can I attach this even if there are no Available ambition markers?
+      a: >-
+        Yes. Any card that says you can attach it to do something else can simply be attached, unless the card checks "if you do" attach.
+  card: Material Liaisons
 - faq:
     - q: >-
         How does this interact with $link:Raider Exosuits$?
@@ -1188,4 +1265,87 @@
         What happens if this is still in the court at the end of an Act?
       a: >-
         At the end of an Act, all cards in the court are shuffled into the court deck, including Armistice. When it is secured in a future Act, it will again return to behind Edict 25. 
+    - q: >-
+        When I secure this card, do I take Captives, or Trophies if I Ransacked it?
+      a: >-
+        No; you put them on other Court cards. The When Secured action supersedes the normal agent-taking rule.
   card: Armistice
+- faq:
+    - q: >-
+        How exactly do I discard for Export to the Galactic Core?
+      a: >-
+        Just discard 3 resources at any point during Negotiations. It's an action you take on your own.
+  card: Magnate Act I Objective
+  - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    card: Fuel Monopoly
+  - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    card: Relic Monopoly
+      - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    card: Weapon Monopoly
+      - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    card: Material Monopoly
+      - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    card: Psionic Monopoly
+ - q: >-
+        When do you collect the action card?
+      a: >-
+        After all players have finished their turns, before checking initiative and before Events.
+    - q: >-
+        Can this be stolen once it has been played but not resolved?
+      a: >-
+        Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.
+    card: The Young Light
+ - q: >-
+        When do you collect the action card?
+      a: >-
+        After all players have finished their turns, before checking initiative and before Events.
+    - q: >-
+        Can this be stolen once it has been played but not resolved?
+      a: >-
+        Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.
+    card: The Prophet
+ - q: >-
+        When do you collect the action card?
+      a: >-
+        After all players have finished their turns, before checking initiative and before Events.
+    - q: >-
+        Can this be stolen once it has been played but not resolved?
+      a: >-
+        Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.
+    card: The Prodigal One
+
+     - q: >-
+        What happens if there aren't enough ships in the supply of the Outlaw earliest in turn order to replace all Imperial ships in the system?
+      a: >-
+        Only remove the amount of ships that can be replaced with ships from that Outlaw's supply, and no more. 
+        If both damaged and fresh Imperial ships could be replaced, but there are not enough ships to replace them all, 
+        the player whose turn it is decides which ones to replace. If it is no one's turn, the player with initiative
+        decides.
+    card: Imperial Defectors
+
+     - q: >-
+        May I attach a card to an attached card, rather than the base Court row?
+      a: >-
+        No. This is not a forced attach allowing you to ignore attachment rules, and by default you may only attach to the base Court row.
+    card: Spreading the Faith
+    
+     - q: >-
+        Let's say I build a ship with a starport, Prune it into a city, then Prune it back to a starport, all in 1 turn. Can I build another ship with it this turn?
+      a: >-
+        Yes. The starport after the Prune is functionally new. The same applies to newly Pruned cities with regard to taxing.
+    card: Living Structures
