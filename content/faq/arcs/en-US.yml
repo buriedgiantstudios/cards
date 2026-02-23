@@ -736,6 +736,10 @@
         How does this interact with $link:Passages & The Twisted Passage$?
       a: >-
         You can use Force Beams to Guide ships into the Twisted Passage, but not out of it.
+ - q: >-
+        Does the Guide action ignore the Imperial Movement Law?
+      a: >-
+        No. A Regent taking a Guide action must still comply with Movement Law.
   card: Force Beams
 - faq:
     - q: >-
@@ -776,6 +780,10 @@
         If I move ships of the Judge into a gate starport from $link:Gate Ports$, whose agent is captured?
       a: >-
         The Judge's agent is captured, since it is their ship.
+      - q: >-
+        Would Truce Law prevent me from self-hitting the Judge's ships when I attack with them in battle as a Regent Chosen and Imperial ships are present? 
+      a: >-
+        No. Due to an errata, hits the attacker deals to attacking ships are not considered harm. Thus, cards like $link:Empathy for All$ also do not trigger when you self-hit Judge ships as the Chosen.
   card: Judge's Chosen
 - faq:
     - q: >-
@@ -1030,6 +1038,10 @@
         How does the Crisis work if the $link:Imperial Officers$ is discarded or in the Court deck?
       a: >-
         The Crisis does *not* work while the card is discarded or in the Court deck.
+     - q: >-
+        What do you do if there is already a card attached to Command Chaos?
+      a: >-
+        Attach the Officers to Command Chaos, keeping the other attached card attached as well.
   card: Command Chaos
 - faq:
     - q: >-
@@ -1152,19 +1164,41 @@
         Can I use $link:Sprinter Drives$ or other sources of extra movement to gain more Fuel?
       a: >-
         No. This card can only be triggered once, for spending the action pip from Copy to move.
+    - q: >-
+        Can I attach this even if there are no Available ambition markers?
+      a: >-
+        Yes. Any card that says you can attach it to do something else can simply be attached, unless the card checks "if you do" attach.
   card: Fuel Liaisons
 - faq:
     - q: >-
         Can I use $link:Dealmakers$ or other sources of extra influence to gain more Psionic?
       a: >-
         No. This card can only be triggered once, for spending the action pip from Copy to influence.
+    - q: >-
+        Can I attach this even if there are no Available ambition markers?
+      a: >-
+        Yes. Any card that says you can attach it to do something else can simply be attached, unless the card checks "if you do" attach.
   card: Psionic Liaisons
 - faq:
     - q: >-
         Can I use the secure from Ransacking the Court or other sources of extra secures to gain more Relics?
       a: >-
         No. This card can only be triggered once, for spending the action pip from Copy to secure.
+     - q: >-
+        Can I attach this even if there are no Available ambition markers?
+      a: >-
+        Yes. Any card that says you can attach it to do something else can simply be attached, unless the card checks "if you do" attach.
   card: Relic Liaisons
+     - q: >-
+        Can I attach this even if there are no Available ambition markers?
+      a: >-
+        Yes. Any card that says you can attach it to do something else can simply be attached, unless the card checks "if you do" attach.
+  card: Weapon Liaisons
+     - q: >-
+        Can I attach this even if there are no Available ambition markers?
+      a: >-
+        Yes. Any card that says you can attach it to do something else can simply be attached, unless the card checks "if you do" attach.
+  card: Material Liaisons
 - faq:
     - q: >-
         How does this interact with $link:Raider Exosuits$?
@@ -1309,3 +1343,9 @@
       a: >-
         No. This is not a forced attach allowing you to ignore attachment rules, and by default you may only attach to the base Court row.
     card: Spreading the Faith
+    
+     - q: >-
+        Let's say I build a ship with a starport, Prune it into a city, then Prune it back to a starport, all in 1 turn. Can I build another ship with it this turn?
+      a: >-
+        Yes. The starport after the Prune is functionally new. The same applies to newly Pruned cities with regard to taxing.
+    card: Living Structures
