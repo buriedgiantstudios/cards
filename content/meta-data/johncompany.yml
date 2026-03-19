@@ -25,7 +25,7 @@ subproducts:
       John Company is a game about being the worst.
 
 external:
-  rules: https://rules.buriedgiantstudios.com/?product=johncompany
+  rules: https://rules.buriedgiant.com/?product=johncompany
 
 # https://handlebarsjs.com/guide/
 cardTemplate:

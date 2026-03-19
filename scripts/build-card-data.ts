@@ -17,7 +17,7 @@ const formatCard = (card) => {
   }
 
   const baseImageName = card.image;
-  card.image = `https://cardcdn.buriedgiantstudios.com/cards/${card.game}/${
+  card.image = `https://cardcdn.buriedgiant.com/cards/${card.game}/${
     card.locale
   }/${encodeURIComponent(baseImageName)}.webp`;
 
