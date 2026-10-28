@@ -969,3 +969,391 @@
   tags:
     - New Foundations
     - Vision
+- id: OATH-L01-NF
+  text: >-
+    **If you are an Imperial, discard Iron Hand.** **Setup**: If you were in the
+    previous game, you place one warband on all sites coming from the Atlas
+    until the Empire divider, and players may place their pawn at any site.
+    **Chronicle**: Score your legacies in addition to the winner, and perform
+    Shape Empire and Build Edifice (Throne). Your sites are stored in place of
+    the Empire (Stars).
+  image: Iron Hand (NF)
+  imageClass: rotated
+  name: Iron Hand
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L02-NF
+  text: >-
+    **Chronicle (Sun)**: After Resolve Legacies, you may declare that all
+    players score their legacies now. _Each legacy may only be scored once per
+    game._
+  image: Chronicler (NF)
+  imageClass: rotated
+  name: Chronicler
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L03-NF
+  text: >-
+    **Chronicle**: Your **other** legacies **cannot** become dormant—they always
+    stay active.
+  image: Steadfast (NF)
+  imageClass: rotated
+  name: Steadfast
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L04-NF
+  text: >-
+    **Action**: Return a banner you hold to the shared bank. _Do not adjust its
+    `symbol:favor`/`symbol:secret`._ If you do, remove all warbands except the
+    last _(including bandits)_ from each site and player board, even yours.
+  image: Peacemaker (NF)
+  imageClass: rotated
+  name: Peacemaker
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L05-NF
+  text: After you take a banner in any way, you may flip it to its other side.
+  image: The Needle (NF)
+  imageClass: rotated
+  name: The Needle
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L06-NF
+  text: >-
+    **Setup**: You gain eight starting warbands _(instead of three)_. If you're
+    Imperial and other Imperials would gain fewer than three, you gain less.
+  image: Circle of Swords (NF)
+  imageClass: rotated
+  name: Circle of Swords
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L07-NF
+  text: >-
+    **If you are an Imperial:** **Chronicle (Throne)**: You perform Build
+    Edifice and may replace a denizen with an available edifice of any suit. _It
+    doesn't have to match!_ Do this even if the Iron Hand is in play.
+  image: Great Architect (NF)
+  imageClass: rotated
+  name: Great Architect
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L08-NF
+  text: >-
+    **If you are an Imperial:** **Travel**: Traveling to the Cradle costs you
+    only 1 Supply.
+  image: Ancestral Lands (NF)
+  imageClass: rotated
+  name: Ancestral Lands
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L09-NF
+  text: >-
+    **If you are an Imperial:** **Setup**: You start with the Grand Scepter
+    _(instead of the Chancellor)_.
+  image: Scepter Bearer (NF)
+  imageClass: rotated
+  name: Scepter Bearer
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L10-NF
+  text: >-
+    **If you are a Citizen:** At the end of the game, you may choose which
+    Imperial meets the Successor goal. _Ignore the printed goals. You may choose
+    no one._
+  image: Royal Line (NF)
+  imageClass: rotated
+  name: Royal Line
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L11-NF
+  text: >-
+    **If you are an Imperial:** **Battle Plan**: If your enemy is an Imperial,
+    ±2 `symbol:dicer` and you ignore all `symbol:skull` you roll when attacking.
+  image: Keeper of Order (NF)
+  imageClass: rotated
+  name: Keeper of Order
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L12-NF
+  text: >-
+    **If you are an Imperial:** You may always peek at the Reliquary.
+    **Action**: Burn `symbol:secretb` `symbol:favorb` to take a relic from the
+    Reliquary.
+  image: Golden Key (NF)
+  imageClass: rotated
+  name: Golden Key
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L13-NF
+  text: >-
+    **Setup**: For the Imperial Maps foundation, you fill site slots, using any
+    mix of Recent and Forgotten Sites _(after resolving the Rival legacy)_. For
+    the Wide Horizons foundation, when anyone explores, you fill the slot with a
+    Recent or Forgotten Site.
+  image: World Crafter (NF)
+  imageClass: rotated
+  name: World Crafter
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L14-NF
+  text: >-
+    Whenever players draw legacies from the deck and choose one to keep, you
+    draw and choose for them instead. _The Amber Doors edifice does not trigger
+    this._
+  image: Matchmaker (NF)
+  imageClass: rotated
+  name: Matchmaker
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L15-NF
+  text: >-
+    **Chronicle (Throne)**: After Build Edifice, you may discard any number of
+    denizens at Imperial sites.
+  image: Revolutionary (NF)
+  imageClass: rotated
+  name: Revolutionary
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L16-NF
+  text: >-
+    **Setup**: When setting up the favor banks, you may choose to divide the
+    favor among the banks evenly. If you do, take any remainder. _For example,
+    dividing 19 favor among the banks leaves you one favor._
+  image: Populist (NF)
+  imageClass: rotated
+  name: Populist
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L17-NF
+  text: >-
+    **Chronicle (Throne)**: In Shape Empire, you may prevent any number of
+    denizens from being discarded. **Setup**: If you are an Exile, before
+    resolving foundations, fill the three Cradlemost empty site slots using the
+    Empire setup rules, but place one warband of yours on each _(not an Imperial
+    warband)_. You may place your pawn on these sites.
+  image: Rival (NF)
+  imageClass: rotated
+  name: Rival
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L18-NF
+  text: >-
+    **Setup**: After placing your pawn, you may take a banner from the shared
+    bank and place two more `symbol:favor`/`symbol:secret` on it from the shared
+    bank.
+  image: The Standard Bearer (NF)
+  imageClass: rotated
+  name: The Standard Bearer
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L19-NF
+  text: >-
+    **Action**: You may peek at the relics at **any** site. _You may peek at
+    them later at any time._ **Chronicle (Throne)**: In Scatter Relics, you
+    examine the relics and choose which sites they go to.
+  image: The Ear (NF)
+  imageClass: rotated
+  name: The Ear
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L20-NF
+  text: >-
+    **Chronicle (Throne)**: Before Scatter Relics, secretly choose one of your
+    relics to keep facedown. You will start the next game with it.
+  image: Heirloom (NF)
+  imageClass: rotated
+  name: Heirloom
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L21-NF
+  text: >-
+    **Action**: If you have the Darkest Secret, you may move any number of
+    `symbol:secret` from the Darkest Secret to your player board. **When
+    Negotiating**: You may give `symbol:secret`.
+  image: High Priest (NF)
+  imageClass: rotated
+  name: High Priest
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L22-NF
+  text: >-
+    **Setup**: When building the world deck, peek at the Visions and secretly
+    place them in any positions.
+  image: Seer (NF)
+  imageClass: rotated
+  name: Seer
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L23-NF
+  text: >-
+    **End of Round**: Before the end die is rolled, you may choose to modify the
+    roll by −1 to +3.
+  image: Arbiter (NF)
+  imageClass: rotated
+  name: Arbiter
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L24-NF
+  text: >-
+    **Chronicle (Beacon)**: If you're resolving the Beacon, you may take any six
+    cards from the Dispossessed _(instead of choosing suits and taking from
+    their matching dividers)_.
+  image: The Bright Beacon (NF)
+  imageClass: rotated
+  name: The Bright Beacon
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L25-NF
+  text: >-
+    When you would gain a starting adviser, bury it, except for—**Chronicle
+    (World)**: In Gather Denizens, keep up to 3 faceup advisers of yours. They
+    will be your facedown starting advisers in the next game.
+  image: Oaths of Loyalty (NF)
+  imageClass: rotated
+  name: Oaths of Loyalty
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L26-NF
+  text: >-
+    **Wake**: On your first turn, secretly write down which round the game will
+    end on and who will win. If you are correct, you win instead. _This even
+    beats a Successor win._
+  image: Conspirator (NF)
+  imageClass: rotated
+  name: Conspirator
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L27-NF
+  text: >-
+    **Wake**: When you Take Wealth, you may take `symbol:favor`/`symbol:secret`
+    from your site even if enemy pawns are there.
+  image: Light Fingers (NF)
+  imageClass: rotated
+  name: Light Fingers
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L28-NF
+  text: >-
+    **Setup**: Before building the world deck, you may secretly choose a Vision
+    except the Conspiracy to take as a facedown adviser—advance Visions Drawn
+    and build the world deck from stacks with 2 Visions each.
+  image: Secret Society (NF)
+  imageClass: rotated
+  name: Secret Society
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L29-NF
+  text: >-
+    **Action**: Burn `symbol:favorb` `symbol:favorb` to bury a denizen at your
+    site.
+  image: Ruthless (NF)
+  imageClass: rotated
+  name: Ruthless
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L30-NF
+  text: >-
+    **Setup**: You may choose to not place your pawn. If you do, you may choose
+    one card from the Dispossessed and swap it with a starting adviser or card
+    you drew in Foundation IV. _It is not buried by the Oaths of Loyalty
+    legacy._ **Wake**: On your first turn, you **must** place your pawn at any
+    site.
+  image: Quest to Distant Lands (NF)
+  imageClass: rotated
+  name: Quest to Distant Lands
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L31-NF
+  text: >-
+    Set Foundation II to Movers and Shakers. **Setup**: After placing your pawn,
+    take `symbol:favor` from two players or take `symbol:favor` `symbol:favor`
+    `symbol:favor` from the shared bank.
+  image: Wealthy (NF)
+  imageClass: rotated
+  name: Wealthy
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L32-NF
+  text: >-
+    Set Foundation III to Public Ambitions. **Chronicle (Sun)**: Before players
+    resolve legacies, you may take one active legacy from an enemy if you meet
+    its goal.
+  image: Gatekeeper (NF)
+  imageClass: rotated
+  name: Gatekeeper
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L33-NF
+  text: >-
+    Set Foundation IV to Teeming World. **When Trading**: You may trade with
+    advisers held by other players whose pawns are at your site.
+  image: Beloved (NF)
+  imageClass: rotated
+  name: Beloved
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L34-NF
+  text: >-
+    Set Foundation VI to Festival. **Action**: Burn `symbol:favorb`
+    `symbol:favorb` to activate a dormant legacy if you meet its goal. _You can
+    even activate legacies in the Public Ambitions foundation._
+  image: The Mouth (NF)
+  imageClass: rotated
+  name: The Mouth
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L35-NF
+  text: >-
+    Set Foundation V to Grand Council. **Chronicle (Start of Throne)**: If you
+    won, you may move and swap denizens at sites you rule, ignoring the locked
+    restriction.
+  image: Reformer (NF)
+  imageClass: rotated
+  name: Reformer
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L36-NF
+  text: >-
+    Set Foundation I to Wide Horizons. **Travel**: You may ignore the Mountain,
+    Island, and Pass powers.
+  image: Pathfinder (NF)
+  imageClass: rotated
+  name: Pathfinder
+  tags:
+    - New Foundations
+    - Legacy
