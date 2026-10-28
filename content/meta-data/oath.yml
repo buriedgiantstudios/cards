@@ -14,10 +14,15 @@ subproducts:
   - name: Oath Base Game
     id: oathbasegame
     desc: >
-      Oath: Exiles & Empires is a game about being the coolest.
+      Guide the course of history in an ancient land. The consequences of one game will ripple through those that follow.
+
+  - name: Denizen Deck
+    id: denizen-deck
+    desc: >
+      Add sixty new denizen cards that you can use with either the base game of Oath or New Foundations.
 
 external:
-  rules: https://rules.buriedgiantstudios.com
+  rules: https://rules.buriedgiant.com/?product=oathnf
 
 # https://handlebarsjs.com/guide/
 cardTemplate:

@@ -10,10 +10,10 @@ subproducts:
   - name: Pax Pamir 2nd Edition
     id: paxpamir2nd
     desc: >
-      Pax Pamir is a game about the Great Game.
+      For generations the Durrani Empire held the region together. Now, their authority has collapsed. Rivals both old and new have emerged from the shadows. It’s up to the players to see if a fledgling Afghan state might come into being.
 
 external:
-  rules: https://rules.buriedgiantstudios.com/?product=paxpamir
+  rules: https://rules.buriedgiant.com/?product=paxpamir
 
 # https://handlebarsjs.com/guide/
 cardTemplate:
