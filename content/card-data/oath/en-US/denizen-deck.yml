@@ -1,0 +1,583 @@
+- id: OATH-199
+  text: >-
+    You may muster by placing `symbol:favor` on Golem Legions. _It counts itself
+    as a matching adviser._
+  image: Golem Legions
+  name: Golem Legions
+  tags:
+    - Denizen Deck
+    - Arcane
+    - Muster
+    - Power
+- id: OATH-200
+  text: >-
+    **When Negotiating**: You may give, receive, and swap advisers. _You cannot
+    exchange locked advisers. You still follow your adviser limit._
+  image: Council Arbiter
+  name: Council Arbiter
+  tags:
+    - Denizen Deck
+    - Arcane
+    - Power
+- id: OATH-201
+  text: >-
+    If this site has an empty relic slot, draw a relic from the relic deck and
+    place it here facedown.
+  image: Catacombs
+  name: Catacombs
+  tags:
+    - Denizen Deck
+    - Arcane
+    - Recover
+    - Power
+- id: OATH-202
+  text: >-
+    **Action**: Choose a player whose pawn is at your site. Flip X
+    `symbol:secret` on their board facedown.
+  image: Ward of Silence
+  name: Ward of Silence
+  tags:
+    - Denizen Deck
+    - Arcane
+    - Power
+- id: OATH-203
+  text: >-
+    You **must** gain `symbol:secret` instead of `symbol:favor` when you play to
+    a site.
+  image: Vow of Wisdom
+  name: Vow of Wisdom
+  tags:
+    - Denizen Deck
+    - Arcane
+    - Search
+- id: OATH-204
+  text: >-
+    **Action**: Discard a relic you hold to gain `symbol:secret`
+    `symbol:secret`.
+  image: Arcane Brokers
+  name: Arcane Brokers
+  tags:
+    - Denizen Deck
+    - Arcane
+    - Power
+- id: OATH-205
+  text: >-
+    If you have the Darkest Secret, spend only 2 Supply if you're searching the
+    world deck.
+  image: Disciples
+  name: Disciples
+  tags:
+    - Denizen Deck
+    - Arcane
+    - Search
+    - Power
+- id: OATH-206
+  text: >-
+    Set X `symbol:diceb` you have collected to their `symbol:shield`
+    `symbol:shield` face instead of rolling them.
+  image: Arcane Armor
+  name: Arcane Armor
+  tags:
+    - Denizen Deck
+    - Arcane
+    - Battle Plan
+- id: OATH-207
+  text: >-
+    You may also target `symbol:secret` on your enemy's board except their last.
+    Add `symbol:diceb` for each targeted. If you're victorious, take them.
+  image: Glamor
+  name: Glamor
+  tags:
+    - Denizen Deck
+    - Arcane
+    - Battle Plan
+- id: OATH-208
+  text: >-
+    **When Played**, the player who rules the most `symbol:suit-arcane` cards
+    takes the Darkest Secret. You decide ties. _Don't remove `symbol:secret`
+    from it._
+  image: Wizard's Conclave
+  name: Wizard's Conclave
+  tags:
+    - Denizen Deck
+    - Arcane
+- id: OATH-209
+  text: >-
+    **When Played**, if you rule at least three other `symbol:suit-beast` cards,
+    you may change the Oathkeeper goal.
+  image: True Oath
+  name: True Oath
+  tags:
+    - Denizen Deck
+    - Beast
+- id: OATH-210
+  text: >-
+    **Action**: Discard a relic you hold to gain `symbol:favor` `symbol:favor`
+    `symbol:favor` from the `symbol:suit-beast` bank.
+  image: Bog
+  name: Bog
+  tags:
+    - Denizen Deck
+    - Beast
+    - Power
+- id: OATH-211
+  text: >-
+    **Action**: Choose a player whose pawn is at your site. They **must** place
+    `symbol:favor` `symbol:favor` on this card.
+  image: Whispering Leaves
+  name: Whispering Leaves
+  tags:
+    - Denizen Deck
+    - Beast
+    - Power
+- id: OATH-212
+  text: >-
+    **Action**: Bury a faceup adviser you have _(even if locked)_ to gain
+    `symbol:secret` `symbol:secret`.
+  image: Bed of Roots
+  name: Bed of Roots
+  tags:
+    - Denizen Deck
+    - Beast
+    - Power
+- id: OATH-213
+  text: >-
+    **When Played**, shuffle together all discard piles, then deal these cards
+    to the discard piles as evenly as possible. You decide ties.
+  image: Autumn Wind
+  name: Autumn Wind
+  tags:
+    - Denizen Deck
+    - Beast
+- id: OATH-214
+  text: >-
+    **When Played**, move all favor in each favor bank to the next bank to the
+    right. `symbol:suit-nomad` moves to `symbol:suit-discord`.
+  image: Shifting Fog
+  name: Shifting Fog
+  tags:
+    - Denizen Deck
+    - Beast
+- id: OATH-215
+  text: >-
+    If you have the Darkest Secret, you may count each `symbol:swordh` as a
+    `symbol:sword` instead.
+  image: Fae Battalion
+  name: Fae Battalion
+  tags:
+    - Denizen Deck
+    - Beast
+    - Battle Plan
+- id: OATH-216
+  text: >-
+    **Wake**: You **must** bury an adviser held by a player whose pawn is at
+    your site _(even yourself)_, but cannot bury this card.
+  image: Hunger
+  name: Hunger
+  tags:
+    - Denizen Deck
+    - Beast
+    - Power
+- id: OATH-217
+  text: >-
+    Reveal the top three cards of your region's discard pile. ±2 `symbol:dicer`
+    per revealed `symbol:suit-beast`. Discard all of the revealed cards.
+  image: Signal Trees
+  name: Signal Trees
+  tags:
+    - Denizen Deck
+    - Beast
+    - Battle Plan
+- id: OATH-218
+  text: >-
+    If you play a `symbol:suit-beast` card to a site, you may bury a denizen at
+    the site first.
+  image: Forest Warden
+  name: Forest Warden
+  tags:
+    - Denizen Deck
+    - Beast
+    - Search
+    - Power
+- id: OATH-219
+  text: '**Action**: If your site is ruled by bandits, gain 2 warbands.'
+  image: Bandit Paymaster
+  name: Bandit Paymaster
+  tags:
+    - Denizen Deck
+    - Discord
+    - Power
+- id: OATH-220
+  text: '**When Played**, take a random relic from the Reliquary.'
+  image: Reliquary Raid
+  name: Reliquary Raid
+  tags:
+    - Denizen Deck
+    - Discord
+- id: OATH-221
+  text: >-
+    **Action**: Choose an enemy pawn at your site and end your Act Phase.
+    **Wake**: If you chose a pawn last turn, you may place your pawn at their
+    site.
+  image: Tracker
+  name: Tracker
+  tags:
+    - Denizen Deck
+    - Discord
+    - Power
+- id: OATH-222
+  text: >-
+    +3 `symbol:dicer` if the defender has the Darkest Secret or People's Favor.
+  image: Banner Breakers
+  name: Banner Breakers
+  tags:
+    - Denizen Deck
+    - Discord
+    - Battle Plan
+- id: OATH-223
+  text: >-
+    Your advisers all have the `symbol:suit-discord` suit instead of their
+    printed suit. _Marriage counts as two `symbol:suit-discord`._
+  image: Pledge to Discord
+  name: Pledge to Discord
+  tags:
+    - Denizen Deck
+    - Discord
+- id: OATH-224
+  text: >-
+    Act as if your pawn is at any site. _You may use Trade modifiers at the
+    site._
+  image: Friendly Familiar
+  name: Friendly Familiar
+  tags:
+    - Denizen Deck
+    - Discord
+    - Trade
+    - Power
+- id: OATH-225
+  text: >-
+    If you hold the Darkest Secret, burn X `symbol:secret` from it to collect X
+    `symbol:diceb`.
+  image: Unstable Summon
+  name: Unstable Summon
+  tags:
+    - Denizen Deck
+    - Discord
+    - Battle Plan
+- id: OATH-226
+  text: >-
+    **When Played**, you may replace all bandits at any sites you choose with
+    warbands from your warband bank.
+  image: Bandit Prince
+  name: Bandit Prince
+  tags:
+    - Denizen Deck
+    - Discord
+- id: OATH-227
+  text: >-
+    **Action**: Discard all `symbol:suit-order` and `symbol:suit-hearth` cards
+    from your site.
+  image: Dark Enforcer
+  name: Dark Enforcer
+  tags:
+    - Denizen Deck
+    - Discord
+    - Power
+- id: OATH-228
+  text: '**Action**: Enemies with a pawn at your site each lose 1 Supply.'
+  image: Spoiled Supplies
+  name: Spoiled Supplies
+  tags:
+    - Denizen Deck
+    - Discord
+    - Power
+- id: OATH-229
+  text: >-
+    You may trade with denizens that have exactly one `symbol:secret` on them.
+  image: Old Songs
+  name: Old Songs
+  tags:
+    - Denizen Deck
+    - Hearth
+    - Trade
+    - Power
+- id: OATH-230
+  text: >-
+    Players **cannot** campaign against you unless they rule a
+    `symbol:suit-hearth` card.
+  image: Diplomat
+  name: Diplomat
+  tags:
+    - Denizen Deck
+    - Hearth
+    - Campaign
+- id: OATH-231
+  text: >-
+    After mustering with this card, gain `symbol:favor` from the
+    `symbol:suit-hearth` bank.
+  image: Village Idiot
+  name: Village Idiot
+  tags:
+    - Denizen Deck
+    - Hearth
+    - Muster
+    - Power
+- id: OATH-232
+  text: >-
+    You may declare a suit, then draw from your discard pile until you draw that
+    suit. If you don't draw it, discard all drawn cards. You **cannot** use
+    other modifiers.
+  image: Spinning Bee
+  name: Spinning Bee
+  tags:
+    - Denizen Deck
+    - Hearth
+    - Search
+    - Power
+- id: OATH-233
+  text: >-
+    **Action**: Add `symbol:favor` to the People's Favor from any favor bank, or
+    burn `symbol:favorb` from the People's Favor.
+  image: Firebrand
+  name: Firebrand
+  tags:
+    - Denizen Deck
+    - Hearth
+    - Power
+- id: OATH-234
+  text: + `symbol:diceb` if any target is in the Cradle.
+  image: Watchdog
+  name: Watchdog
+  tags:
+    - Denizen Deck
+    - Hearth
+    - Battle Plan
+- id: OATH-235
+  text: >-
+    **When Played**, take the People's Favor. If you do, adjust its
+    `symbol:favor` using its left ribbon.
+  image: Favored Son
+  name: Favored Son
+  tags:
+    - Denizen Deck
+    - Hearth
+- id: OATH-236
+  text: >-
+    **When Played**, gain `symbol:favor` from any favor bank for each
+    `symbol:suit-hearth` card you rule. _This includes your advisers, even Town
+    Meeting._
+  image: Town Meeting
+  name: Town Meeting
+  tags:
+    - Denizen Deck
+    - Hearth
+- id: OATH-237
+  text: >-
+    During the Rest Phase of any player, League Treaty's ruler may move any
+    `symbol:favor` from cards in its region to any one favor bank.
+  image: League Treaty
+  name: League Treaty
+  tags:
+    - Denizen Deck
+    - Hearth
+- id: OATH-238
+  text: You may trade with any denizens in your region.
+  image: Skilled Merchants
+  name: Skilled Merchants
+  tags:
+    - Denizen Deck
+    - Hearth
+    - Trade
+    - Power
+- id: OATH-239
+  text: >-
+    If you're victorious in a conquest, take `symbol:favor` for each card at
+    targeted sites from the matching favor bank.
+  image: Tribute Spoils
+  name: Tribute Spoils
+  tags:
+    - Denizen Deck
+    - Nomad
+    - Battle Plan
+- id: OATH-240
+  text: >-
+    **When Played**, peek at the bottom 3 cards of a discard pile and play one
+    as if you searched. _Return the rest._
+  image: Search Party
+  name: Search Party
+  tags:
+    - Denizen Deck
+    - Nomad
+- id: OATH-241
+  text: >-
+    After trading with Moving Market, you may move this card to any site with
+    capacity. If you do, gain `symbol:favor` from the `symbol:suit-nomad` bank.
+  image: Moving Market
+  name: Moving Market
+  tags:
+    - Denizen Deck
+    - Nomad
+    - Trade
+    - Power
+- id: OATH-242
+  text: '**When Negotiating**: You may negotiate with any player.'
+  image: Traveling Negotiator
+  name: Traveling Negotiator
+  tags:
+    - Denizen Deck
+    - Nomad
+    - Power
+- id: OATH-243
+  text: >-
+    +X `symbol:diceb` X equals all `symbol:suit-nomad` cards you rule. At end,
+    discard this card.
+  image: Pledge of Defense
+  name: Pledge of Defense
+  tags:
+    - Denizen Deck
+    - Nomad
+    - Battle Plan
+- id: OATH-244
+  text: >-
+    **Action**: If you hold the Darkest Secret, change the Oathkeeper goal to
+    anything but Devotion.
+  image: The Red Seer
+  name: The Red Seer
+  tags:
+    - Denizen Deck
+    - Nomad
+    - Power
+- id: OATH-245
+  text: Travel costs one less Supply _(minimum 1)_.
+  image: Royal Stables
+  name: Royal Stables
+  tags:
+    - Denizen Deck
+    - Nomad
+    - Travel
+    - Power
+- id: OATH-246
+  text: >-
+    **When Played**, reveal and discard up to 6 cards from your region's discard
+    pile. Gain 2 warbands for each revealed `symbol:suit-nomad` card.
+  image: Call for Help
+  name: Call for Help
+  tags:
+    - Denizen Deck
+    - Nomad
+- id: OATH-247
+  text: Gain two more warbands. You **cannot** place warbands on sites.
+  image: Vow of Wandering
+  name: Vow of Wandering
+  tags:
+    - Denizen Deck
+    - Nomad
+    - Muster
+    - Power
+- id: OATH-248
+  text: >-
+    If trading on Mounted Library for `symbol:secret`, gain double the
+    `symbol:secret`, then discard Mounted Library.
+  image: Mounted Library
+  name: Mounted Library
+  tags:
+    - Denizen Deck
+    - Nomad
+    - Trade
+    - Power
+- id: OATH-249
+  text: >-
+    You may reroll any number of dice that show hollow swords `symbol:swordh`
+    once.
+  image: Master at Arms
+  name: Master at Arms
+  tags:
+    - Denizen Deck
+    - Order
+    - Battle Plan
+- id: OATH-250
+  text: >-
+    You may play to any site you rule, and you may discard a denizen from that
+    site first.
+  image: Baron
+  name: Baron
+  tags:
+    - Denizen Deck
+    - Order
+    - Search
+    - Power
+- id: OATH-251
+  text: >-
+    **Action**: Choose a player with no `symbol:suit-order` advisers whose pawn
+    is at your site. Bury a faceup adviser they have.
+  image: Honor Guard
+  name: Honor Guard
+  tags:
+    - Denizen Deck
+    - Order
+    - Power
+- id: OATH-252
+  text: >-
+    While at this site, enemies of City Wall's ruler **cannot** place
+    `symbol:favor`/`symbol:secret` on cards or use non-persistent powers.
+  image: City Wall
+  name: City Wall
+  tags:
+    - Denizen Deck
+    - Order
+- id: OATH-253
+  text: >-
+    Each `symbol:skull` you roll adds two more `symbol:sword` _(4 total)_, even
+    if the `symbol:skull` is ignored _(Outriders, etc)_.
+  image: Fearsome General
+  name: Fearsome General
+  tags:
+    - Denizen Deck
+    - Order
+    - Battle Plan
+- id: OATH-254
+  text: >-
+    The defender **must** roll their `symbol:diceb` **before** the attacker
+    rolls their `symbol:dicer`.
+  image: Careful Plans
+  name: Careful Plans
+  tags:
+    - Denizen Deck
+    - Order
+    - Battle Plan
+- id: OATH-255
+  text: >-
+    In a conquest, warbands on targeted sites each add +2 defense _(instead of
+    +1)_.
+  image: Garrison Armory
+  name: Garrison Armory
+  tags:
+    - Denizen Deck
+    - Order
+    - Battle Plan
+- id: OATH-256
+  text: ±2 `symbol:dicer` if your enemy rules a `symbol:suit-beast` card.
+  image: Battle Axes
+  name: Battle Axes
+  tags:
+    - Denizen Deck
+    - Order
+    - Battle Plan
+- id: OATH-257
+  text: >-
+    **Action**: Discard a `symbol:suit-beast` card at your site to gain 3
+    Supply.
+  image: Great Feast
+  name: Great Feast
+  tags:
+    - Denizen Deck
+    - Order
+    - Power
+- id: OATH-258
+  text: '**Wake**: If you rule this card, gain 1 Supply.'
+  image: Quartermaster
+  name: Quartermaster
+  tags:
+    - Denizen Deck
+    - Order
+    - Power
