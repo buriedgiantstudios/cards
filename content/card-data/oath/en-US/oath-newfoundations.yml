@@ -1,0 +1,588 @@
+- id: OATH-R01-NF
+  meta:
+    defense: 3
+  name: Sticky Fire
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: >-
+    If you're victorious, you may kill all the warbands in your enemy's force.
+    If you do, you **must** give them `symbol:favor` if able.
+  image: Sticky Fire (NF)
+  imageClass: square
+- id: OATH-R02-NF
+  meta:
+    defense: 2
+  name: Cursed Cauldron
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: >-
+    If you're victorious, gain 1 warband per enemy warband killed in this
+    campaign.
+  image: Cursed Cauldron (NF)
+  imageClass: square
+- id: OATH-R03-NF
+  meta:
+    defense: 2
+  name: Brass Horse
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Reveal the top card of your region's discard pile. Place your
+    pawn at a site with a matching card. If you cannot, place it at any site.
+    Flip the revealed card down.
+  image: Brass Horse (NF)
+  imageClass: square
+- id: OATH-R04-NF
+  meta:
+    defense: 0
+  name: Truthful Harp
+  tags:
+    - New Foundations
+    - Relic
+    - Search
+    - Power
+  text: >-
+    You may draw 2 more cards. If you do, you **must** show every card you draw
+    and the card you keep to everyone.
+  image: Truthful Harp (NF)
+  imageClass: square
+- id: OATH-R05-NF
+  meta:
+    defense: 1
+  name: Grand Mask
+  tags:
+    - New Foundations
+    - Relic
+  text: >-
+    If you're an Exile, during your turn you rule denizens except battle plans
+    at Imperial sites, and Imperials do not.
+  image: Grand Mask (NF)
+  imageClass: square
+- id: OATH-R06-NF
+  meta:
+    defense: 2
+  name: Horned Mask
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Wake**: You may take a denizen, but not an edifice, from your site as a
+    facedown adviser. _(Once per turn, like all Wake powers.)_
+  image: Horned Mask (NF)
+  imageClass: square
+- id: OATH-R07-NF
+  meta:
+    defense: 1
+  name: Cup of Plenty
+  tags:
+    - New Foundations
+    - Relic
+    - Trade
+    - Power
+  text: >-
+    Spend no Supply if you're trading with a card that **does not** match any of
+    your advisers.
+  image: Cup of Plenty (NF)
+  imageClass: square
+- id: OATH-R08-NF
+  meta:
+    defense: 1
+  name: Whistle
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Take a pawn from another site, place it at your site, and give
+    them the `symbol:secret` here.
+  image: Whistle (NF)
+  imageClass: square
+- id: OATH-R09-NF
+  meta:
+    defense: 1
+  name: Dowsing Sticks
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Draw a relic from the relic deck and take it. _(You may keep it
+    facedown.)_
+  image: Dowsing Sticks (NF)
+  imageClass: square
+- id: OATH-R10-NF
+  meta:
+    defense: 1
+  name: Cracked Horn
+  tags:
+    - New Foundations
+    - Relic
+    - Search
+    - Power
+  text: You may put all the cards you discard on the bottom of the world deck.
+  image: Cracked Horn (NF)
+  imageClass: square
+- id: OATH-R11-NF
+  meta:
+    defense: 3
+  name: Bandit Crown
+  tags:
+    - New Foundations
+    - Relic
+  text: >-
+    You may use denizens at sites ruled by bandits as if you ruled them. _You
+    may use these battle plans against bandits._
+  image: Bandit Crown (NF)
+  imageClass: square
+- id: OATH-R12-NF
+  meta:
+    defense: 1
+  name: Ring of Devotion
+  tags:
+    - New Foundations
+    - Relic
+    - Search
+    - Power
+  text: >-
+    You may discard cards to your region's discard pile instead of the next
+    region out.
+  image: Ring of Devotion (NF)
+  imageClass: square
+- id: OATH-R13-NF
+  meta:
+    defense: 2
+  name: Skeleton Key
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: If your pawn is at a Hinterland site, take a relic from your
+    site.
+  image: Skeleton Key (NF)
+  imageClass: square
+- id: OATH-R14-NF
+  meta:
+    defense: 2
+  name: Oracular Pig
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: '**Action**: Peek at the top 3 cards of the world deck.'
+  image: Oracular Pig (NF)
+  imageClass: square
+- id: OATH-R15-NF
+  meta:
+    defense: 0
+  name: Circlet of Command
+  tags:
+    - New Foundations
+    - Relic
+    - Campaign
+  text: Players **cannot** target your banners or your other relics.
+  image: Circlet of Command (NF)
+  imageClass: square
+- id: OATH-R16-NF
+  meta:
+    defense: 2
+  name: Ivory Eye
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: '**Action**: Peek at any facedown adviser. _(This includes Visions.)_'
+  image: Ivory Eye (NF)
+  imageClass: square
+- id: OATH-R17-NF
+  meta:
+    defense: 1
+  name: Shifting Map
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: '**Action**: Gain 1 Supply.'
+  image: Shifting Map (NF)
+  imageClass: square
+- id: OATH-R18-NF
+  meta:
+    defense: 3
+  name: Obsidian Cage
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+    - Power
+  text: >-
+    If you're victorious, move all unkilled warbands in your enemy's force to
+    Obsidian Cage. **Action**: Move any number of warbands from Obsidian Cage to
+    any board of the same color.
+  image: Obsidian Cage (NF)
+  imageClass: square
+- id: OATH-R19-NF
+  meta:
+    defense: 1
+  name: Book of Records
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Take `symbol:favor` `symbol:favor` or `symbol:secret`
+    `symbol:secret` from a banner held by a player whose pawn is at your site.
+  image: Book of Records (NF)
+  imageClass: square
+- id: OATH-R20-NF
+  meta:
+    defense: 2
+  name: Dragonskin Drum
+  tags:
+    - New Foundations
+    - Relic
+    - Travel
+    - Power
+  text: After traveling, gain one warband.
+  image: Dragonskin Drum (NF)
+  imageClass: square
+- id: OATH-R21-NF
+  meta:
+    defense: 1
+  name: Crystal Vial
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Bury an adviser of yours or a denizen at your site. _(Bury
+    ignores the locked restriction.)_
+  image: Crystal Vial (NF)
+  imageClass: square
+- id: OATH-R22-NF
+  meta:
+    defense: 1
+  name: Ancient Writ
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Bury this to draw 3 legacy cards, keep 1 facedown, and discard
+    the other 2.
+  image: Ancient Writ (NF)
+  imageClass: square
+- id: OATH-R23-NF
+  meta:
+    defense: 1
+  name: Painted Trumpet
+  tags:
+    - New Foundations
+    - Relic
+    - Search
+    - Power
+  text: >-
+    Instead of drawing from one discard pile, you may draw the top card from
+    **each** discard pile. This draw amount cannot be modified.
+  image: Painted Trumpet (NF)
+  imageClass: square
+- id: OATH-R24-NF
+  meta:
+    defense: 1
+  name: Bone Dice
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Roll `symbol:dicer` `symbol:dicer`. Gain 1 Supply for each
+    `symbol:sword` rolled, then bury this relic if you rolled any
+    `symbol:skull`.
+  image: Bone Dice (NF)
+  imageClass: square
+- id: OATH-R25-NF
+  meta:
+    defense: 3
+  name: Brass Army
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: >-
+    ±4 `symbol:dicer` Whenever your pawn moves _(travel or place)_, bury this or
+    flip a secret you have facedown.
+  image: Brass Army (NF)
+  imageClass: square
+- id: OATH-R26-NF
+  meta:
+    defense: 2
+  name: Imperial Seal
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: If no Imperial pawns are at your site, move **any** number of
+    Imperial warbands from your site to any Imperial site or Imperial player
+    board.
+  image: Imperial Seal (NF)
+  imageClass: square
+- id: OATH-R27-NF
+  meta:
+    defense: 1
+  name: Fearsome Shield
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: +2 `symbol:diceb`
+  image: Fearsome Shield (NF)
+  imageClass: square
+- id: OATH-R28-NF
+  meta:
+    defense: 1
+  name: Singing Mask
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Choose a denizen at your site. Move up to `symbol:favor`
+    `symbol:favor` between the matching favor bank and the People's Favor.
+  image: Singing Mask (NF)
+  imageClass: square
+- id: OATH-R29-NF
+  meta:
+    defense: 1
+  name: Lost Tapestry
+  tags:
+    - New Foundations
+    - Relic
+  text: Facedown Visions do not count against your adviser limit.
+  image: Lost Tapestry (NF)
+  imageClass: square
+- id: OATH-R30-NF
+  meta:
+    defense: 3
+  name: Bandit Standard
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: >-
+    + `symbol:dicer` for each bandit in your region. This cannot be used while
+    targeting sites ruled by bandits.
+  image: Bandit Standard (NF)
+  imageClass: square
+- id: OATH-R31-NF
+  meta:
+    defense: 1
+  name: Silver Charm
+  tags:
+    - New Foundations
+    - Relic
+    - Recover
+    - Power
+  text: >-
+    Each time you spend Supply to roll `symbol:diceb`, you may also reroll any
+    number of previous `symbol:diceb` at the same time.
+  image: Silver Charm (NF)
+  imageClass: square
+- id: OATH-R32-NF
+  meta:
+    defense: 2
+  name: Amber Flame
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Burn `symbol:favorb` or `symbol:secretb` from a banner held by a
+    player whose pawn is at your site.
+  image: Amber Flame (NF)
+  imageClass: square
+- id: OATH-R33-NF
+  meta:
+    defense: 1
+  name: Wine of Welcome
+  tags:
+    - New Foundations
+    - Relic
+    - Search
+    - Power
+  text: Draw from the bottom of the world deck instead of the top.
+  image: Wine of Welcome (NF)
+  imageClass: square
+- id: OATH-R34-NF
+  meta:
+    defense: 2
+  name: Whispering Stone
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Negotiate with any one player in private, even if their pawn is
+    not at your site.
+  image: Whispering Stone (NF)
+  imageClass: square
+- id: OATH-R35-NF
+  meta:
+    defense: 2
+  name: Black Sword
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: +5 `symbol:dicer`
+  image: Black Sword (NF)
+  imageClass: square
+- id: OATH-R36-NF
+  meta:
+    defense: 1
+  name: Barbed Net
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: '**Action**: Take a relic from your site. _(You may keep it facedown.)_'
+  image: Barbed Net (NF)
+  imageClass: square
+- id: OATH-R37-NF
+  meta:
+    defense: 2
+  name: Bag of Siegeworks
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: >-
+    If you're targeting sites, ignore `symbol:diceb` rolls with a single
+    `symbol:shield`.
+  image: Bag of Siegeworks (NF)
+  imageClass: square
+- id: OATH-R38-NF
+  meta:
+    defense: 2
+  name: Secret Testament
+  tags:
+    - New Foundations
+    - Relic
+    - Recover
+  text: >-
+    When an enemy takes a banner from you, take all `symbol:favor` or
+    `symbol:secret` on the banner.
+  image: Secret Testament (NF)
+  imageClass: square
+- id: OATH-R39-NF
+  meta:
+    defense: 1
+  name: Magic Carpet
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Place your pawn at any site. Then, discard Magic Carpet or give
+    it to a player at a different site.
+  image: Magic Carpet (NF)
+  imageClass: square
+- id: OATH-R40-NF
+  meta:
+    defense: 2
+  name: Yew Staff
+  tags:
+    - New Foundations
+    - Relic
+  text: When using card powers, you may act as if you hold the Darkest Secret.
+  image: Yew Staff (NF)
+  imageClass: square
+- id: OATH-R41-NF
+  meta:
+    defense: 1
+  name: Spiteful Mirror
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    This turn, you may act as if any cards you use to trade or muster are
+    `symbol:suit-discord` cards.
+  image: Spiteful Mirror (NF)
+  imageClass: square
+- id: OATH-R42-NF
+  meta:
+    defense: 2
+  name: Weeping Banner
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: >-
+    The attacker must resolve another `symbol:skull` for each `symbol:skull`
+    rolled.
+  image: Weeping Banner (NF)
+  imageClass: square
+- id: OATH-R43-NF
+  meta:
+    defense: 1
+  name: Sigil of the Eye
+  tags:
+    - New Foundations
+    - Relic
+    - Recover
+    - Power
+  text: You may challenge the Darkest Secret from any site.
+  image: Sigil of the Eye (NF)
+  imageClass: square
+- id: OATH-R44-NF
+  meta:
+    defense: 1
+  name: Sigil of the Heart
+  tags:
+    - New Foundations
+    - Relic
+    - Recover
+    - Power
+  text: You may challenge the People's Favor from any site.
+  image: Sigil of the Heart (NF)
+  imageClass: square
+- id: OATH-R45-NF
+  meta:
+    defense: 1
+  name: Magic Waterskin
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: '**Action**: Bury this relic to gain 4 Supply.'
+  image: Magic Waterskin (NF)
+  imageClass: square
+- id: OATH-R46-NF
+  meta:
+    defense: 1
+  name: Demon Tail
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: '**Action**: Gain 2 Supply.'
+  image: Demon Tail (NF)
+  imageClass: square
+- id: OATH-R47-NF
+  meta:
+    defense: 2
+  name: Clay Rattle
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: "**Action**: Shuffle the world deck or any region's discard pile."
+  image: Clay Rattle (NF)
+  imageClass: square
