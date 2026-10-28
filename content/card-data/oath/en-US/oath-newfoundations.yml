@@ -1,0 +1,2880 @@
+- id: OATH-R01-NF
+  meta:
+    defense: 3
+  name: Sticky Fire
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: >-
+    If you're victorious, you may kill all the warbands in your enemy's force.
+    If you do, you **must** give them `symbol:favor` if able.
+  image: Sticky Fire (NF)
+  imageClass: square
+- id: OATH-R02-NF
+  meta:
+    defense: 2
+  name: Cursed Cauldron
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: >-
+    If you're victorious, gain 1 warband per enemy warband killed in this
+    campaign.
+  image: Cursed Cauldron (NF)
+  imageClass: square
+- id: OATH-R03-NF
+  meta:
+    defense: 2
+  name: Brass Horse
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Reveal the top card of your region's discard pile. Place your
+    pawn at a site with a matching card. If you cannot, place it at any site.
+    Flip the revealed card down.
+  image: Brass Horse (NF)
+  imageClass: square
+- id: OATH-R04-NF
+  meta:
+    defense: 0
+  name: Truthful Harp
+  tags:
+    - New Foundations
+    - Relic
+    - Search
+    - Power
+  text: >-
+    You may draw 2 more cards. If you do, you **must** show every card you draw
+    and the card you keep to everyone.
+  image: Truthful Harp (NF)
+  imageClass: square
+- id: OATH-R05-NF
+  meta:
+    defense: 1
+  name: Grand Mask
+  tags:
+    - New Foundations
+    - Relic
+  text: >-
+    If you're an Exile, during your turn you rule denizens except battle plans
+    at Imperial sites, and Imperials do not.
+  image: Grand Mask (NF)
+  imageClass: square
+- id: OATH-R06-NF
+  meta:
+    defense: 2
+  name: Horned Mask
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Wake**: You may take a denizen, but not an edifice, from your site as a
+    facedown adviser. _(Once per turn, like all Wake powers.)_
+  image: Horned Mask (NF)
+  imageClass: square
+- id: OATH-R07-NF
+  meta:
+    defense: 1
+  name: Cup of Plenty
+  tags:
+    - New Foundations
+    - Relic
+    - Trade
+    - Power
+  text: >-
+    Spend no Supply if you're trading with a card that **does not** match any of
+    your advisers.
+  image: Cup of Plenty (NF)
+  imageClass: square
+- id: OATH-R08-NF
+  meta:
+    defense: 1
+  name: Whistle
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Take a pawn from another site, place it at your site, and give
+    them the `symbol:secret` here.
+  image: Whistle (NF)
+  imageClass: square
+- id: OATH-R09-NF
+  meta:
+    defense: 1
+  name: Dowsing Sticks
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Draw a relic from the relic deck and take it. _(You may keep it
+    facedown.)_
+  image: Dowsing Sticks (NF)
+  imageClass: square
+- id: OATH-R10-NF
+  meta:
+    defense: 1
+  name: Cracked Horn
+  tags:
+    - New Foundations
+    - Relic
+    - Search
+    - Power
+  text: You may put all the cards you discard on the bottom of the world deck.
+  image: Cracked Horn (NF)
+  imageClass: square
+- id: OATH-R11-NF
+  meta:
+    defense: 3
+  name: Bandit Crown
+  tags:
+    - New Foundations
+    - Relic
+  text: >-
+    You may use denizens at sites ruled by bandits as if you ruled them. _You
+    may use these battle plans against bandits._
+  image: Bandit Crown (NF)
+  imageClass: square
+- id: OATH-R12-NF
+  meta:
+    defense: 1
+  name: Ring of Devotion
+  tags:
+    - New Foundations
+    - Relic
+    - Search
+    - Power
+  text: >-
+    You may discard cards to your region's discard pile instead of the next
+    region out.
+  image: Ring of Devotion (NF)
+  imageClass: square
+- id: OATH-R13-NF
+  meta:
+    defense: 2
+  name: Skeleton Key
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: If your pawn is at a Hinterland site, take a relic from your
+    site.
+  image: Skeleton Key (NF)
+  imageClass: square
+- id: OATH-R14-NF
+  meta:
+    defense: 2
+  name: Oracular Pig
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: '**Action**: Peek at the top 3 cards of the world deck.'
+  image: Oracular Pig (NF)
+  imageClass: square
+- id: OATH-R15-NF
+  meta:
+    defense: 0
+  name: Circlet of Command
+  tags:
+    - New Foundations
+    - Relic
+    - Campaign
+  text: Players **cannot** target your banners or your other relics.
+  image: Circlet of Command (NF)
+  imageClass: square
+- id: OATH-R16-NF
+  meta:
+    defense: 2
+  name: Ivory Eye
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: '**Action**: Peek at any facedown adviser. _(This includes Visions.)_'
+  image: Ivory Eye (NF)
+  imageClass: square
+- id: OATH-R17-NF
+  meta:
+    defense: 1
+  name: Shifting Map
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: '**Action**: Gain 1 Supply.'
+  image: Shifting Map (NF)
+  imageClass: square
+- id: OATH-R18-NF
+  meta:
+    defense: 3
+  name: Obsidian Cage
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+    - Power
+  text: >-
+    If you're victorious, move all unkilled warbands in your enemy's force to
+    Obsidian Cage. **Action**: Move any number of warbands from Obsidian Cage to
+    any board of the same color.
+  image: Obsidian Cage (NF)
+  imageClass: square
+- id: OATH-R19-NF
+  meta:
+    defense: 1
+  name: Book of Records
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Take `symbol:favor` `symbol:favor` or `symbol:secret`
+    `symbol:secret` from a banner held by a player whose pawn is at your site.
+  image: Book of Records (NF)
+  imageClass: square
+- id: OATH-R20-NF
+  meta:
+    defense: 2
+  name: Dragonskin Drum
+  tags:
+    - New Foundations
+    - Relic
+    - Travel
+    - Power
+  text: After traveling, gain one warband.
+  image: Dragonskin Drum (NF)
+  imageClass: square
+- id: OATH-R21-NF
+  meta:
+    defense: 1
+  name: Crystal Vial
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Bury an adviser of yours or a denizen at your site. _(Bury
+    ignores the locked restriction.)_
+  image: Crystal Vial (NF)
+  imageClass: square
+- id: OATH-R22-NF
+  meta:
+    defense: 1
+  name: Ancient Writ
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Bury this to draw 3 legacy cards, keep 1 facedown, and discard
+    the other 2.
+  image: Ancient Writ (NF)
+  imageClass: square
+- id: OATH-R23-NF
+  meta:
+    defense: 1
+  name: Painted Trumpet
+  tags:
+    - New Foundations
+    - Relic
+    - Search
+    - Power
+  text: >-
+    Instead of drawing from one discard pile, you may draw the top card from
+    **each** discard pile. This draw amount cannot be modified.
+  image: Painted Trumpet (NF)
+  imageClass: square
+- id: OATH-R24-NF
+  meta:
+    defense: 1
+  name: Bone Dice
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Roll `symbol:dicer` `symbol:dicer`. Gain 1 Supply for each
+    `symbol:sword` rolled, then bury this relic if you rolled any
+    `symbol:skull`.
+  image: Bone Dice (NF)
+  imageClass: square
+- id: OATH-R25-NF
+  meta:
+    defense: 3
+  name: Brass Army
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: >-
+    ±4 `symbol:dicer` Whenever your pawn moves _(travel or place)_, bury this or
+    flip a secret you have facedown.
+  image: Brass Army (NF)
+  imageClass: square
+- id: OATH-R26-NF
+  meta:
+    defense: 2
+  name: Imperial Seal
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: If no Imperial pawns are at your site, move **any** number of
+    Imperial warbands from your site to any Imperial site or Imperial player
+    board.
+  image: Imperial Seal (NF)
+  imageClass: square
+- id: OATH-R27-NF
+  meta:
+    defense: 1
+  name: Fearsome Shield
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: +2 `symbol:diceb`
+  image: Fearsome Shield (NF)
+  imageClass: square
+- id: OATH-R28-NF
+  meta:
+    defense: 1
+  name: Singing Mask
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Choose a denizen at your site. Move up to `symbol:favor`
+    `symbol:favor` between the matching favor bank and the People's Favor.
+  image: Singing Mask (NF)
+  imageClass: square
+- id: OATH-R29-NF
+  meta:
+    defense: 1
+  name: Lost Tapestry
+  tags:
+    - New Foundations
+    - Relic
+  text: Facedown Visions do not count against your adviser limit.
+  image: Lost Tapestry (NF)
+  imageClass: square
+- id: OATH-R30-NF
+  meta:
+    defense: 3
+  name: Bandit Standard
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: >-
+    + `symbol:dicer` for each bandit in your region. This cannot be used while
+    targeting sites ruled by bandits.
+  image: Bandit Standard (NF)
+  imageClass: square
+- id: OATH-R31-NF
+  meta:
+    defense: 1
+  name: Silver Charm
+  tags:
+    - New Foundations
+    - Relic
+    - Recover
+    - Power
+  text: >-
+    Each time you spend Supply to roll `symbol:diceb`, you may also reroll any
+    number of previous `symbol:diceb` at the same time.
+  image: Silver Charm (NF)
+  imageClass: square
+- id: OATH-R32-NF
+  meta:
+    defense: 2
+  name: Amber Flame
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Burn `symbol:favorb` or `symbol:secretb` from a banner held by a
+    player whose pawn is at your site.
+  image: Amber Flame (NF)
+  imageClass: square
+- id: OATH-R33-NF
+  meta:
+    defense: 1
+  name: Wine of Welcome
+  tags:
+    - New Foundations
+    - Relic
+    - Search
+    - Power
+  text: Draw from the bottom of the world deck instead of the top.
+  image: Wine of Welcome (NF)
+  imageClass: square
+- id: OATH-R34-NF
+  meta:
+    defense: 2
+  name: Whispering Stone
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Negotiate with any one player in private, even if their pawn is
+    not at your site.
+  image: Whispering Stone (NF)
+  imageClass: square
+- id: OATH-R35-NF
+  meta:
+    defense: 2
+  name: Black Sword
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: +5 `symbol:dicer`
+  image: Black Sword (NF)
+  imageClass: square
+- id: OATH-R36-NF
+  meta:
+    defense: 1
+  name: Barbed Net
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: '**Action**: Take a relic from your site. _(You may keep it facedown.)_'
+  image: Barbed Net (NF)
+  imageClass: square
+- id: OATH-R37-NF
+  meta:
+    defense: 2
+  name: Bag of Siegeworks
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: >-
+    If you're targeting sites, ignore `symbol:diceb` rolls with a single
+    `symbol:shield`.
+  image: Bag of Siegeworks (NF)
+  imageClass: square
+- id: OATH-R38-NF
+  meta:
+    defense: 2
+  name: Secret Testament
+  tags:
+    - New Foundations
+    - Relic
+    - Recover
+  text: >-
+    When an enemy takes a banner from you, take all `symbol:favor` or
+    `symbol:secret` on the banner.
+  image: Secret Testament (NF)
+  imageClass: square
+- id: OATH-R39-NF
+  meta:
+    defense: 1
+  name: Magic Carpet
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    **Action**: Place your pawn at any site. Then, discard Magic Carpet or give
+    it to a player at a different site.
+  image: Magic Carpet (NF)
+  imageClass: square
+- id: OATH-R40-NF
+  meta:
+    defense: 2
+  name: Yew Staff
+  tags:
+    - New Foundations
+    - Relic
+  text: When using card powers, you may act as if you hold the Darkest Secret.
+  image: Yew Staff (NF)
+  imageClass: square
+- id: OATH-R41-NF
+  meta:
+    defense: 1
+  name: Spiteful Mirror
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: >-
+    This turn, you may act as if any cards you use to trade or muster are
+    `symbol:suit-discord` cards.
+  image: Spiteful Mirror (NF)
+  imageClass: square
+- id: OATH-R42-NF
+  meta:
+    defense: 2
+  name: Weeping Banner
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+  text: >-
+    The attacker must resolve another `symbol:skull` for each `symbol:skull`
+    rolled.
+  image: Weeping Banner (NF)
+  imageClass: square
+- id: OATH-R43-NF
+  meta:
+    defense: 1
+  name: Sigil of the Eye
+  tags:
+    - New Foundations
+    - Relic
+    - Recover
+    - Power
+  text: You may challenge the Darkest Secret from any site.
+  image: Sigil of the Eye (NF)
+  imageClass: square
+- id: OATH-R44-NF
+  meta:
+    defense: 1
+  name: Sigil of the Heart
+  tags:
+    - New Foundations
+    - Relic
+    - Recover
+    - Power
+  text: You may challenge the People's Favor from any site.
+  image: Sigil of the Heart (NF)
+  imageClass: square
+- id: OATH-R45-NF
+  meta:
+    defense: 1
+  name: Magic Waterskin
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: '**Action**: Bury this relic to gain 4 Supply.'
+  image: Magic Waterskin (NF)
+  imageClass: square
+- id: OATH-R46-NF
+  meta:
+    defense: 1
+  name: Demon Tail
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: '**Action**: Gain 2 Supply.'
+  image: Demon Tail (NF)
+  imageClass: square
+- id: OATH-R47-NF
+  meta:
+    defense: 2
+  name: Clay Rattle
+  tags:
+    - New Foundations
+    - Relic
+    - Power
+  text: "**Action**: Shuffle the world deck or any region's discard pile."
+  image: Clay Rattle (NF)
+  imageClass: square
+- id: OATH-005-NF
+  text: >-
+    If defeated in a raid, after the attacker takes what they targeted, place
+    your pawn at this site and end the action. _Do not burn favor, move pawn,
+    etc._
+  image: Keep (NF)
+  name: Keep
+  tags:
+    - New Foundations
+    - Order
+    - Battle Plan
+- id: OATH-009-NF
+  text: >-
+    **Action**: Gain `symbol:favor` `symbol:favor` `symbol:favor` `symbol:favor`
+    from any favor bank or banks.
+  image: Alchemist (NF)
+  name: Alchemist
+  tags:
+    - New Foundations
+    - Arcane
+    - Power
+- id: OATH-010-NF
+  text: >-
+    If you're an Exile and defeat another Exile, you may become a Citizen.
+    _Follow the steps in the rules and end your Act Phase._
+  image: Martial Culture (NF)
+  name: Martial Culture
+  tags:
+    - New Foundations
+    - Order
+    - Battle Plan
+- id: OATH-013-NF
+  text: '**Action**: Draw a relic from the relic deck.'
+  image: Tinker's Fair (NF)
+  name: Tinker's Fair
+  tags:
+    - New Foundations
+    - Hearth
+    - Power
+- id: OATH-020-NF
+  text: >-
+    +4 `symbol:dicer` if the defender rules an `symbol:suit-order` card _(even
+    an adviser)_.
+  image: Disgraced Captain (NF)
+  name: Disgraced Captain
+  tags:
+    - New Foundations
+    - Discord
+    - Battle Plan
+- id: OATH-022-NF
+  text: >-
+    If you're victorious in a raid, burn all `symbol:secret` on the defender's
+    board except their last `symbol:secret`.
+  image: Book Burning (NF)
+  name: Book Burning
+  tags:
+    - New Foundations
+    - Discord
+    - Battle Plan
+- id: OATH-032-NF
+  text: >-
+    If you're challenging the Darkest Secret, gain `symbol:secret`
+    `symbol:secret` and place them on the banner along with any other
+    `symbol:secret` you're placing _(even none)_.
+  image: Magician's Code (NF)
+  name: Magician's Code
+  tags:
+    - New Foundations
+    - Arcane
+    - Recover
+    - Power
+- id: OATH-038-NF
+  text: >-
+    **Action**: Guess the name of a facedown Vision _(even the Conspiracy)_ held
+    by a player whose pawn is at your site. If you are correct, discard it.
+  image: Inquisitor (NF)
+  name: Inquisitor
+  tags:
+    - New Foundations
+    - Arcane
+    - Power
+- id: OATH-044-NF
+  text: >-
+    **When Played**, if you're an Exile, you may become a Citizen. _Follow the
+    steps in the rules and end your Act Phase._
+  image: Long-Lost Heir (NF)
+  name: Long-Lost Heir
+  tags:
+    - New Foundations
+    - Beast
+- id: OATH-049-NF
+  text: >-
+    **Action**: Move all `symbol:favor` from any one favor bank to the
+    `symbol:suit-hearth` bank.
+  image: Memory of Home (NF)
+  name: Memory of Home
+  tags:
+    - New Foundations
+    - Hearth
+    - Power
+- id: OATH-058-NF
+  text: '**Action**: Place an enemy pawn at your site onto any other site.'
+  image: Quick Exit (NF)
+  name: Quick Exit
+  tags:
+    - New Foundations
+    - Arcane
+    - Power
+- id: OATH-067-NF
+  text: >-
+    **When Played**, if you're an Exile and have the most `symbol:secret` _(even
+    on cards)_, you may take a random relic from the Reliquary and become a
+    Citizen. _Follow the steps in the rules and end your Act Phase._
+  image: Bewitch (NF)
+  name: Bewitch
+  tags:
+    - New Foundations
+    - Arcane
+- id: OATH-074-NF
+  text: >-
+    You **cannot** challenge the Darkest Secret. Whenever an enemy burns
+    `symbol:secretb`, you take those secrets.
+  image: Vow of Silence (NF)
+  name: Vow of Silence
+  tags:
+    - New Foundations
+    - Arcane
+- id: OATH-075-NF
+  text: >-
+    Enemies of Forgotten Vault's ruler **cannot** target relics held by its
+    ruler. If ruled by Empire, all Imperials have this power.
+  image: Forgotten Vault (NF)
+  name: Forgotten Vault
+  tags:
+    - New Foundations
+    - Arcane
+    - Campaign
+- id: OATH-086-NF
+  text: >-
+    You **cannot** take the Challenge action. Whenever an enemy burns
+    `symbol:favorb`, you take that favor unless it was burned by a raid
+    targeting you.
+  image: Vow of Division (NF)
+  name: Vow of Division
+  tags:
+    - New Foundations
+    - Discord
+- id: OATH-088-NF
+  text: >-
+    **When Played**, if you're an Exile and rule the most sites, you may take a
+    random relic from the Reliquary and become a Citizen. _Follow the steps in
+    the rules and end your Act Phase._
+  image: Royal Ambitions (NF)
+  name: Royal Ambitions
+  tags:
+    - New Foundations
+    - Discord
+- id: OATH-089-NF
+  text: >-
+    If you're victorious in a conquest, bury all denizens at one site you
+    targeted.
+  image: Salt the Earth (NF)
+  name: Salt the Earth
+  tags:
+    - New Foundations
+    - Discord
+    - Battle Plan
+- id: OATH-091-NF
+  text: >-
+    **When Played**, discard all denizens at sites in this region. Burn the same
+    number of `symbol:favor` from the People's Favor.
+  image: Riots (NF)
+  name: Riots
+  tags:
+    - New Foundations
+    - Discord
+- id: OATH-095-NF
+  text: >-
+    **Action**: Choose a faceup relic held by a player whose pawn is at your
+    site. Roll `symbol:diceb` equal to its defense (min 1). If you roll no
+    `symbol:shield`, take it.
+  image: Relic Thief (NF)
+  name: Relic Thief
+  tags:
+    - New Foundations
+    - Discord
+    - Power
+- id: OATH-099-NF
+  text: >-
+    After an enemy plays an adviser facedown _(including a Vision)_, gain
+    `symbol:favor` from the `symbol:suit-discord` bank.
+  image: Gossip (NF)
+  name: Gossip
+  tags:
+    - New Foundations
+    - Discord
+    - Search
+- id: OATH-100-NF
+  text: >-
+    **When Played**, kill one warband at each site not ruled by the bandits.
+  image: Bandit Chief (NF)
+  name: Bandit Chief
+  tags:
+    - New Foundations
+    - Discord
+- id: OATH-102-NF
+  text: >-
+    After trading with a `symbol:suit-discord` card, burn `symbol:favorb` from
+    any player board.
+  image: Defame (NF)
+  name: Defame
+  tags:
+    - New Foundations
+    - Discord
+    - Trade
+    - Power
+- id: OATH-129-NF
+  text: >-
+    **When Played**, return all `symbol:favor` and `symbol:secret`, and flip
+    your `symbol:secret`, as in the Rest Phase.
+  image: A Round of Ale (NF)
+  name: A Round of Ale
+  tags:
+    - New Foundations
+    - Hearth
+- id: OATH-139-NF
+  text: '**Action**: Bury a relic you hold to gain `symbol:secret`.'
+  image: Relic Breaker (NF)
+  name: Relic Breaker
+  tags:
+    - New Foundations
+    - Hearth
+    - Power
+- id: OATH-141-NF
+  text: >-
+    **Action**: If you have an adviser matching a card at this site, replace all
+    warbands on this site with your warbands. Remove any that can't be replaced.
+  image: Ballot Box (NF)
+  name: Ballot Box
+  tags:
+    - New Foundations
+    - Hearth
+    - Power
+- id: OATH-146-NF
+  text: >-
+    **When Negotiating**: You may give, receive, and swap sites. Old ruler moves
+    warbands from site to their board, and new ruler moves warbands to site from
+    their board.
+  image: Deed Writer (NF)
+  name: Deed Writer
+  tags:
+    - New Foundations
+    - Hearth
+    - Power
+- id: OATH-166-NF
+  text: >-
+    **When Played**, if you're an Exile and hold the Darkest Secret, you may
+    take a random relic from the Reliquary and become a Citizen. _Follow the
+    steps in the rules and end your Act Phase._
+  image: Ancient Pact (NF)
+  name: Ancient Pact
+  tags:
+    - New Foundations
+    - Nomad
+- id: OATH-168-NF
+  text: >-
+    You have no adviser limit but may only have `symbol:suit-nomad`
+    advisers—bury other advisers you have or would gain.
+  image: Family Wagon (NF)
+  name: Family Wagon
+  tags:
+    - New Foundations
+    - Nomad
+- id: OATH-173-NF
+  text: After recovering a relic, gain 2 Supply.
+  image: Relic Worship (NF)
+  name: Relic Worship
+  tags:
+    - New Foundations
+    - Nomad
+    - Recover
+    - Power
+- id: OATH-185-NF
+  text: >-
+    At the start of **any** campaign, you may move any number of warbands from
+    sites you rule in your region to your board or vice versa. You may only have
+    `symbol:suit-beast` advisers—bury other advisers you have or would gain.
+  image: Vow of Union (NF)
+  name: Vow of Union
+  tags:
+    - New Foundations
+    - Beast
+    - Campaign
+- id: OATH-186-NF
+  text: >-
+    **Action**: If you hold the Darkest Secret, move Giant Python to another
+    site, and you may discard a denizen there first. Other cards at this site
+    **cannot** be used for non-persistent powers or placing
+    `symbol:favor`/`symbol:secret`.
+  image: Giant Python (NF)
+  name: Giant Python
+  tags:
+    - New Foundations
+    - Beast
+    - Power
+- id: OATH-194-NF
+  text: >-
+    Enemies of Forest Council's ruler **cannot** place
+    `symbol:favor`/`symbol:secret` on `symbol:suit-beast` cards or use their
+    non-persistent powers.
+  image: Forest Council (NF)
+  name: Forest Council
+  tags:
+    - New Foundations
+    - Beast
+- id: OATH-197-NF
+  text: >-
+    You may put all of the cards you discard on the top or bottom of any one
+    discard pile _(even your region's)_.
+  image: Bracken (NF)
+  name: Bracken
+  tags:
+    - New Foundations
+    - Beast
+    - Search
+    - Power
+- id: OATH-V1-NF
+  text: >-
+    _If drawn from world deck, increase Visions Drawn. **Anyone** can play this
+    faceup._ If this card is discarded in a raid campaign, return it to the box.
+    **When Played**: Take a relic or banner from a player whose pawn is at your
+    site. If you take a banner, adjust its `symbol:favor`/`symbol:secret` as
+    shown by its right ribbon. Return the Conspiracy to the box.
+  image: Conspiracy (NF)
+  imageClass: rotated
+  name: Conspiracy
+  tags:
+    - New Foundations
+    - Vision
+- id: OATH-V2-NF
+  text: >-
+    _If drawn from world deck, increase Visions Drawn. **Exiles** can play this
+    faceup on their player board._ **Wake**: You win if you hold the **Darkest
+    Secret** and at least three Visions have been drawn from the world deck.
+  image: Vision of Faith (NF)
+  imageClass: rotated
+  name: Vision of Faith
+  tags:
+    - New Foundations
+    - Vision
+- id: OATH-V3-NF
+  text: >-
+    _If drawn from world deck, increase Visions Drawn. **Exiles** can play this
+    faceup on their player board._ **Wake**: You win if you hold the **People's
+    Favor** and at least three Visions have been drawn from the world deck.
+  image: Vision of Rebellion (NF)
+  imageClass: rotated
+  name: Vision of Rebellion
+  tags:
+    - New Foundations
+    - Vision
+- id: OATH-V4-NF
+  text: >-
+    _If drawn from world deck, increase Visions Drawn. **Exiles** can play this
+    faceup on their player board._ **Wake**: You win if you hold the **most
+    relics** and at least three Visions have been drawn from the world deck.
+  image: Vision of Sanctuary (NF)
+  imageClass: rotated
+  name: Vision of Sanctuary
+  tags:
+    - New Foundations
+    - Vision
+- id: OATH-V5-NF
+  text: >-
+    _If drawn from world deck, increase Visions Drawn. **Exiles** can play this
+    faceup on their player board._ **Wake**: You win if you rule the **most
+    sites** and at least three Visions have been drawn from the world deck.
+  image: Vision of Conquest (NF)
+  imageClass: rotated
+  name: Vision of Conquest
+  tags:
+    - New Foundations
+    - Vision
+- id: OATH-L01-NF
+  text: >-
+    **If you are an Imperial, discard Iron Hand.** **Setup**: If you were in the
+    previous game, you place one warband on all sites coming from the Atlas
+    until the Empire divider, and players may place their pawn at any site.
+    **Chronicle**: Score your legacies in addition to the winner, and perform
+    Shape Empire and Build Edifice (Throne). Your sites are stored in place of
+    the Empire (Stars).
+  image: Iron Hand (NF)
+  imageClass: rotated
+  name: Iron Hand
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L02-NF
+  text: >-
+    **Chronicle (Sun)**: After Resolve Legacies, you may declare that all
+    players score their legacies now. _Each legacy may only be scored once per
+    game._
+  image: Chronicler (NF)
+  imageClass: rotated
+  name: Chronicler
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L03-NF
+  text: >-
+    **Chronicle**: Your **other** legacies **cannot** become dormant—they always
+    stay active.
+  image: Steadfast (NF)
+  imageClass: rotated
+  name: Steadfast
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L04-NF
+  text: >-
+    **Action**: Return a banner you hold to the shared bank. _Do not adjust its
+    `symbol:favor`/`symbol:secret`._ If you do, remove all warbands except the
+    last _(including bandits)_ from each site and player board, even yours.
+  image: Peacemaker (NF)
+  imageClass: rotated
+  name: Peacemaker
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L05-NF
+  text: After you take a banner in any way, you may flip it to its other side.
+  image: The Needle (NF)
+  imageClass: rotated
+  name: The Needle
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L06-NF
+  text: >-
+    **Setup**: You gain eight starting warbands _(instead of three)_. If you're
+    Imperial and other Imperials would gain fewer than three, you gain less.
+  image: Circle of Swords (NF)
+  imageClass: rotated
+  name: Circle of Swords
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L07-NF
+  text: >-
+    **If you are an Imperial:** **Chronicle (Throne)**: You perform Build
+    Edifice and may replace a denizen with an available edifice of any suit. _It
+    doesn't have to match!_ Do this even if the Iron Hand is in play.
+  image: Great Architect (NF)
+  imageClass: rotated
+  name: Great Architect
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L08-NF
+  text: >-
+    **If you are an Imperial:** **Travel**: Traveling to the Cradle costs you
+    only 1 Supply.
+  image: Ancestral Lands (NF)
+  imageClass: rotated
+  name: Ancestral Lands
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L09-NF
+  text: >-
+    **If you are an Imperial:** **Setup**: You start with the Grand Scepter
+    _(instead of the Chancellor)_.
+  image: Scepter Bearer (NF)
+  imageClass: rotated
+  name: Scepter Bearer
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L10-NF
+  text: >-
+    **If you are a Citizen:** At the end of the game, you may choose which
+    Imperial meets the Successor goal. _Ignore the printed goals. You may choose
+    no one._
+  image: Royal Line (NF)
+  imageClass: rotated
+  name: Royal Line
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L11-NF
+  text: >-
+    **If you are an Imperial:** **Battle Plan**: If your enemy is an Imperial,
+    ±2 `symbol:dicer` and you ignore all `symbol:skull` you roll when attacking.
+  image: Keeper of Order (NF)
+  imageClass: rotated
+  name: Keeper of Order
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L12-NF
+  text: >-
+    **If you are an Imperial:** You may always peek at the Reliquary.
+    **Action**: Burn `symbol:secretb` `symbol:favorb` to take a relic from the
+    Reliquary.
+  image: Golden Key (NF)
+  imageClass: rotated
+  name: Golden Key
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L13-NF
+  text: >-
+    **Setup**: For the Imperial Maps foundation, you fill site slots, using any
+    mix of Recent and Forgotten Sites _(after resolving the Rival legacy)_. For
+    the Wide Horizons foundation, when anyone explores, you fill the slot with a
+    Recent or Forgotten Site.
+  image: World Crafter (NF)
+  imageClass: rotated
+  name: World Crafter
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L14-NF
+  text: >-
+    Whenever players draw legacies from the deck and choose one to keep, you
+    draw and choose for them instead. _The Amber Doors edifice does not trigger
+    this._
+  image: Matchmaker (NF)
+  imageClass: rotated
+  name: Matchmaker
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L15-NF
+  text: >-
+    **Chronicle (Throne)**: After Build Edifice, you may discard any number of
+    denizens at Imperial sites.
+  image: Revolutionary (NF)
+  imageClass: rotated
+  name: Revolutionary
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L16-NF
+  text: >-
+    **Setup**: When setting up the favor banks, you may choose to divide the
+    favor among the banks evenly. If you do, take any remainder. _For example,
+    dividing 19 favor among the banks leaves you one favor._
+  image: Populist (NF)
+  imageClass: rotated
+  name: Populist
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L17-NF
+  text: >-
+    **Chronicle (Throne)**: In Shape Empire, you may prevent any number of
+    denizens from being discarded. **Setup**: If you are an Exile, before
+    resolving foundations, fill the three Cradlemost empty site slots using the
+    Empire setup rules, but place one warband of yours on each _(not an Imperial
+    warband)_. You may place your pawn on these sites.
+  image: Rival (NF)
+  imageClass: rotated
+  name: Rival
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L18-NF
+  text: >-
+    **Setup**: After placing your pawn, you may take a banner from the shared
+    bank and place two more `symbol:favor`/`symbol:secret` on it from the shared
+    bank.
+  image: The Standard Bearer (NF)
+  imageClass: rotated
+  name: The Standard Bearer
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L19-NF
+  text: >-
+    **Action**: You may peek at the relics at **any** site. _You may peek at
+    them later at any time._ **Chronicle (Throne)**: In Scatter Relics, you
+    examine the relics and choose which sites they go to.
+  image: The Ear (NF)
+  imageClass: rotated
+  name: The Ear
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L20-NF
+  text: >-
+    **Chronicle (Throne)**: Before Scatter Relics, secretly choose one of your
+    relics to keep facedown. You will start the next game with it.
+  image: Heirloom (NF)
+  imageClass: rotated
+  name: Heirloom
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L21-NF
+  text: >-
+    **Action**: If you have the Darkest Secret, you may move any number of
+    `symbol:secret` from the Darkest Secret to your player board. **When
+    Negotiating**: You may give `symbol:secret`.
+  image: High Priest (NF)
+  imageClass: rotated
+  name: High Priest
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L22-NF
+  text: >-
+    **Setup**: When building the world deck, peek at the Visions and secretly
+    place them in any positions.
+  image: Seer (NF)
+  imageClass: rotated
+  name: Seer
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L23-NF
+  text: >-
+    **End of Round**: Before the end die is rolled, you may choose to modify the
+    roll by −1 to +3.
+  image: Arbiter (NF)
+  imageClass: rotated
+  name: Arbiter
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L24-NF
+  text: >-
+    **Chronicle (Beacon)**: If you're resolving the Beacon, you may take any six
+    cards from the Dispossessed _(instead of choosing suits and taking from
+    their matching dividers)_.
+  image: The Bright Beacon (NF)
+  imageClass: rotated
+  name: The Bright Beacon
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L25-NF
+  text: >-
+    When you would gain a starting adviser, bury it, except for—**Chronicle
+    (World)**: In Gather Denizens, keep up to 3 faceup advisers of yours. They
+    will be your facedown starting advisers in the next game.
+  image: Oaths of Loyalty (NF)
+  imageClass: rotated
+  name: Oaths of Loyalty
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L26-NF
+  text: >-
+    **Wake**: On your first turn, secretly write down which round the game will
+    end on and who will win. If you are correct, you win instead. _This even
+    beats a Successor win._
+  image: Conspirator (NF)
+  imageClass: rotated
+  name: Conspirator
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L27-NF
+  text: >-
+    **Wake**: When you Take Wealth, you may take `symbol:favor`/`symbol:secret`
+    from your site even if enemy pawns are there.
+  image: Light Fingers (NF)
+  imageClass: rotated
+  name: Light Fingers
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L28-NF
+  text: >-
+    **Setup**: Before building the world deck, you may secretly choose a Vision
+    except the Conspiracy to take as a facedown adviser—advance Visions Drawn
+    and build the world deck from stacks with 2 Visions each.
+  image: Secret Society (NF)
+  imageClass: rotated
+  name: Secret Society
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L29-NF
+  text: >-
+    **Action**: Burn `symbol:favorb` `symbol:favorb` to bury a denizen at your
+    site.
+  image: Ruthless (NF)
+  imageClass: rotated
+  name: Ruthless
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L30-NF
+  text: >-
+    **Setup**: You may choose to not place your pawn. If you do, you may choose
+    one card from the Dispossessed and swap it with a starting adviser or card
+    you drew in Foundation IV. _It is not buried by the Oaths of Loyalty
+    legacy._ **Wake**: On your first turn, you **must** place your pawn at any
+    site.
+  image: Quest to Distant Lands (NF)
+  imageClass: rotated
+  name: Quest to Distant Lands
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L31-NF
+  text: >-
+    Set Foundation II to Movers and Shakers. **Setup**: After placing your pawn,
+    take `symbol:favor` from two players or take `symbol:favor` `symbol:favor`
+    `symbol:favor` from the shared bank.
+  image: Wealthy (NF)
+  imageClass: rotated
+  name: Wealthy
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L32-NF
+  text: >-
+    Set Foundation III to Public Ambitions. **Chronicle (Sun)**: Before players
+    resolve legacies, you may take one active legacy from an enemy if you meet
+    its goal.
+  image: Gatekeeper (NF)
+  imageClass: rotated
+  name: Gatekeeper
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L33-NF
+  text: >-
+    Set Foundation IV to Teeming World. **When Trading**: You may trade with
+    advisers held by other players whose pawns are at your site.
+  image: Beloved (NF)
+  imageClass: rotated
+  name: Beloved
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L34-NF
+  text: >-
+    Set Foundation VI to Festival. **Action**: Burn `symbol:favorb`
+    `symbol:favorb` to activate a dormant legacy if you meet its goal. _You can
+    even activate legacies in the Public Ambitions foundation._
+  image: The Mouth (NF)
+  imageClass: rotated
+  name: The Mouth
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L35-NF
+  text: >-
+    Set Foundation V to Grand Council. **Chronicle (Start of Throne)**: If you
+    won, you may move and swap denizens at sites you rule, ignoring the locked
+    restriction.
+  image: Reformer (NF)
+  imageClass: rotated
+  name: Reformer
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-L36-NF
+  text: >-
+    Set Foundation I to Wide Horizons. **Travel**: You may ignore the Mountain,
+    Island, and Pass powers.
+  image: Pathfinder (NF)
+  imageClass: rotated
+  name: Pathfinder
+  tags:
+    - New Foundations
+    - Legacy
+- id: OATH-SETUP01-NF
+  text: >-
+    Place the map on the table.
+
+    Place the round marker and Visions Drawn markers on the first space of their
+    tracks. Place the end die by the round track if any Imperials are in play.
+
+    Collect dice, favor, secrets, and the Oathkeeper goal and title.
+
+    Shuffle the relic deck and place it on the Relic Deck slot.
+
+    Separate the Visions from the world deck and shuffle its remaining denizens.
+  image: Table (NF)
+  name: Setup - Table
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP02a-NF
+  text: >-
+    Seat players randomly. Each player chooses a color—the same they just
+    played, if able—then:
+
+    Takes its player board, warbands, and legacies/advisers stored with it.
+
+    Places 1 favor, 1 secret, and 3 warbands on their player board. Use purple
+    warbands if Imperial.
+
+    Places their Supply marker on its leftmost space.
+
+    **Flip this over for Chancellor.**
+  image: Players (NF)
+  name: Setup - Players
+  flipSide: OATH-SETUP02b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP02b-NF
+  text: >-
+    The Chancellor takes the Chancellor board and purple pieces instead of the
+    pieces of their color.
+
+    They take the Grand Scepter and choose a relic from the Reliquary to take
+    facedown.
+
+    **If there's no Chancellor,** a random Citizen becomes the Chancellor first.
+    If there are no Citizens to become Chancellor, do not set up the Chancellor.
+  image: Chancellor (NF)
+  name: Setup - Chancellor
+  flipSide: OATH-SETUP02a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP03a-NF
+  text: >-
+    Fill site slots going Hinterward (rulebook page 9) from Recent Sites in the
+    Atlas. **Stop at the Empire divider.**
+
+    Edifices start **intact**.
+
+    **Don't fill empty relic slots!**
+
+    Place 1 Imperial warband on these sites.
+
+    **If there is no Chancellor,** use the back of this card instead.
+  image: Empire (NF)
+  name: Setup - Empire
+  flipSide: OATH-SETUP03b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP03b-NF
+  text: >-
+    Set Foundation I to Wide Horizons and V to Mob's Favor.
+
+    Fill site slots as described on the other side of this card, but:
+
+    Edifices start **ruined**.
+
+    **Fill** empty relic slots on these sites from relic deck.
+
+    Place **bandits** on these sites equal to capacity.
+
+    Set the Grand Scepter aside. Discard the Reliquary. Citizens in box become
+    Exiles. Give first player marker randomly. Place Usurper Limiter on round 4.
+  image: No Empire (NF)
+  name: Setup - No Empire?
+  flipSide: OATH-SETUP03a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP04a-NF
+  text: >-
+    The Chancellor fills the remaining empty site slots going Hinterward.
+
+    They must fill these slots with Recent Sites or Forgotten Sites from the
+    Atlas, but not both.
+
+    **Bandits** are placed on the site equal to its capacity.
+
+    Edifices start **ruined**.
+
+    **Fill the site's empty relic slots** by drawing relics from the relic deck.
+  image: Foundation I - Imperial Maps (NF)
+  name: 'Setup - Foundation I: Imperial Maps'
+  flipSide: OATH-SETUP04b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP04b-NF
+  text: >-
+    **Do not fill empty site slots!**
+
+    In this game, players can spend 1 Supply to **Explore** if their pawn is at
+    the Hintermost site card (rulebook page 9).
+
+    Explore works like a Recover action with a **difficulty of 4**.
+
+    If you succeed, place a site on the next Hinterward slot, populate it as
+    described on the back of this card, and then place your pawn on the site.
+
+    _Keep this card out as a reminder._
+  image: Foundation I - Wide Horizons (NF)
+  name: 'Setup - Foundation I: Wide Horizons'
+  flipSide: OATH-SETUP04a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP05a-NF
+  text: >-
+    Place `symbol:favor` `symbol:favor` `symbol:favor` on each suit's favor
+    bank.
+
+    If you have five or more players, add an extra `symbol:favor` to each favor
+    bank.
+
+    Then, for each denizen on the map, add an extra `symbol:favor` to the
+    matching favor bank.
+  image: Foundation II - Powerful Tribes (NF)
+  name: 'Setup - Foundation II: Powerful Tribes'
+  flipSide: OATH-SETUP05b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP05b-NF
+  text: >-
+    Each player takes 5 more favor `symbol:favor` `symbol:favor` `symbol:favor`
+    `symbol:favor` `symbol:favor` from the shared bank. _Players usually start
+    with 6._
+
+    Then, for each denizen on the map, place `symbol:favor` on the matching
+    favor bank.
+  image: Foundation II - Movers and Shakers (NF)
+  name: 'Setup - Foundation II: Movers and Shakers'
+  flipSide: OATH-SETUP05a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP06a-NF
+  text: >-
+    Each player draws 2 legacy cards, keeps one facedown in their play area, and
+    returns the other to the box.
+  image: Foundation III - Quiet Ambitions (NF)
+  name: 'Setup - Foundation III: Quiet Ambitions'
+  flipSide: OATH-SETUP06b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP06b-NF
+  text: >-
+    Deal 4 legacy cards to a faceup row near the map.
+
+    Everyone competes to activate these public legacies in the Chronicle Phase.
+    For these, the outgoing Chancellor breaks ties between Imperials alone.
+    Discard public legacies that aren't activated.
+  image: Foundation III - Public Ambitions (NF)
+  name: 'Setup - Foundation III: Public Ambitions'
+  flipSide: OATH-SETUP06a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP07a-NF
+  text: >-
+    Each player who has no starting advisers draws 3 denizens facedown from the
+    starting denizen stack.
+
+    _You will choose one as an adviser later. Players sometimes carry over
+    advisers from the previous game._
+
+    Then, deal 2 denizens from the starting denizen stack facedown to each
+    discard pile.
+  image: Foundation IV - Ties of Fellowship (NF)
+  name: 'Setup - Foundation IV: Ties of Fellowship'
+  flipSide: OATH-SETUP07b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP07b-NF
+  text: >-
+    Each player draws facedown denizens from the starting denizen stack until
+    they have three starting advisers.
+
+    Discard the rest of the starting denizen stack as evenly as possible, going
+    from Cradle to Provinces to Hinterland. _The world deck will only have
+    Visions!_
+  image: Foundation IV - Teeming World (NF)
+  name: 'Setup - Foundation IV: Teeming World'
+  flipSide: OATH-SETUP07a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP08a-NF
+  text: >-
+    Set the People's Favor on its **Mob** side. Place `symbol:favor` on it from
+    the shared bank.
+
+    If the Oathkeeper goal is the People's Favor, give the banner to the
+    Chancellor, if any. Otherwise, place it in the shared bank.
+  image: Foundation V - Mob's Favor (NF)
+  name: 'Setup - Foundation V: Mob''s Favor'
+  flipSide: OATH-SETUP08b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP08b-NF
+  text: >-
+    Flip the People's Favor to its **Grand Council** side. Place `symbol:favor`
+    on it from the shared bank.
+
+    If the Oathkeeper goal is the People's Favor, give the banner to the
+    Chancellor, if any. Otherwise, place it in the shared bank.
+  image: Foundation V - Grand Council (NF)
+  name: 'Setup - Foundation V: Grand Council'
+  flipSide: OATH-SETUP08a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP09a-NF
+  text: >-
+    Set the Darkest Secret on its **Wandering Flame** side. Place
+    `symbol:secret` on it from the shared bank.
+
+    If the Oathkeeper goal is the Darkest Secret, give the banner to the
+    Chancellor, if any. Otherwise, place it in the shared bank.
+  image: Foundation VI - Wandering Flame (NF)
+  name: 'Setup - Foundation VI: Wandering Flame'
+  flipSide: OATH-SETUP09b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP09b-NF
+  text: >-
+    Flip the Darkest Secret to its **Festival side**. Place `symbol:secret` on
+    it from the shared bank. Place the Festival marker nearby.
+
+    If the Oathkeeper goal is the Darkest Secret, give the banner to the
+    Chancellor, if any. Otherwise, place it in the shared bank.
+  image: Foundation VI - Festival (NF)
+  name: 'Setup - Foundation VI: Festival'
+  flipSide: OATH-SETUP09a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP10-NF
+  text: >-
+    Place `symbol:favor`/`symbol:secret` on sites as shown in their top-left
+    corner. _Some start with nothing._
+
+    Form the world deck as shown on the World Deck slot.
+
+    **If there are fewer than 25 denizens in total,** shuffle all Visions
+    together with all the denizens to form the world deck.
+  image: Sites and World Deck (NF)
+  name: Setup - Sites and World Deck
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP11-NF
+  text: >-
+    **In turn order, each player does the following:**
+
+    If Exile, place your pawn on the Hintermost Imperial site **or** any site
+    ruled by bandits.
+
+    If Chancellor or Citizen, place your pawn at any Imperial site.
+
+    If you drew from Ties of Fellowship, choose a facedown adviser and discard
+    the rest.
+
+    You may reveal relics and advisers, except site-only cards. _This is not
+    playing a card and does not trigger When Played powers._
+  image: Player Choices (NF)
+  name: Setup - Player Choices
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-S01-NF
+  meta:
+    cardcapacity: 2
+    defense: 2
+  name: Fair Isle
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Island.** This site has the Coast power (see below). Traveling to it costs 2 Supply
+    more than its normal Travel cost unless you're traveling from a Coast or
+    Island. 
+    
+    **Coast.** Traveling from here to a Coast or Island costs only 1
+    Supply and ignores other Travel modifiers _(Mountain, Pass, etc.)_.
+  image: Fair Isle (NF)
+  imageClass: rotated
+- id: OATH-S02-NF
+  meta:
+    cardcapacity: 0
+    defense: 2
+  name: Sunken Isles
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Island.** This site has the Coast power (see below). Traveling to it costs 2 Supply
+    more than its normal Travel cost unless you're traveling from a Coast or
+    Island. _Also, the Sunken Isles site has no capacity, so it cannot usually
+    be targeted in a Campaign._ 
+    
+    **Coast.** Traveling from here to a Coast or
+    Island costs only 1 Supply and ignores other Travel modifiers _(Mountain,
+    Pass, etc.)_.
+  image: Sunken Isles (NF)
+  imageClass: rotated
+- id: OATH-S03-NF
+  meta:
+    cardcapacity: 2
+    defense: 1
+  name: Tidal Marshes
+  tags:
+    - New Foundations
+    - Site
+    - Power
+    - Travel
+  text: >-
+    **River.** **Wake**: You may place your pawn at another River. _This is not
+    a Travel action._ 
+    
+    **Coast.** Traveling from here to a Coast or Island costs
+    only 1 Supply and ignores other Travel modifiers _(Mountain, Pass, etc.)_.
+  image: Tidal Marshes (NF)
+  imageClass: rotated
+- id: OATH-S04-NF
+  meta:
+    cardcapacity: 1
+    defense: 2
+  name: Broken Peaks
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Mountain.** Traveling to this site costs one more Supply than its normal
+    Travel cost. _Do not add this Supply cost if this site also has the Coast
+    power and you're traveling to it from a Coast._
+  image: Broken Peaks (NF)
+  imageClass: rotated
+- id: OATH-S05-NF
+  meta:
+    cardcapacity: 3
+    defense: 1
+  name: Standing Stones
+  tags:
+    - New Foundations
+    - Site
+    - Search
+  text: >-
+    **Arcane Homeland.** When playing an Arcane card to this site, you
+    may discard a card from the site first _(even an Arcane card)_.
+  image: Standing Stones (NF)
+  imageClass: rotated
+- id: OATH-S06-NF
+  meta:
+    cardcapacity: 2
+    defense: 2
+  name: Hidden Place
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Mountain.** Traveling to this site costs one more Supply than its normal
+    Travel cost. _Do not add this Supply cost if this site also has the Coast
+    power and you're traveling to it from a Coast._
+  image: Hidden Place (NF)
+  imageClass: rotated
+- id: OATH-S07-NF
+  meta:
+    cardcapacity: 1
+    defense: 1
+  name: Solitary Pillar
+  tags:
+    - New Foundations
+    - Site
+  text: '**Plains.** This site has no power.'
+  image: Solitary Pillar (NF)
+  imageClass: rotated
+- id: OATH-S08-NF
+  meta:
+    cardcapacity: 3
+    defense: 2
+  name: Ancient City
+  tags:
+    - New Foundations
+    - Site
+    - Power
+  text: >-
+    **Enduring.** Cards at this site are not discarded in the Chronicle Phase
+    during the Shape Empire step. 
+    
+    **River.** **Wake**: You may place your pawn
+    at another River. _This is not a Travel action._
+  image: Ancient City (NF)
+  imageClass: rotated
+- id: OATH-S09-NF
+  meta:
+    cardcapacity: 3
+    defense: 1
+  name: Painted Towers
+  tags:
+    - New Foundations
+    - Site
+    - Search
+  text: >-
+    **Order Homeland.** When playing an Order card to this site, you may
+    discard a card from the site first _(even an Order card)_.
+  image: Painted Towers (NF)
+  imageClass: rotated
+- id: OATH-S10-NF
+  meta:
+    cardcapacity: 1
+    defense: 1
+  name: Desolate Shore
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Coast.** Traveling from here to a Coast or Island costs only 1 Supply and
+    ignores other Travel modifiers _(Mountain, Pass, etc.)_.
+  image: Desolate Shore (NF)
+  imageClass: rotated
+- id: OATH-S11-NF
+  meta:
+    cardcapacity: 3
+    defense: 1
+  name: Deep Woods
+  tags:
+    - New Foundations
+    - Site
+    - Search
+  text: >-
+    **Beast Homeland.** When playing a Beast card to this site, you may
+    discard a card from the site first _(even a Beast card)_.
+  image: Deep Woods (NF)
+  imageClass: rotated
+- id: OATH-S12-NF
+  meta:
+    cardcapacity: 1
+    defense: 2
+  name: Narrow Pass
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+    - Campaign
+  text: >-
+    **Pass.** If your pawn is outside this region, you **cannot** travel to
+    other sites in this region or target other sites in this region in
+    campaigns, unless you have the consent of the Pass's ruler. _You can ignore
+    this power if you rule the Pass. The bandits never consent._
+  image: Narrow Pass (NF)
+  imageClass: rotated
+- id: OATH-S13-NF
+  meta:
+    cardcapacity: 1
+    defense: 1
+  name: Mines
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Mountain.** Traveling to this site costs one more Supply than its normal
+    Travel cost. _Do not add this Supply cost if this site also has the Coast
+    power and you're traveling to it from a Coast._
+  image: Mines (NF)
+  imageClass: rotated
+- id: OATH-S14-NF
+  meta:
+    cardcapacity: 2
+    defense: 0
+  name: Salt Flats
+  tags:
+    - New Foundations
+    - Site
+  text: '**Plains.** This site has no power.'
+  image: Salt Flats (NF)
+  imageClass: rotated
+- id: OATH-S15-NF
+  meta:
+    cardcapacity: 3
+    defense: 0
+  name: Steppe
+  tags:
+    - New Foundations
+    - Site
+    - Search
+  text: >-
+    **Nomad Homeland.** When playing a Nomad card to this site, you may
+    discard a card from the site first _(even a Nomad card)_.
+  image: Steppe (NF)
+  imageClass: rotated
+- id: OATH-S16-NF
+  meta:
+    cardcapacity: 3
+    defense: 1
+  name: Golden Valley
+  tags:
+    - New Foundations
+    - Site
+    - Search
+  text: >-
+    **Hearth Homeland.** When playing a Hearth card to this site, you may
+    discard a card from the site first _(even a Hearth card)_.
+  image: Golden Valley (NF)
+  imageClass: rotated
+- id: OATH-S17-NF
+  meta:
+    cardcapacity: 2
+    defense: 1
+  name: Riverbank
+  tags:
+    - New Foundations
+    - Site
+    - Power
+  text: >-
+    **River.** **Wake**: You may place your pawn at another River. _This is not
+    a Travel action._
+  image: Riverbank (NF)
+  imageClass: rotated
+- id: OATH-S18-NF
+  meta:
+    cardcapacity: 2
+    defense: 1
+  name: Headwaters
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+    - Power
+  text: >-
+    **Mountain.** Traveling to this site costs one more Supply than its normal
+    Travel cost. _Do not add this Supply cost if this site also has the Coast
+    power and you're traveling to it from a Coast._ 
+    
+    **River.** **Wake**: You may
+    place your pawn at another River. _This is not a Travel action._
+  image: Headwaters (NF)
+  imageClass: rotated
+- id: OATH-S19-NF
+  meta:
+    cardcapacity: 1
+    defense: 1
+  name: Buried Giant
+  tags:
+    - New Foundations
+    - Site
+  text: '**Plains.** This site has no power.'
+  image: Buried Giant (NF)
+  imageClass: rotated
+- id: OATH-S20-NF
+  meta:
+    cardcapacity: 3
+    defense: 1
+  name: Great Slum
+  tags:
+    - New Foundations
+    - Site
+    - Search
+  text: >-
+    **Discord Homeland.** When playing a Discord card to this site, you
+    may discard a card from the site first _(even a Discord card)_.
+  image: Great Slum (NF)
+  imageClass: rotated
+- id: OATH-S21-NF
+  meta:
+    cardcapacity: 2
+    defense: 1
+  name: Green Shore
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Coast.** Traveling from here to a Coast or Island costs only 1 Supply and
+    ignores other Travel modifiers _(Mountain, Pass, etc.)_.
+  image: Green Shore (NF)
+  imageClass: rotated
+- id: OATH-S22-NF
+  meta:
+    cardcapacity: 1
+    defense: 1
+  name: Dunes
+  tags:
+    - New Foundations
+    - Site
+  text: '**Plains.** This site has no power.'
+  image: Dunes (NF)
+  imageClass: rotated
+- id: OATH-S23-NF
+  meta:
+    cardcapacity: 1
+    defense: 2
+  name: Rocky Coast
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Coast.** Traveling from here to a Coast or Island costs only 1 Supply and
+    ignores other Travel modifiers _(Mountain, Pass, etc.)_.
+  image: Rocky Coast (NF)
+  imageClass: rotated
+- id: OATH-S24-NF
+  meta:
+    cardcapacity: 1
+    defense: 2
+  name: Shrouded Woods
+  tags:
+    - New Foundations
+    - Site
+  text: '**Plains.** This site has no power.'
+  image: Shrouded Woods (NF)
+  imageClass: rotated
+- id: OATH-E01a-NF
+  text: >-
+    If this card's ruler holds the People's Favor, their enemies **cannot**
+    target the People's Favor. If ruled by Empire, all Imperials have this
+    power.
+  image: Hall of Debate (NF)
+  name: Hall of Debate
+  flipSide: OATH-E01b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Hearth
+    - Campaign
+- id: OATH-E01b-NF
+  text: >-
+    **Setup (End) / When Explored**: Place `symbol:favor` `symbol:favor`
+    `symbol:favor` `symbol:favor` on the People's Favor and move it to the
+    shared bank—players **cannot** start with it. Burn `symbol:favorb` from each
+    favor bank.
+  image: Hall of Mockery (NF)
+  name: Hall of Mockery
+  flipSide: OATH-E01a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Hearth
+- id: OATH-E02a-NF
+  text: >-
+    **Setup (End) / When Explored**: Place `symbol:favor` on this site for each
+    denizen _(including this)_ in this region. _Players may take it in Wake._
+  image: Great Market (NF)
+  name: Great Market
+  flipSide: OATH-E02b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Hearth
+- id: OATH-E02b-NF
+  text: >-
+    **Setup (End) / When Explored**: Place `symbol:favor` on each site ruled by
+    the bandits. _(Players may take it in Wake.)_ Burn `symbol:favorb` from each
+    favor bank.
+  image: Bandit Market (NF)
+  name: Bandit Market
+  flipSide: OATH-E02a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Hearth
+- id: OATH-E03a-NF
+  text: Act as if this site is a Coast along with its other powers.
+  image: Grand Canal (NF)
+  name: Grand Canal
+  flipSide: OATH-E03b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Hearth
+    - Travel
+- id: OATH-E03b-NF
+  text: Act as if this site is an Island along with its other powers.
+  image: Lost Lagoon (NF)
+  name: Lost Lagoon
+  flipSide: OATH-E03a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Hearth
+    - Travel
+- id: OATH-E04a-NF
+  text: >-
+    **Chronicle (Sun)**: Players with a pawn at this site do not discard their
+    dormant legacies.
+  image: Stone Baths (NF)
+  name: Stone Baths
+  flipSide: OATH-E04b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Hearth
+- id: OATH-E04b-NF
+  text: >-
+    **Chronicle (Sun)**: Exiles at this site don't need to meet the goals of
+    their active legacies to keep them active.
+  image: Ruined Baths (NF)
+  name: Ruined Baths
+  flipSide: OATH-E04a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Hearth
+- id: OATH-E05a-NF
+  text: >-
+    **Setup / When Explored**: If you place your pawn here, you may discard all
+    of your legacies _(even dormant)_ to draw 2 dormant legacies and activate
+    one.
+  image: Amber Doors (NF)
+  name: Amber Doors
+  flipSide: OATH-E05b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Hearth
+- id: OATH-E05b-NF
+  text: >-
+    **Setup / When Explored**: If you place your pawn here, draw a dormant
+    legacy, then discard one you hold.
+  image: Lost Doors (NF)
+  name: Lost Doors
+  flipSide: OATH-E05a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Hearth
+- id: OATH-E06a-NF
+  text: >-
+    **Setup / When Explored**: If you place your pawn here, draw a relic from
+    the relic deck and take it facedown.
+  image: Great Forge (NF)
+  name: Great Forge
+  flipSide: OATH-E06b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Nomad
+- id: OATH-E06b-NF
+  text: >-
+    **Setup / When Explored**: If you place your pawn here, discard all relics
+    at sites in this region.
+  image: Broken Forge (NF)
+  name: Broken Forge
+  flipSide: OATH-E06a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Nomad
+- id: OATH-E07a-NF
+  text: >-
+    Whenever this card's ruler would discard a `symbol:suit-nomad` card from a
+    power, they may instead pay `symbol:favor` to the `symbol:suit-nomad` bank.
+  image: Wild Pastures (NF)
+  name: Wild Pastures
+  flipSide: OATH-E07b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Nomad
+- id: OATH-E07b-NF
+  text: >-
+    **Chronicle (Start of Throne)**: Bury all `symbol:suit-nomad` cards on the
+    map unless the winner rules this card.
+  image: Blasted Pastures (NF)
+  name: Blasted Pastures
+  flipSide: OATH-E07a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Nomad
+- id: OATH-E08a-NF
+  text: >-
+    Players **cannot** play Visions, except the Conspiracy, faceup unless their
+    pawn is at this site.
+  image: Sacred Ground (NF)
+  name: Sacred Ground
+  flipSide: OATH-E08b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Nomad
+    - Search
+- id: OATH-E08b-NF
+  text: >-
+    If an Exile reveals a Vision while their pawn is at this site, they do not
+    discard their current revealed Vision. _They can have any number!_
+  image: Desecrated Ground (NF)
+  name: Desecrated Ground
+  flipSide: OATH-E08a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Nomad
+- id: OATH-E09a-NF
+  text: '**Action**: Move this card to another site, then place your pawn there.'
+  image: Giant's Path (NF)
+  name: Giant's Path
+  flipSide: OATH-E09b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Nomad
+    - Power
+- id: OATH-E09b-NF
+  text: >-
+    **Action**: Bury a denizen at any site _(even here)_. If you do, move
+    Giant's Rampage to that site and place your pawn there.
+  image: Giant's Rampage (NF)
+  name: Giant's Rampage
+  flipSide: OATH-E09a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Nomad
+    - Power
+- id: OATH-E10a-NF
+  text: >-
+    **Action**: Draw a card from the bottom of the world deck and play it to
+    your advisers or discard it, as if you searched.
+  image: Temple of Ancestors (NF)
+  name: Temple of Ancestors
+  flipSide: OATH-E10b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Nomad
+    - Power
+- id: OATH-E10b-NF
+  text: >-
+    **Setup / When Explored**: If you place your pawn here, you may burn
+    `symbol:secretb`. If you do and then win the game, score double the legacy
+    points and take rule of all bandit sites.
+  image: Ruined Temple (NF)
+  name: Ruined Temple
+  flipSide: OATH-E10a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Nomad
+- id: OATH-E11a-NF
+  text: >-
+    **Action**: Add 3 random cards from the Dispossessed to this region's
+    discard pile, then add the bottom 3 denizens from that pile to the
+    Dispossessed.
+  image: Great Spire (NF)
+  name: Great Spire
+  flipSide: OATH-E11b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Arcane
+    - Power
+- id: OATH-E11b-NF
+  text: >-
+    **Setup (End) / When Explored**: Swap denizens in this region's discard pile
+    with the same number of random cards from the Dispossessed. Then, shuffle
+    these cards with any Visions in this pile.
+  image: Fallen Spire (NF)
+  name: Fallen Spire
+  flipSide: OATH-E11a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Arcane
+- id: OATH-E12a-NF
+  text: >-
+    **Action**: Advance the round marker once, if possible. _Do not roll
+    `symbol:dicep`. This cannot end the game._
+  image: Great Clock (NF)
+  name: Great Clock
+  flipSide: OATH-E12b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Arcane
+    - Power
+- id: OATH-E12b-NF
+  text: >-
+    **Setup (End) / When Explored**: Advance the round marker once, if possible.
+    _Do not roll `symbol:dicep`. This cannot end the game._
+  image: Broken Clock (NF)
+  name: Broken Clock
+  flipSide: OATH-E12a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Arcane
+- id: OATH-E13a-NF
+  text: >-
+    **Action**: Peek at all relics in this region, then swap one with a relic
+    you have, placing it facedown.
+  image: Underground Library (NF)
+  name: Underground Library
+  flipSide: OATH-E13b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Arcane
+    - Power
+- id: OATH-E13b-NF
+  text: >-
+    If your pawn is at this site, you may recover the top card of the relic deck
+    instead. Its recover difficulty is 5.
+  image: Drowned Library (NF)
+  name: Drowned Library
+  flipSide: OATH-E13a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Arcane
+    - Recover
+    - Power
+- id: OATH-E14a-NF
+  text: >-
+    **Action**: If your pawn is at this site, place your pawn on another site.
+    If your pawn is not at this site, place your pawn at this site.
+  image: Stone Portal (NF)
+  name: Stone Portal
+  flipSide: OATH-E14b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Arcane
+    - Power
+- id: OATH-E14b-NF
+  text: >-
+    **Action**: If your pawn is at this site, roll `symbol:dicep` and place your
+    pawn that many sites Hinterward. The bottom Hinterland site wraps to the top
+    Cradle site.
+  image: Shattered Portal (NF)
+  name: Shattered Portal
+  flipSide: OATH-E14a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Arcane
+    - Power
+- id: OATH-E15a-NF
+  text: >-
+    **Wake**: If your pawn is at this site, refresh your Supply marker to the
+    leftmost space.
+  image: Marble Fountains (NF)
+  name: Marble Fountains
+  flipSide: OATH-E15b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Arcane
+    - Power
+- id: OATH-E15b-NF
+  text: >-
+    **Action**: If your pawn is at this site, roll 2 `symbol:diceb` and gain
+    Supply equal to the total `symbol:shield` rolled. If you roll none, end your
+    Act Phase.
+  image: Murky Fountain (NF)
+  name: Murky Fountain
+  flipSide: OATH-E15a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Arcane
+    - Power
+- id: OATH-E16a-NF
+  text: >-
+    Enemies of this card's ruler **cannot** discard denizens from sites ruled by
+    this card's ruler. _They can still be buried._
+  image: Hall of Ministers (NF)
+  name: Hall of Ministers
+  flipSide: OATH-E16b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Order
+- id: OATH-E16b-NF
+  text: '**Chronicle**: Ruined edifices ruled by bandits are not discarded.'
+  image: Hall of Bandits (NF)
+  name: Hall of Bandits
+  flipSide: OATH-E16a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Order
+- id: OATH-E17a-NF
+  text: >-
+    Enemies of this card's ruler **cannot** recover relics at sites ruled by
+    this card's ruler.
+  image: Relic Patrols (NF)
+  name: Relic Patrols
+  flipSide: OATH-E17b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Order
+    - Recover
+- id: OATH-E17b-NF
+  text: >-
+    Enemies of this card's ruler **cannot** recover relics at sites ruled by
+    bandits.
+  image: Bandit Patrols (NF)
+  name: Bandit Patrols
+  flipSide: OATH-E17a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Order
+    - Recover
+- id: OATH-E18a-NF
+  text: >-
+    If this card's ruler holds the Darkest Secret, their enemies **cannot**
+    target the Darkest Secret. If ruled by Empire, all Imperials have this
+    power.
+  image: Tome Guardians (NF)
+  name: Tome Guardians
+  flipSide: OATH-E18b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Order
+    - Campaign
+- id: OATH-E18b-NF
+  text: >-
+    **Setup (End) / When Explored**: Place `symbol:secret` `symbol:secret`
+    `symbol:secret` on the Darkest Secret and move it to the shared bank.
+    Players **cannot** start with it.
+  image: Lost Guardians (NF)
+  name: Lost Guardians
+  flipSide: OATH-E18a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Order
+- id: OATH-E19a-NF
+  text: >-
+    **When Negotiating**: You may negotiate with players at any sites. Players
+    may make binding promises, even into later games.
+  image: The Tribunal (NF)
+  name: The Tribunal
+  flipSide: OATH-E19b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Order
+    - Power
+- id: OATH-E19b-NF
+  text: >-
+    **When Negotiating**: Players at sites ruled by bandits may negotiate with
+    each other.
+  image: Bandit Tribunal (NF)
+  name: Bandit Tribunal
+  flipSide: OATH-E19a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Order
+- id: OATH-E20a-NF
+  text: +2 `symbol:diceb` if your pawn is at this site or this site is targeted.
+  image: Towering Rampart (NF)
+  name: Towering Rampart
+  flipSide: OATH-E20b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Order
+    - Battle Plan
+- id: OATH-E20b-NF
+  text: +1 `symbol:diceb` if this site is targeted.
+  image: Cracked Rampart (NF)
+  name: Cracked Rampart
+  flipSide: OATH-E20a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Order
+    - Battle Plan
+- id: OATH-E21a-NF
+  text: >-
+    **When Negotiating**: Players may give, receive, and swap advisers. _Players
+    must follow their adviser limits._
+  image: Festival District (NF)
+  name: Festival District
+  flipSide: OATH-E21b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Discord
+    - Power
+- id: OATH-E21b-NF
+  text: >-
+    **Action**: Discard any number of facedown advisers you have. Draw that many
+    denizens from the bottom of the world deck as facedown advisers.
+  image: Squalid District (NF)
+  name: Squalid District
+  flipSide: OATH-E21a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Discord
+    - Power
+- id: OATH-E22a-NF
+  text: '**Setup / When Explored**: If you place your pawn here, gain three warbands.'
+  image: Proving Grounds (NF)
+  name: Proving Grounds
+  flipSide: OATH-E22b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Discord
+- id: OATH-E22b-NF
+  text: '**Setup (End) / When Explored**: Discard all other denizens in this region.'
+  image: Empty Grounds (NF)
+  name: Empty Grounds
+  flipSide: OATH-E22a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Discord
+- id: OATH-E23a-NF
+  text: >-
+    If you're victorious in a raid, place the defender's pawn on this site, and
+    they lose 2 Supply.
+  image: Spiral Castle (NF)
+  name: Spiral Castle
+  flipSide: OATH-E23b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Discord
+    - Battle Plan
+- id: OATH-E23b-NF
+  text: >-
+    If you're victorious, place the attacker's pawn on this site, and they lose
+    2 Supply. _Bandits will use this._
+  image: Spiral Dungeons (NF)
+  name: Spiral Dungeons
+  flipSide: OATH-E23a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Discord
+    - Battle Plan
+- id: OATH-E24a-NF
+  text: >-
+    If you travel to this site and do not rule this card, you **must** kill 2
+    warbands on your board if able.
+  image: Boiling Lake (NF)
+  name: Boiling Lake
+  flipSide: OATH-E24b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Discord
+    - Travel
+    - Power
+- id: OATH-E24b-NF
+  text: >-
+    Cards **cannot** be played to this site. _This card can still be discarded
+    by People's Favor, etc._
+  image: Still Boiling Lake (NF)
+  name: Still Boiling Lake
+  flipSide: OATH-E24a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Discord
+- id: OATH-E25a-NF
+  text: >-
+    **Wake**: If your pawn is at this site and its ruler consents, place your
+    pawn on any site.
+  image: Hidden Passages (NF)
+  name: Hidden Passages
+  flipSide: OATH-E25b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Discord
+    - Power
+- id: OATH-E25b-NF
+  text: >-
+    **Wake**: If your pawn is at this site, you may burn `symbol:favorb` to
+    place your pawn on any site.
+  image: Sinking Passages (NF)
+  name: Sinking Passages
+  flipSide: OATH-E25a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Discord
+    - Power
+- id: OATH-E26a-NF
+  text: >-
+    When trading at this site for `symbol:secret`, you **must** place both
+    `symbol:favor` on the card you are trading with _(instead of burning one)_.
+  image: Hallowed Spring (NF)
+  name: Hallowed Spring
+  flipSide: OATH-E26b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Beast
+    - Trade
+- id: OATH-E26b-NF
+  text: >-
+    **Chronicle (Throne)**: This site's ruler may secretly keep a relic they
+    have facedown. They start the next game with it.
+  image: Hiding Place (NF)
+  name: Hiding Place
+  flipSide: OATH-E26a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Beast
+- id: OATH-E27a-NF
+  text: >-
+    You may challenge a banner held by an enemy even if your pawn is not at
+    their pawn's site.
+  image: School of Vines (NF)
+  name: School of Vines
+  flipSide: OATH-E27b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Beast
+    - Recover
+    - Power
+- id: OATH-E27b-NF
+  text: >-
+    **Setup (End) / When Explored**: Place `symbol:secret` on each site ruled by
+    the bandits. _Players may take it in Wake._
+  image: Ruined School (NF)
+  name: Ruined School
+  flipSide: OATH-E27a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Beast
+- id: OATH-E28a-NF
+  text: >-
+    While this card's ruler is at this site, they **cannot** be targeted by a
+    challenge or a raid campaign. If ruled by Empire, all Imperials have this
+    power.
+  image: Oaken Fortress (NF)
+  name: Oaken Fortress
+  flipSide: OATH-E28b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Beast
+- id: OATH-E28b-NF
+  text: >-
+    Players at this site **cannot** be targeted by a challenge or a raid
+    campaign, unless the targeting player has a `symbol:suit-beast` adviser.
+  image: Rotting Fortress (NF)
+  name: Rotting Fortress
+  flipSide: OATH-E28a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Beast
+- id: OATH-E29a-NF
+  text: >-
+    Enemies of this card's ruler **cannot** travel to this site unless they have
+    a `symbol:suit-beast` adviser.
+  image: Forbidden Forest (NF)
+  name: Forbidden Forest
+  flipSide: OATH-E29b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Beast
+- id: OATH-E29b-NF
+  text: >-
+    Imperials **cannot** place `symbol:favor`/`symbol:secret` on denizens ruled
+    by bandits or use their non-persistent powers.
+  image: Bandit Forest (NF)
+  name: Bandit Forest
+  flipSide: OATH-E29a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Beast
+- id: OATH-CHRON01a-NF
+  text: >-
+    **Resolve Legacies.** Reveal facedown relics held by players. Dormant
+    legacies become active if their goal is met. If not, discard them. All
+    Imperials rule Imperial sites for legacy goals. Ties between only Imperials
+    are friendly. All other ties are unfriendly. Active legacies of Exiles
+    become dormant if goal is not met. Players discard down to 3 active
+    legacies. Shuffle discarded legacies into legacy deck.
+
+    `symbol:legacy-favor` Hold People's Favor. `symbol:legacy-secret` Hold
+    Darkest Secret. `symbol:legacy-sites` Rule the most sites.
+    `symbol:legacy-scepter` Hold Grand Scepter. _If none, win._
+    `symbol:legacy-suit` Rule most cards of suit _(even advisers)_.
+    `symbol:legacy-relic` Hold relic of highest value _(under name)_.
+
+    **Now, flip this card over.**
+  image: The Sun (NF)
+  name: Chronicle - The Sun
+  flipSide: OATH-CHRON01b-NF
+  tags:
+    - New Foundations
+    - Chronicle
+- id: OATH-CHRON01b-NF
+  text: >-
+    **Crown Chancellor.** The winner becomes the Chancellor and takes the Grand
+    Scepter. **If an Exile won,** their newly dormant legacies become active.
+    Old Imperials, even in the box, become Exiles. Discard the Reliquary.
+    Remove Imperial warbands from map, then mark winner's sites with Imperial
+    warbands. **If a Citizen won,** old Chancellor turns Citizen.
+
+    **Assign Tasks.** `symbol:chancellor` The winner takes the Throne task card.
+    `symbol:legacy-favor` The player with the People's Favor takes the World
+    task card. `symbol:legacy-secret` The player with the Darkest Secret takes
+    the Beacon task card. **If no one holds a banner,** the winner may give its
+    task to anyone. **If a player holds both the Beacon and the World tasks,**
+    they must give away one of them.
+  image: The Sun - Back (NF)
+  name: Chronicle - The Sun (Back)
+  flipSide: OATH-CHRON01a-NF
+  tags:
+    - New Foundations
+    - Chronicle
+- id: OATH-CHRON02a-NF
+  text: >-
+    **Offer Citizenship.** You may offer Citizenship to Exiles: Their board
+    flips. Their newly dormant legacies become active. You take rule of their
+    sites.
+
+    **Shape Empire.** You may remove warbands from sites you rule, except your
+    last site. If you rule none, replace the warbands on your site with one of
+    yours. Then, discard all denizens **you don't rule** except intact
+    edifices. _Discarded ruined edifices go to the bottom of the edifice deck
+    in the box._
+
+    **Build Edifice.** Draw the topmost edifice of each suit. You may bury a
+    denizen at a site you rule to replace it with the matching drawn edifice.
+    _Burying ignores the locked restriction and places the card on the bottom
+    of its respective deck._ Reshuffle the edifice deck.
+
+    **Stock Reliquary.** Add all your relic cards to the Reliquary facedown.
+    Discard relics in excess of five.
+
+    **Now, flip this card over.**
+  image: The Throne (NF)
+  name: Chronicle - The Throne
+  flipSide: OATH-CHRON02b-NF
+  tags:
+    - New Foundations
+    - Chronicle
+- id: OATH-CHRON02b-NF
+  text: >-
+    **Scatter Relics.** Set aside the Grand Scepter and Reliquary. Shuffle
+    together discarded relics and relics held by players. Deal relics from this
+    pile facedown to fill all empty relic slots at sites, going Hinterward.
+    Return remaining relics to the relic deck.
+
+    **Score Lineage Points.** The winner scores 3 points + extra points for
+    their legacies: each legacy scores 1 point per matching card **at sites**
+    they rule. Then, they may give points to other players, spending 2 points
+    for each point given. Finally, record scores, circle the Chancellor's
+    score, and underline each Citizen's score.
+
+    **Swear an Oath.** If a Vision won, set the Oathkeeper goal to match it.
+    Otherwise, choose an Oathkeeper goal that is different from the current
+    one.
+  image: The Throne - Back (NF)
+  name: Chronicle - The Throne (Back)
+  flipSide: OATH-CHRON02a-NF
+  tags:
+    - New Foundations
+    - Chronicle
+- id: OATH-CHRON03-NF
+  text: >-
+    **Separate Visions.** Set aside all 5 Vision cards.
+
+    **Gather Denizens.** Shuffle all denizens from the discard piles and
+    players' advisers into a stack. Return all but 9 denizens from this stack
+    to the world deck. _Don't look at these cards._ Split these 9 denizens into
+    three stacks of 3 denizens each. Flip two of these stacks faceup.
+
+    **Protect and Dispossess.** Choose one faceup denizen stack to protect:
+    Secretly choose 1 denizen as a facedown starting adviser you keep for the
+    next game, and add the other 2 denizens facedown to the world deck. Place
+    the other two stacks, 6 denizens in total, behind the Dispossessed divider
+    in the box.
+  image: The World (NF)
+  name: Chronicle - The World
+  tags:
+    - New Foundations
+    - Chronicle
+- id: OATH-CHRON04-NF
+  text: >-
+    **Introduce Newcomers.** Choose 3 different suits. Draw 3 of the first,
+    then 2 of the second, and then 1 of the third from the box. _Don't draw
+    from the Dispossessed or Edifices sections._
+
+    **Welcome a Stranger.** Examine the drawn cards. Keep one as a facedown
+    starting adviser for the next game, and add the other five to the world
+    deck.
+
+    **Shape Foundation.** You may flip one altered foundation to its normal
+    side unless an active legacy is altering it.
+  image: The Beacon (NF)
+  name: Chronicle - The Beacon
+  tags:
+    - New Foundations
+    - Chronicle
+- id: OATH-CHRON05-NF
+  text: >-
+    **Write in the Stars.** The winner draws and names a constellation on the
+    back of the era scorepad.
+
+    **Archive Rival Sites.** **At each site not ruled by the winner,** remove
+    any pieces and stack cards there on the site. Stack these sites with their
+    cards going Hinterward, and place the Empire divider on top of them. Slide
+    all of this into the Atlas box on the Recent Sites side, on top of the
+    sites already in the Atlas box.
+
+    **Clean Up.** Return all pieces to their banks. Consolidate Empire sites
+    going Cradleward.
+
+    **Play Again or Store.** To store: Stack the Empire going Hinterward and
+    slide it on top of the Empire divider in the Atlas box. Store each player's
+    pieces and cards. _Grand Scepter and Reliquary are stored separately._
+    Return Visions and the denizen stack from the map to the World Deck section
+    in the box.
+  image: The Stars (NF)
+  name: Chronicle - The Stars
+  tags:
+    - New Foundations
+    - Chronicle
