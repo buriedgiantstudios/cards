@@ -1876,7 +1876,7 @@
     - Standard Deck
     - Beast
     - Power
-- id: OATH-OG-E1
+- id: OATH-E01-OG
   text: >-
     Each site ruled by Sprawling Rampart's ruler adds one more `symbol:diceb`
     when targeted.
@@ -1887,7 +1887,7 @@
     - Edifice
     - Order
     - Campaign
-- id: OATH-OG-E2
+- id: OATH-E02-OG
   text: '-2 `symbol:dicer` if this site is targeted.'
   image: Bandit Rampart
   name: Bandit Rampart
@@ -1896,7 +1896,7 @@
     - Edifice
     - Order
     - Battle Plan
-- id: OATH-OG-E3
+- id: OATH-E03-OG
   text: Players **cannot** target the People's Favor
   image: Hall of Debate
   name: Hall of Debate
@@ -1905,7 +1905,7 @@
     - Edifice
     - Hearth
     - Campaign
-- id: OATH-OG-E4
+- id: OATH-E04-OG
   text: Recovering the People's Favor always flips it to the Mob side.
   image: Hall of Mockery
   name: Hall of Mockery
@@ -1914,7 +1914,7 @@
     - Edifice
     - Hearth
     - Recover
-- id: OATH-OG-E5
+- id: OATH-E05-OG
   text: In the Chronicle, do not discard sites with any `symbol:suit-beast` cards.
   image: Forest Temple
   name: Forest Temple
@@ -1922,7 +1922,7 @@
     - Standard Deck
     - Edifice
     - Beast
-- id: OATH-OG-E6
+- id: OATH-E06-OG
   text: >-
     Enemies of Ruined Temple's ruler **cannot** play `symbol:suit-beast` cards
     faceup.
@@ -1933,7 +1933,7 @@
     - Edifice
     - Beast
     - Search
-- id: OATH-OG-E7
+- id: OATH-E07-OG
   text: >-
     **Action**: Negotiate a binding exchange of `symbol:favor`, `symbol:secret`,
     and advisers with any player.
@@ -1944,7 +1944,7 @@
     - Edifice
     - Discord
     - Power
-- id: OATH-OG-E8
+- id: OATH-E08-OG
   text: >-
     Whenever the `symbol:dicer` is rolled to end the game, Squalid District's
     ruler may increase or decrease this roll by one. Citizens **cannot** use
@@ -1956,7 +1956,7 @@
     - Edifice
     - Discord
     - Power
-- id: OATH-OG-E9
+- id: OATH-E09-OG
   text: >-
     You may swap any number of denizens you draw with random cards from the
     Dispossessed.
@@ -1968,7 +1968,7 @@
     - Arcane
     - Power
     - Search
-- id: OATH-OG-E10
+- id: OATH-E10-OG
   text: >-
     **Action**: Swap up to five denizens from the top of your region's discard
     pile _(skipping Visions)_ with random cards from the Dispossessed.
@@ -1979,7 +1979,7 @@
     - Edifice
     - Arcane
     - Power
-- id: OATH-OG-E11
+- id: OATH-E11-OG
   text: '**Action**: Draw a relic. Take it or put it on the bottom of the relic deck.'
   image: Ancient Forge
   name: Ancient Forge
@@ -1988,7 +1988,7 @@
     - Edifice
     - Nomad
     - Power
-- id: OATH-OG-E12
+- id: OATH-E12-OG
   text: '**Action**: Flip this card over.'
   image: Broken Forge
   name: Broken Forge
@@ -1997,7 +1997,7 @@
     - Edifice
     - Nomad
     - Power
-- id: OATH-OG-R1
+- id: OATH-R01-OG
   meta:
     defense: 2
   name: Sticky Fire
@@ -2010,7 +2010,7 @@
     If you do, you **must** give them `symbol:favor` if able.
   image: Sticky Fire
   imageClass: square
-- id: OATH-OG-R2
+- id: OATH-R02-OG
   meta:
     defense: 3
   name: Cursed Cauldron
@@ -2023,7 +2023,7 @@
     campaign.
   image: Cursed Cauldron
   imageClass: square
-- id: OATH-OG-R3
+- id: OATH-R03-OG
   meta:
     defense: 2
   name: Brass Horse
@@ -2037,7 +2037,7 @@
     Supply.
   image: Brass Horse
   imageClass: square
-- id: OATH-OG-R4
+- id: OATH-R04-OG
   meta:
     defense: 2
   name: Truthful Harp
@@ -2051,7 +2051,7 @@
     card you draw and the card you keep.
   image: Truthful Harp
   imageClass: square
-- id: OATH-OG-R5
+- id: OATH-R05-OG
   meta:
     defense: 2
   name: Grand Mask
@@ -2063,7 +2063,7 @@
     Imperial sites, and Imperial players do not.
   image: Grand Mask
   imageClass: square
-- id: OATH-OG-R6
+- id: OATH-R06-OG
   meta:
     defense: 2
   name: Horned Mask
@@ -2074,7 +2074,7 @@
   text: '**Action**: Swap one of your faceup advisers with a card at your site.'
   image: Horned Mask
   imageClass: square
-- id: OATH-OG-R7
+- id: OATH-R07-OG
   meta:
     defense: 2
   name: Cup of Plenty
@@ -2087,7 +2087,7 @@
     advisers.
   image: Cup of Plenty
   imageClass: square
-- id: OATH-OG-R8
+- id: OATH-R08-OG
   meta:
     defense: 2
   name: Whistle
@@ -2100,7 +2100,7 @@
     if able, spending no Supply. If they do, give them the `symbol:secret` here.
   image: Whistle
   imageClass: square
-- id: OATH-OG-R9
+- id: OATH-R09-OG
   meta:
     defense: 3
   name: Dowsing Sticks
@@ -2111,7 +2111,7 @@
   text: '**Action**: Draw a relic. Take it or put it on the bottom of the relic deck.'
   image: Dowsing Sticks
   imageClass: square
-- id: OATH-OG-R10
+- id: OATH-R10-OG
   meta:
     defense: 2
   name: Cracked Horn
@@ -2122,7 +2122,7 @@
   text: You may put all the cards you discard on the bottom of the world deck.
   image: Cracked Horn
   imageClass: square
-- id: OATH-OG-R11
+- id: OATH-R11-OG
   meta:
     defense: 3
   name: Bandit Crown
@@ -2134,7 +2134,7 @@
     rule empty sites.)_ They **cannot** be killed, moved, or sacrificed.
   image: Bandit Crown
   imageClass: square
-- id: OATH-OG-R12
+- id: OATH-R12-OG
   meta:
     defense: 3
   name: Ring of Devotion
@@ -2146,7 +2146,7 @@
     warbands.
   image: Ring of Devotion
   imageClass: square
-- id: OATH-OG-R13
+- id: OATH-R13-OG
   meta:
     defense: 3
   name: Skeleton Key
@@ -2159,7 +2159,7 @@
     Imperial Reliquary, and you may take it.
   image: Skeleton Key
   imageClass: square
-- id: OATH-OG-R14
+- id: OATH-R14-OG
   meta:
     defense: 2
   name: Oracular Pig
@@ -2170,7 +2170,7 @@
   text: '**Action**: Peek at the top three cards of the world deck.'
   image: Oracular Pig
   imageClass: square
-- id: OATH-OG-R15
+- id: OATH-R15-OG
   meta:
     defense: 1
   name: Circlet of Command
@@ -2182,7 +2182,7 @@
     campaigns, banishing your pawn and favor adds one more `symbol:diceb`.
   image: Circlet of Command
   imageClass: square
-- id: OATH-OG-R16
+- id: OATH-R16-OG
   meta:
     defense: 2
   name: Ivory Eye
@@ -2193,7 +2193,7 @@
   text: '**Action**: Peek at any facedown site, adviser, or relic at any site.'
   image: Ivory Eye
   imageClass: square
-- id: OATH-OG-R17
+- id: OATH-R17-OG
   meta:
     defense: 3
   name: Map
@@ -2204,7 +2204,7 @@
   text: '**Action**: Put this relic on the bottom of the relic deck to gain 4 Supply.'
   image: Map
   imageClass: square
-- id: OATH-OG-R18
+- id: OATH-R18-OG
   meta:
     defense: 2
   name: Obsidian Cage
@@ -2219,7 +2219,7 @@
     Cage to any board of the same color.
   image: Obsidian Cage
   imageClass: square
-- id: OATH-OG-R19
+- id: OATH-R19-OG
   meta:
     defense: 2
   name: Book of Records
@@ -2232,7 +2232,7 @@
     a site.
   image: Book of Records
   imageClass: square
-- id: OATH-OG-R20
+- id: OATH-R20-OG
   meta:
     defense: 2
   name: Dragonskin Drum
@@ -2244,7 +2244,7 @@
   text: After traveling, gain one warband.
   image: Dragonskin Drum
   imageClass: square
-- id: OATH-OG-R21
+- id: OATH-R21-OG
   meta:
     defense: 5
   name: The Grand Scepter
@@ -2258,7 +2258,7 @@
     Citizen except yourself.
   image: The Grand Scepter
   imageClass: square
-- id: OATH-OG-V1
+- id: OATH-V01-OG
   text: >-
     _If drawn from the world deck, increase Visions Drawn. **Anyone** can play
     his face up._ **When Played**: You may burn `symbol:secret` to take one
@@ -2272,7 +2272,7 @@
   tags:
     - Standard Deck
     - Vision
-- id: OATH-OG-V2
+- id: OATH-V02-OG
   text: >-
     _If drawn from the world deck, increase Visions Drawn. **Exiles** can play
     this face up on their Revealed Vision space._ **Wake**: You win if you hold
@@ -2283,7 +2283,7 @@
   tags:
     - Standard Deck
     - Vision
-- id: OATH-OG-V3
+- id: OATH-V03-OG
   text: >-
     _If drawn from the world deck, increase Visions Drawn. **Exiles** can play
     this face up on their Revealed Vision space._ **Wake**: You win if you hold
@@ -2294,7 +2294,7 @@
   tags:
     - Standard Deck
     - Vision
-- id: OATH-OG-V4
+- id: OATH-V04-OG
   text: >-
     _If drawn from the world deck, increase Visions Drawn. **Exiles** can play
     this face up on their Revealed Vision space._ **Wake**: You win if you hold
@@ -2306,7 +2306,7 @@
   tags:
     - Standard Deck
     - Vision
-- id: OATH-OG-V5
+- id: OATH-V05-OG
   text: >-
     _If drawn from the world deck, increase Visions Drawn. **Exiles** can play
     this face up on their Revealed Vision space._ **Wake**: You win if you rule
@@ -2317,7 +2317,7 @@
   tags:
     - Standard Deck
     - Vision
-- id: OATH-OG-S1
+- id: OATH-S01-OG
   meta:
     cardcapacity: 2
     defense: 1
@@ -2332,7 +2332,7 @@
     warbands.
   image: Ancient City
   imageClass: rotated
-- id: OATH-OG-S2
+- id: OATH-S02-OG
   meta:
     cardcapacity: 1
     defense: 1
@@ -2346,7 +2346,7 @@
     you **ignore** the Narrow Pass tower.
   image: Barren Coast
   imageClass: rotated
-- id: OATH-OG-S3
+- id: OATH-S03-OG
   meta:
     cardcapacity: 2
     defense: 1
@@ -2361,7 +2361,7 @@
     cannot be used to pay a cost.)_
   image: Buried Giant
   imageClass: rotated
-- id: OATH-OG-S4
+- id: OATH-S04-OG
   meta:
     cardcapacity: 3
     defense: 1
@@ -2375,7 +2375,7 @@
     example, traveling from the Provinces costs 3 Supply, not 2 Supply.)_
   image: Charming Valley
   imageClass: rotated
-- id: OATH-OG-S5
+- id: OATH-S05-OG
   meta:
     cardcapacity: 2
     defense: 1
@@ -2390,7 +2390,7 @@
     relic here, treating this as recovering it.
   image: Deep Woods
   imageClass: rotated
-- id: OATH-OG-S6
+- id: OATH-S06-OG
   meta:
     cardcapacity: 0
     defense: 1
@@ -2403,7 +2403,7 @@
     `symbol:secret` from this site.
   image: Drowned City
   imageClass: rotated
-- id: OATH-OG-S7
+- id: OATH-S07-OG
   meta:
     cardcapacity: 3
     defense: 1
@@ -2417,7 +2417,7 @@
     `symbol:suit-hearth` card here during this turn, you get `symbol:favor`.
   image: Fertile Valley
   imageClass: rotated
-- id: OATH-OG-S8
+- id: OATH-S08-OG
   meta:
     cardcapacity: 3
     defense: 1
@@ -2431,7 +2431,7 @@
     first.
   image: Great Slum
   imageClass: rotated
-- id: OATH-OG-S9
+- id: OATH-S09-OG
   meta:
     cardcapacity: 2
     defense: 1
@@ -2448,7 +2448,7 @@
     breaks it!)_
   image: The Tribunal
   imageClass: rotated
-- id: OATH-OG-S10
+- id: OATH-S10-OG
   meta:
     cardcapacity: 3
     defense: 1
@@ -2462,7 +2462,7 @@
     you **ignore** the Narrow Pass power.
   image: Lush Coast
   imageClass: rotated
-- id: OATH-OG-S11
+- id: OATH-S11-OG
   meta:
     cardcapacity: 2
     defense: 1
@@ -2474,7 +2474,7 @@
   text: When searching, you **must** draw one fewer card if your pawn is here.
   image: Marshes
   imageClass: rotated
-- id: OATH-OG-S12
+- id: OATH-S12-OG
   meta:
     cardcapacity: 1
     defense: 1
@@ -2487,7 +2487,7 @@
     `symbol:favor` from this site.
   image: Mine
   imageClass: rotated
-- id: OATH-OG-S13
+- id: OATH-S13-OG
   meta:
     cardcapacity: 2
     defense: 1
@@ -2501,7 +2501,7 @@
     targets at this site _(even if you rule)_.
   image: Mountain
   imageClass: rotated
-- id: OATH-OG-S14
+- id: OATH-S14-OG
   meta:
     cardcapacity: 1
     defense: 1
@@ -2518,7 +2518,7 @@
     rule it.
   image: Narrow Pass
   imageClass: rotated
-- id: OATH-OG-S15
+- id: OATH-S15-OG
   meta:
     cardcapacity: 3
     defense: 1
@@ -2532,7 +2532,7 @@
     this site _(even if you rule)_.
   image: Plains
   imageClass: rotated
-- id: OATH-OG-S16
+- id: OATH-S16-OG
   meta:
     cardcapacity: 2
     defense: 1
@@ -2546,7 +2546,7 @@
     rule this site.
   image: River
   imageClass: rotated
-- id: OATH-OG-S17
+- id: OATH-S17-OG
   meta:
     cardcapacity: 2
     defense: 1
@@ -2560,7 +2560,7 @@
     you **ignore** the Narrow Pass tower.
   image: Rocky Coast
   imageClass: rotated
-- id: OATH-OG-S18
+- id: OATH-S18-OG
   meta:
     cardcapacity: 2
     defense: 1
@@ -2573,7 +2573,7 @@
     `symbol:favor` or `symbol:secret` from this site.
   image: Salt Flats
   imageClass: rotated
-- id: OATH-OG-S19
+- id: OATH-S19-OG
   meta:
     cardcapacity: 2
     defense: 1
@@ -2589,7 +2589,7 @@
     the Empire)_, even if another player is making you travel.
   image: Shrouded Wood
   imageClass: rotated
-- id: OATH-OG-S20
+- id: OATH-S20-OG
   meta:
     cardcapacity: 2
     defense: 1
@@ -2604,7 +2604,7 @@
     `symbol:secret`.
   image: Standing Stones
   imageClass: rotated
-- id: OATH-OG-S21
+- id: OATH-S21-OG
   meta:
     cardcapacity: 2
     defense: 1
@@ -2619,7 +2619,7 @@
     `symbol:secret`.
   image: Steppe
   imageClass: rotated
-- id: OATH-OG-S22
+- id: OATH-S22-OG
   meta:
     cardcapacity: 2
     defense: 1
@@ -2634,7 +2634,7 @@
     flip one secret on your board facedown.
   image: The Hidden Place
   imageClass: rotated
-- id: OATH-OG-S23
+- id: OATH-S23-OG
   meta:
     cardcapacity: 1
     defense: 1
@@ -2649,7 +2649,7 @@
     the relic here, treating this as recovering it.
   image: Wastes
   imageClass: rotated
-- id: OATH-OG-DS
+- id: OATH-DS-OG
   text: >-
     **Recovery**: Players can only recover this from you if there is a card at
     your site whose suit does not match any of your advisers. _(You can recover
@@ -2665,7 +2665,7 @@
     - Banner
     - Search
     - Recover
-- id: OATH-OG-PF
+- id: OATH-PF-OG
   text: >-
     **Recovery**: Put more `symbol:favor` here than old `symbol:favor`. Put old
     `symbol:favor` in the favor banks, one by one, starting with any suit. Then,
@@ -2681,7 +2681,7 @@
     - Banner
     - Search
     - Recover
-- id: OATH-OG-PF2
+- id: OATH-PF2-OG
   text: >-
     **Recovery**: Put more `symbol:favor` here than old `symbol:favor`. Put old
     `symbol:favor` in the favor banks, one by one, starting with any suit.
@@ -2697,7 +2697,7 @@
     - Banner
     - Search
     - Recover
-- id: OATH-OG-DEV
+- id: OATH-DEV-OG
   text: >-
     Oathkeeper of Devotion holds the Darkest Secret. Successor to the Chancellor
     holds the Grand Scepter.
@@ -2705,7 +2705,7 @@
   name: Oathkeeper of Devotion
   tags:
     - Oath
-- id: OATH-OG-PRO
+- id: OATH-PRO-OG
   text: >-
     Oathkeeper of Protection holds the most relics and banners. Successor to the
     Chancellor holds the People's Favor.
@@ -2713,7 +2713,7 @@
   name: Oathkeeper of Protection
   tags:
     - Oath
-- id: OATH-OG-SUP
+- id: OATH-SUP-OG
   text: >-
     Oathkeeper of Supremacy rules the most sites. Successor to the Chancellor
     holds more relics and banners.
@@ -2721,7 +2721,7 @@
   name: Oathkeeper of Supremacy
   tags:
     - Oath
-- id: OATH-OG-PEO
+- id: OATH-PEO-OG
   text: >-
     Oathkeeper of the People holds the People's Favor. Successor to the
     Chancellor holds the Darkest Secret.
@@ -2729,7 +2729,7 @@
   name: Oathkeeper of the People
   tags:
     - Oath
-- id: OATH-OG-REL1
+- id: OATH-REL01-OG
   text: >-
     If you're the attacker, the defeated player _(even you)_ **must** kill all
     warbands in their force.
@@ -2739,7 +2739,7 @@
   tags:
     - Reliquary
     - Campaign
-- id: OATH-OG-REL2
+- id: OATH-REL02-OG
   text: >-
     You gain one more `symbol:favor` _(even when trading for `symbol:secret`)_.
     You **must** gain one less `symbol:secret` when trading for `symbol:secret`.
@@ -2749,7 +2749,7 @@
   tags:
     - Reliquary
     - Trade
-- id: OATH-OG-REL3
+- id: OATH-REL03-OG
   text: >-
     Spend no Supply if you're traveling to a site in the Cradle from a site in
     the Provinces or Hinterland. If you're traveling to a site in the
@@ -2760,7 +2760,7 @@
   tags:
     - Reliquary
     - Travel
-- id: OATH-OG-REL4
+- id: OATH-REL04-OG
   text: >-
     Draw two more cards. _(Stop after a Vision as normal.)_ You **cannot**
     search if you would spend more than 2 Supply.
