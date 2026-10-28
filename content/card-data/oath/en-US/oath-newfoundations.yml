@@ -2001,3 +2001,730 @@
   text: '**Plains.** This site has no power.'
   image: Shrouded Woods (NF)
   imageClass: rotated
+- id: OATH-E01a-NF
+  text: >-
+    If this card's ruler holds the People's Favor, their enemies **cannot**
+    target the People's Favor. If ruled by Empire, all Imperials have this
+    power.
+  image: Hall of Debate (NF)
+  name: Hall of Debate
+  flipSide: OATH-E01b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Hearth
+    - Campaign
+- id: OATH-E01b-NF
+  text: >-
+    **Setup (End) / When Explored**: Place `symbol:favor` `symbol:favor`
+    `symbol:favor` `symbol:favor` on the People's Favor and move it to the
+    shared bank—players **cannot** start with it. Burn `symbol:favorb` from each
+    favor bank.
+  image: Hall of Mockery (NF)
+  name: Hall of Mockery
+  flipSide: OATH-E01a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Hearth
+- id: OATH-E02a-NF
+  text: >-
+    **Setup (End) / When Explored**: Place `symbol:favor` on this site for each
+    denizen _(including this)_ in this region. _Players may take it in Wake._
+  image: Great Market (NF)
+  name: Great Market
+  flipSide: OATH-E02b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Hearth
+- id: OATH-E02b-NF
+  text: >-
+    **Setup (End) / When Explored**: Place `symbol:favor` on each site ruled by
+    the bandits. _(Players may take it in Wake.)_ Burn `symbol:favorb` from each
+    favor bank.
+  image: Bandit Market (NF)
+  name: Bandit Market
+  flipSide: OATH-E02a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Hearth
+- id: OATH-E03a-NF
+  text: Act as if this site is a Coast along with its other powers.
+  image: Grand Canal (NF)
+  name: Grand Canal
+  flipSide: OATH-E03b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Hearth
+    - Travel
+- id: OATH-E03b-NF
+  text: Act as if this site is an Island along with its other powers.
+  image: Lost Lagoon (NF)
+  name: Lost Lagoon
+  flipSide: OATH-E03a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Hearth
+    - Travel
+- id: OATH-E04a-NF
+  text: >-
+    **Chronicle (Sun)**: Players with a pawn at this site do not discard their
+    dormant legacies.
+  image: Stone Baths (NF)
+  name: Stone Baths
+  flipSide: OATH-E04b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Hearth
+- id: OATH-E04b-NF
+  text: >-
+    **Chronicle (Sun)**: Exiles at this site don't need to meet the goals of
+    their active legacies to keep them active.
+  image: Ruined Baths (NF)
+  name: Ruined Baths
+  flipSide: OATH-E04a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Hearth
+- id: OATH-E05a-NF
+  text: >-
+    **Setup / When Explored**: If you place your pawn here, you may discard all
+    of your legacies _(even dormant)_ to draw 2 dormant legacies and activate
+    one.
+  image: Amber Doors (NF)
+  name: Amber Doors
+  flipSide: OATH-E05b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Hearth
+- id: OATH-E05b-NF
+  text: >-
+    **Setup / When Explored**: If you place your pawn here, draw a dormant
+    legacy, then discard one you hold.
+  image: Lost Doors (NF)
+  name: Lost Doors
+  flipSide: OATH-E05a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Hearth
+- id: OATH-E06a-NF
+  text: >-
+    **Setup / When Explored**: If you place your pawn here, draw a relic from
+    the relic deck and take it facedown.
+  image: Great Forge (NF)
+  name: Great Forge
+  flipSide: OATH-E06b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Nomad
+- id: OATH-E06b-NF
+  text: >-
+    **Setup / When Explored**: If you place your pawn here, discard all relics
+    at sites in this region.
+  image: Broken Forge (NF)
+  name: Broken Forge
+  flipSide: OATH-E06a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Nomad
+- id: OATH-E07a-NF
+  text: >-
+    Whenever this card's ruler would discard a `symbol:suit-nomad` card from a
+    power, they may instead pay `symbol:favor` to the `symbol:suit-nomad` bank.
+  image: Wild Pastures (NF)
+  name: Wild Pastures
+  flipSide: OATH-E07b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Nomad
+- id: OATH-E07b-NF
+  text: >-
+    **Chronicle (Start of Throne)**: Bury all `symbol:suit-nomad` cards on the
+    map unless the winner rules this card.
+  image: Blasted Pastures (NF)
+  name: Blasted Pastures
+  flipSide: OATH-E07a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Nomad
+- id: OATH-E08a-NF
+  text: >-
+    Players **cannot** play Visions, except the Conspiracy, faceup unless their
+    pawn is at this site.
+  image: Sacred Ground (NF)
+  name: Sacred Ground
+  flipSide: OATH-E08b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Nomad
+    - Search
+- id: OATH-E08b-NF
+  text: >-
+    If an Exile reveals a Vision while their pawn is at this site, they do not
+    discard their current revealed Vision. _They can have any number!_
+  image: Desecrated Ground (NF)
+  name: Desecrated Ground
+  flipSide: OATH-E08a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Nomad
+- id: OATH-E09a-NF
+  text: '**Action**: Move this card to another site, then place your pawn there.'
+  image: Giant's Path (NF)
+  name: Giant's Path
+  flipSide: OATH-E09b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Nomad
+    - Power
+- id: OATH-E09b-NF
+  text: >-
+    **Action**: Bury a denizen at any site _(even here)_. If you do, move
+    Giant's Rampage to that site and place your pawn there.
+  image: Giant's Rampage (NF)
+  name: Giant's Rampage
+  flipSide: OATH-E09a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Nomad
+    - Power
+- id: OATH-E10a-NF
+  text: >-
+    **Action**: Draw a card from the bottom of the world deck and play it to
+    your advisers or discard it, as if you searched.
+  image: Temple of Ancestors (NF)
+  name: Temple of Ancestors
+  flipSide: OATH-E10b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Nomad
+    - Power
+- id: OATH-E10b-NF
+  text: >-
+    **Setup / When Explored**: If you place your pawn here, you may burn
+    `symbol:secretb`. If you do and then win the game, score double the legacy
+    points and take rule of all bandit sites.
+  image: Ruined Temple (NF)
+  name: Ruined Temple
+  flipSide: OATH-E10a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Nomad
+- id: OATH-E11a-NF
+  text: >-
+    **Action**: Add 3 random cards from the Dispossessed to this region's
+    discard pile, then add the bottom 3 denizens from that pile to the
+    Dispossessed.
+  image: Great Spire (NF)
+  name: Great Spire
+  flipSide: OATH-E11b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Arcane
+    - Power
+- id: OATH-E11b-NF
+  text: >-
+    **Setup (End) / When Explored**: Swap denizens in this region's discard pile
+    with the same number of random cards from the Dispossessed. Then, shuffle
+    these cards with any Visions in this pile.
+  image: Fallen Spire (NF)
+  name: Fallen Spire
+  flipSide: OATH-E11a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Arcane
+- id: OATH-E12a-NF
+  text: >-
+    **Action**: Advance the round marker once, if possible. _Do not roll
+    `symbol:dicep`. This cannot end the game._
+  image: Great Clock (NF)
+  name: Great Clock
+  flipSide: OATH-E12b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Arcane
+    - Power
+- id: OATH-E12b-NF
+  text: >-
+    **Setup (End) / When Explored**: Advance the round marker once, if possible.
+    _Do not roll `symbol:dicep`. This cannot end the game._
+  image: Broken Clock (NF)
+  name: Broken Clock
+  flipSide: OATH-E12a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Arcane
+- id: OATH-E13a-NF
+  text: >-
+    **Action**: Peek at all relics in this region, then swap one with a relic
+    you have, placing it facedown.
+  image: Underground Library (NF)
+  name: Underground Library
+  flipSide: OATH-E13b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Arcane
+    - Power
+- id: OATH-E13b-NF
+  text: >-
+    If your pawn is at this site, you may recover the top card of the relic deck
+    instead. Its recover difficulty is 5.
+  image: Drowned Library (NF)
+  name: Drowned Library
+  flipSide: OATH-E13a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Arcane
+    - Recover
+    - Power
+- id: OATH-E14a-NF
+  text: >-
+    **Action**: If your pawn is at this site, place your pawn on another site.
+    If your pawn is not at this site, place your pawn at this site.
+  image: Stone Portal (NF)
+  name: Stone Portal
+  flipSide: OATH-E14b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Arcane
+    - Power
+- id: OATH-E14b-NF
+  text: >-
+    **Action**: If your pawn is at this site, roll `symbol:dicep` and place your
+    pawn that many sites Hinterward. The bottom Hinterland site wraps to the top
+    Cradle site.
+  image: Shattered Portal (NF)
+  name: Shattered Portal
+  flipSide: OATH-E14a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Arcane
+    - Power
+- id: OATH-E15a-NF
+  text: >-
+    **Wake**: If your pawn is at this site, refresh your Supply marker to the
+    leftmost space.
+  image: Marble Fountains (NF)
+  name: Marble Fountains
+  flipSide: OATH-E15b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Arcane
+    - Power
+- id: OATH-E15b-NF
+  text: >-
+    **Action**: If your pawn is at this site, roll 2 `symbol:diceb` and gain
+    Supply equal to the total `symbol:shield` rolled. If you roll none, end your
+    Act Phase.
+  image: Murky Fountain (NF)
+  name: Murky Fountain
+  flipSide: OATH-E15a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Arcane
+    - Power
+- id: OATH-E16a-NF
+  text: >-
+    Enemies of this card's ruler **cannot** discard denizens from sites ruled by
+    this card's ruler. _They can still be buried._
+  image: Hall of Ministers (NF)
+  name: Hall of Ministers
+  flipSide: OATH-E16b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Order
+- id: OATH-E16b-NF
+  text: '**Chronicle**: Ruined edifices ruled by bandits are not discarded.'
+  image: Hall of Bandits (NF)
+  name: Hall of Bandits
+  flipSide: OATH-E16a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Order
+- id: OATH-E17a-NF
+  text: >-
+    Enemies of this card's ruler **cannot** recover relics at sites ruled by
+    this card's ruler.
+  image: Relic Patrols (NF)
+  name: Relic Patrols
+  flipSide: OATH-E17b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Order
+    - Recover
+- id: OATH-E17b-NF
+  text: >-
+    Enemies of this card's ruler **cannot** recover relics at sites ruled by
+    bandits.
+  image: Bandit Patrols (NF)
+  name: Bandit Patrols
+  flipSide: OATH-E17a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Order
+    - Recover
+- id: OATH-E18a-NF
+  text: >-
+    If this card's ruler holds the Darkest Secret, their enemies **cannot**
+    target the Darkest Secret. If ruled by Empire, all Imperials have this
+    power.
+  image: Tome Guardians (NF)
+  name: Tome Guardians
+  flipSide: OATH-E18b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Order
+    - Campaign
+- id: OATH-E18b-NF
+  text: >-
+    **Setup (End) / When Explored**: Place `symbol:secret` `symbol:secret`
+    `symbol:secret` on the Darkest Secret and move it to the shared bank.
+    Players **cannot** start with it.
+  image: Lost Guardians (NF)
+  name: Lost Guardians
+  flipSide: OATH-E18a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Order
+- id: OATH-E19a-NF
+  text: >-
+    **When Negotiating**: You may negotiate with players at any sites. Players
+    may make binding promises, even into later games.
+  image: The Tribunal (NF)
+  name: The Tribunal
+  flipSide: OATH-E19b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Order
+    - Power
+- id: OATH-E19b-NF
+  text: >-
+    **When Negotiating**: Players at sites ruled by bandits may negotiate with
+    each other.
+  image: Bandit Tribunal (NF)
+  name: Bandit Tribunal
+  flipSide: OATH-E19a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Order
+- id: OATH-E20a-NF
+  text: +2 `symbol:diceb` if your pawn is at this site or this site is targeted.
+  image: Towering Rampart (NF)
+  name: Towering Rampart
+  flipSide: OATH-E20b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Order
+    - Battle Plan
+- id: OATH-E20b-NF
+  text: +1 `symbol:diceb` if this site is targeted.
+  image: Cracked Rampart (NF)
+  name: Cracked Rampart
+  flipSide: OATH-E20a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Order
+    - Battle Plan
+- id: OATH-E21a-NF
+  text: >-
+    **When Negotiating**: Players may give, receive, and swap advisers. _Players
+    must follow their adviser limits._
+  image: Festival District (NF)
+  name: Festival District
+  flipSide: OATH-E21b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Discord
+    - Power
+- id: OATH-E21b-NF
+  text: >-
+    **Action**: Discard any number of facedown advisers you have. Draw that many
+    denizens from the bottom of the world deck as facedown advisers.
+  image: Squalid District (NF)
+  name: Squalid District
+  flipSide: OATH-E21a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Discord
+    - Power
+- id: OATH-E22a-NF
+  text: '**Setup / When Explored**: If you place your pawn here, gain three warbands.'
+  image: Proving Grounds (NF)
+  name: Proving Grounds
+  flipSide: OATH-E22b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Discord
+- id: OATH-E22b-NF
+  text: '**Setup (End) / When Explored**: Discard all other denizens in this region.'
+  image: Empty Grounds (NF)
+  name: Empty Grounds
+  flipSide: OATH-E22a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Discord
+- id: OATH-E23a-NF
+  text: >-
+    If you're victorious in a raid, place the defender's pawn on this site, and
+    they lose 2 Supply.
+  image: Spiral Castle (NF)
+  name: Spiral Castle
+  flipSide: OATH-E23b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Discord
+    - Battle Plan
+- id: OATH-E23b-NF
+  text: >-
+    If you're victorious, place the attacker's pawn on this site, and they lose
+    2 Supply. _Bandits will use this._
+  image: Spiral Dungeons (NF)
+  name: Spiral Dungeons
+  flipSide: OATH-E23a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Discord
+    - Battle Plan
+- id: OATH-E24a-NF
+  text: >-
+    If you travel to this site and do not rule this card, you **must** kill 2
+    warbands on your board if able.
+  image: Boiling Lake (NF)
+  name: Boiling Lake
+  flipSide: OATH-E24b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Discord
+    - Travel
+    - Power
+- id: OATH-E24b-NF
+  text: >-
+    Cards **cannot** be played to this site. _This card can still be discarded
+    by People's Favor, etc._
+  image: Still Boiling Lake (NF)
+  name: Still Boiling Lake
+  flipSide: OATH-E24a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Discord
+- id: OATH-E25a-NF
+  text: >-
+    **Wake**: If your pawn is at this site and its ruler consents, place your
+    pawn on any site.
+  image: Hidden Passages (NF)
+  name: Hidden Passages
+  flipSide: OATH-E25b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Discord
+    - Power
+- id: OATH-E25b-NF
+  text: >-
+    **Wake**: If your pawn is at this site, you may burn `symbol:favorb` to
+    place your pawn on any site.
+  image: Sinking Passages (NF)
+  name: Sinking Passages
+  flipSide: OATH-E25a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Discord
+    - Power
+- id: OATH-E26a-NF
+  text: >-
+    When trading at this site for `symbol:secret`, you **must** place both
+    `symbol:favor` on the card you are trading with _(instead of burning one)_.
+  image: Hallowed Spring (NF)
+  name: Hallowed Spring
+  flipSide: OATH-E26b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Beast
+    - Trade
+- id: OATH-E26b-NF
+  text: >-
+    **Chronicle (Throne)**: This site's ruler may secretly keep a relic they
+    have facedown. They start the next game with it.
+  image: Hiding Place (NF)
+  name: Hiding Place
+  flipSide: OATH-E26a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Beast
+- id: OATH-E27a-NF
+  text: >-
+    You may challenge a banner held by an enemy even if your pawn is not at
+    their pawn's site.
+  image: School of Vines (NF)
+  name: School of Vines
+  flipSide: OATH-E27b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Beast
+    - Recover
+    - Power
+- id: OATH-E27b-NF
+  text: >-
+    **Setup (End) / When Explored**: Place `symbol:secret` on each site ruled by
+    the bandits. _Players may take it in Wake._
+  image: Ruined School (NF)
+  name: Ruined School
+  flipSide: OATH-E27a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Beast
+- id: OATH-E28a-NF
+  text: >-
+    While this card's ruler is at this site, they **cannot** be targeted by a
+    challenge or a raid campaign. If ruled by Empire, all Imperials have this
+    power.
+  image: Oaken Fortress (NF)
+  name: Oaken Fortress
+  flipSide: OATH-E28b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Beast
+- id: OATH-E28b-NF
+  text: >-
+    Players at this site **cannot** be targeted by a challenge or a raid
+    campaign, unless the targeting player has a `symbol:suit-beast` adviser.
+  image: Rotting Fortress (NF)
+  name: Rotting Fortress
+  flipSide: OATH-E28a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Beast
+- id: OATH-E29a-NF
+  text: >-
+    Enemies of this card's ruler **cannot** travel to this site unless they have
+    a `symbol:suit-beast` adviser.
+  image: Forbidden Forest (NF)
+  name: Forbidden Forest
+  flipSide: OATH-E29b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Beast
+- id: OATH-E29b-NF
+  text: >-
+    Imperials **cannot** place `symbol:favor`/`symbol:secret` on denizens ruled
+    by bandits or use their non-persistent powers.
+  image: Bandit Forest (NF)
+  name: Bandit Forest
+  flipSide: OATH-E29a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Beast
+

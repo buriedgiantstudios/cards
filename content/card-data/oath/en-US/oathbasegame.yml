@@ -1946,7 +1946,7 @@
     - Power
 - id: OATH-E08-OG
   text: >-
-    Whenever the `symbol:dicer` is rolled to end the game, Squalid District's
+    Whenever the `symbol:dicep` is rolled to end the game, Squalid District's
     ruler may increase or decrease this roll by one. Citizens **cannot** use
     this power.
   image: Squalid District
