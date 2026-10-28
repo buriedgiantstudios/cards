@@ -22,7 +22,9 @@ subproducts:
   - name: John Company 2nd Edition
     id: johncompany2nd
     desc: >
-      John Company is a game about being the worst.
+      John Company is an interactive historical game about the rise and fall of the British East India Company. Players must collectively steer the fate of a single, sprawling organization. They must navigate its vast bureaucracy while reckoning with the consequences of their actions on the Indian subcontinent.
+
+
 
 external:
   rules: https://rules.buriedgiant.com/?product=johncompany
