@@ -912,3 +912,60 @@
     - Beast
     - Search
     - Power
+- id: OATH-V1-NF
+  text: >-
+    _If drawn from world deck, increase Visions Drawn. **Anyone** can play this
+    faceup._ If this card is discarded in a raid campaign, return it to the box.
+    **When Played**: Take a relic or banner from a player whose pawn is at your
+    site. If you take a banner, adjust its `symbol:favor`/`symbol:secret` as
+    shown by its right ribbon. Return the Conspiracy to the box.
+  image: Conspiracy (NF)
+  imageClass: rotated
+  name: Conspiracy
+  tags:
+    - New Foundations
+    - Vision
+- id: OATH-V2-NF
+  text: >-
+    _If drawn from world deck, increase Visions Drawn. **Exiles** can play this
+    faceup on their player board._ **Wake**: You win if you hold the **Darkest
+    Secret** and at least three Visions have been drawn from the world deck.
+  image: Vision of Faith (NF)
+  imageClass: rotated
+  name: Vision of Faith
+  tags:
+    - New Foundations
+    - Vision
+- id: OATH-V3-NF
+  text: >-
+    _If drawn from world deck, increase Visions Drawn. **Exiles** can play this
+    faceup on their player board._ **Wake**: You win if you hold the **People's
+    Favor** and at least three Visions have been drawn from the world deck.
+  image: Vision of Rebellion (NF)
+  imageClass: rotated
+  name: Vision of Rebellion
+  tags:
+    - New Foundations
+    - Vision
+- id: OATH-V4-NF
+  text: >-
+    _If drawn from world deck, increase Visions Drawn. **Exiles** can play this
+    faceup on their player board._ **Wake**: You win if you hold the **most
+    relics** and at least three Visions have been drawn from the world deck.
+  image: Vision of Sanctuary (NF)
+  imageClass: rotated
+  name: Vision of Sanctuary
+  tags:
+    - New Foundations
+    - Vision
+- id: OATH-V5-NF
+  text: >-
+    _If drawn from world deck, increase Visions Drawn. **Exiles** can play this
+    faceup on their player board._ **Wake**: You win if you rule the **most
+    sites** and at least three Visions have been drawn from the world deck.
+  image: Vision of Conquest (NF)
+  imageClass: rotated
+  name: Vision of Conquest
+  tags:
+    - New Foundations
+    - Vision
