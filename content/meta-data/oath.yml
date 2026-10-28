@@ -21,6 +21,13 @@ subproducts:
     desc: >
       Add sixty new denizen cards that you can use with either the base game of Oath or New Foundations.
 
+  - name: New Foundations
+    id: oath-newfoundations
+    desc: >
+      A dramatic new expansion for the award-winning game Oath: Chronicles of Empire and Exile. This expansion has been designed to make Oath more approachable for new players and to give players more control over how their chronicles grow and change.
+      
+      Includes dozens of revised and improved denizens, six times as many edifices, twice as many relics, two new player colors, and a set of wooden bandits.
+
 external:
   rules: https://rules.buriedgiant.com/?product=oathnf
 
