@@ -1589,3 +1589,350 @@
   tags:
     - New Foundations
     - Setup
+- id: OATH-S01-NF
+  meta:
+    cardcapacity: 2
+    defense: 2
+  name: Fair Isle
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Island.** This site has the Coast power (see below). Traveling to it costs 2 Supply
+    more than its normal Travel cost unless you're traveling from a Coast or
+    Island. 
+    
+    **Coast.** Traveling from here to a Coast or Island costs only 1
+    Supply and ignores other Travel modifiers _(Mountain, Pass, etc.)_.
+  image: Fair Isle (NF)
+  imageClass: rotated
+- id: OATH-S02-NF
+  meta:
+    cardcapacity: 0
+    defense: 2
+  name: Sunken Isles
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Island.** This site has the Coast power (see below). Traveling to it costs 2 Supply
+    more than its normal Travel cost unless you're traveling from a Coast or
+    Island. _Also, the Sunken Isles site has no capacity, so it cannot usually
+    be targeted in a Campaign._ 
+    
+    **Coast.** Traveling from here to a Coast or
+    Island costs only 1 Supply and ignores other Travel modifiers _(Mountain,
+    Pass, etc.)_.
+  image: Sunken Isles (NF)
+  imageClass: rotated
+- id: OATH-S03-NF
+  meta:
+    cardcapacity: 2
+    defense: 1
+  name: Tidal Marshes
+  tags:
+    - New Foundations
+    - Site
+    - Power
+    - Travel
+  text: >-
+    **River.** **Wake**: You may place your pawn at another River. _This is not
+    a Travel action._ 
+    
+    **Coast.** Traveling from here to a Coast or Island costs
+    only 1 Supply and ignores other Travel modifiers _(Mountain, Pass, etc.)_.
+  image: Tidal Marshes (NF)
+  imageClass: rotated
+- id: OATH-S04-NF
+  meta:
+    cardcapacity: 1
+    defense: 2
+  name: Broken Peaks
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Mountain.** Traveling to this site costs one more Supply than its normal
+    Travel cost. _Do not add this Supply cost if this site also has the Coast
+    power and you're traveling to it from a Coast._
+  image: Broken Peaks (NF)
+  imageClass: rotated
+- id: OATH-S05-NF
+  meta:
+    cardcapacity: 3
+    defense: 1
+  name: Standing Stones
+  tags:
+    - New Foundations
+    - Site
+    - Search
+  text: >-
+    **Arcane Homeland.** When playing an Arcane card to this site, you
+    may discard a card from the site first _(even an Arcane card)_.
+  image: Standing Stones (NF)
+  imageClass: rotated
+- id: OATH-S06-NF
+  meta:
+    cardcapacity: 2
+    defense: 2
+  name: Hidden Place
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Mountain.** Traveling to this site costs one more Supply than its normal
+    Travel cost. _Do not add this Supply cost if this site also has the Coast
+    power and you're traveling to it from a Coast._
+  image: Hidden Place (NF)
+  imageClass: rotated
+- id: OATH-S07-NF
+  meta:
+    cardcapacity: 1
+    defense: 1
+  name: Solitary Pillar
+  tags:
+    - New Foundations
+    - Site
+  text: '**Plains.** This site has no power.'
+  image: Solitary Pillar (NF)
+  imageClass: rotated
+- id: OATH-S08-NF
+  meta:
+    cardcapacity: 3
+    defense: 2
+  name: Ancient City
+  tags:
+    - New Foundations
+    - Site
+    - Power
+  text: >-
+    **Enduring.** Cards at this site are not discarded in the Chronicle Phase
+    during the Shape Empire step. 
+    
+    **River.** **Wake**: You may place your pawn
+    at another River. _This is not a Travel action._
+  image: Ancient City (NF)
+  imageClass: rotated
+- id: OATH-S09-NF
+  meta:
+    cardcapacity: 3
+    defense: 1
+  name: Painted Towers
+  tags:
+    - New Foundations
+    - Site
+    - Search
+  text: >-
+    **Order Homeland.** When playing an Order card to this site, you may
+    discard a card from the site first _(even an Order card)_.
+  image: Painted Towers (NF)
+  imageClass: rotated
+- id: OATH-S10-NF
+  meta:
+    cardcapacity: 1
+    defense: 1
+  name: Desolate Shore
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Coast.** Traveling from here to a Coast or Island costs only 1 Supply and
+    ignores other Travel modifiers _(Mountain, Pass, etc.)_.
+  image: Desolate Shore (NF)
+  imageClass: rotated
+- id: OATH-S11-NF
+  meta:
+    cardcapacity: 3
+    defense: 1
+  name: Deep Woods
+  tags:
+    - New Foundations
+    - Site
+    - Search
+  text: >-
+    **Beast Homeland.** When playing a Beast card to this site, you may
+    discard a card from the site first _(even a Beast card)_.
+  image: Deep Woods (NF)
+  imageClass: rotated
+- id: OATH-S12-NF
+  meta:
+    cardcapacity: 1
+    defense: 2
+  name: Narrow Pass
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+    - Campaign
+  text: >-
+    **Pass.** If your pawn is outside this region, you **cannot** travel to
+    other sites in this region or target other sites in this region in
+    campaigns, unless you have the consent of the Pass's ruler. _You can ignore
+    this power if you rule the Pass. The bandits never consent._
+  image: Narrow Pass (NF)
+  imageClass: rotated
+- id: OATH-S13-NF
+  meta:
+    cardcapacity: 1
+    defense: 1
+  name: Mines
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Mountain.** Traveling to this site costs one more Supply than its normal
+    Travel cost. _Do not add this Supply cost if this site also has the Coast
+    power and you're traveling to it from a Coast._
+  image: Mines (NF)
+  imageClass: rotated
+- id: OATH-S14-NF
+  meta:
+    cardcapacity: 2
+    defense: 0
+  name: Salt Flats
+  tags:
+    - New Foundations
+    - Site
+  text: '**Plains.** This site has no power.'
+  image: Salt Flats (NF)
+  imageClass: rotated
+- id: OATH-S15-NF
+  meta:
+    cardcapacity: 3
+    defense: 0
+  name: Steppe
+  tags:
+    - New Foundations
+    - Site
+    - Search
+  text: >-
+    **Nomad Homeland.** When playing a Nomad card to this site, you may
+    discard a card from the site first _(even a Nomad card)_.
+  image: Steppe (NF)
+  imageClass: rotated
+- id: OATH-S16-NF
+  meta:
+    cardcapacity: 3
+    defense: 1
+  name: Golden Valley
+  tags:
+    - New Foundations
+    - Site
+    - Search
+  text: >-
+    **Hearth Homeland.** When playing a Hearth card to this site, you may
+    discard a card from the site first _(even a Hearth card)_.
+  image: Golden Valley (NF)
+  imageClass: rotated
+- id: OATH-S17-NF
+  meta:
+    cardcapacity: 2
+    defense: 1
+  name: Riverbank
+  tags:
+    - New Foundations
+    - Site
+    - Power
+  text: >-
+    **River.** **Wake**: You may place your pawn at another River. _This is not
+    a Travel action._
+  image: Riverbank (NF)
+  imageClass: rotated
+- id: OATH-S18-NF
+  meta:
+    cardcapacity: 2
+    defense: 1
+  name: Headwaters
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+    - Power
+  text: >-
+    **Mountain.** Traveling to this site costs one more Supply than its normal
+    Travel cost. _Do not add this Supply cost if this site also has the Coast
+    power and you're traveling to it from a Coast._ **River.** **Wake**: You may
+    place your pawn at another River. _This is not a Travel action._
+  image: Headwaters (NF)
+  imageClass: rotated
+- id: OATH-S19-NF
+  meta:
+    cardcapacity: 1
+    defense: 1
+  name: Buried Giant
+  tags:
+    - New Foundations
+    - Site
+  text: '**Plains.** This site has no power.'
+  image: Buried Giant (NF)
+  imageClass: rotated
+- id: OATH-S20-NF
+  meta:
+    cardcapacity: 3
+    defense: 1
+  name: Great Slum
+  tags:
+    - New Foundations
+    - Site
+    - Search
+  text: >-
+    **Discord Homeland.** When playing a Discord card to this site, you
+    may discard a card from the site first _(even a Discord card)_.
+  image: Great Slum (NF)
+  imageClass: rotated
+- id: OATH-S21-NF
+  meta:
+    cardcapacity: 2
+    defense: 1
+  name: Green Shore
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Coast.** Traveling from here to a Coast or Island costs only 1 Supply and
+    ignores other Travel modifiers _(Mountain, Pass, etc.)_.
+  image: Green Shore (NF)
+  imageClass: rotated
+- id: OATH-S22-NF
+  meta:
+    cardcapacity: 1
+    defense: 1
+  name: Dunes
+  tags:
+    - New Foundations
+    - Site
+  text: '**Plains.** This site has no power.'
+  image: Dunes (NF)
+  imageClass: rotated
+- id: OATH-S23-NF
+  meta:
+    cardcapacity: 1
+    defense: 2
+  name: Rocky Coast
+  tags:
+    - New Foundations
+    - Site
+    - Travel
+  text: >-
+    **Coast.** Traveling from here to a Coast or Island costs only 1 Supply and
+    ignores other Travel modifiers _(Mountain, Pass, etc.)_.
+  image: Rocky Coast (NF)
+  imageClass: rotated
+- id: OATH-S24-NF
+  meta:
+    cardcapacity: 1
+    defense: 2
+  name: Shrouded Woods
+  tags:
+    - New Foundations
+    - Site
+  text: '**Plains.** This site has no power.'
+  image: Shrouded Woods (NF)
+  imageClass: rotated
