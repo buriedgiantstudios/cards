@@ -1357,3 +1357,235 @@
   tags:
     - New Foundations
     - Legacy
+- id: OATH-SETUP01-NF
+  text: >-
+    Place the map on the table. Place the round marker and Visions Drawn markers
+    on the first space of their tracks. Place the end die by the round track if
+    any Imperials are in play. Collect dice, favor, secrets, and the Oathkeeper
+    goal and title. Shuffle the relic deck and place it on the Relic Deck slot.
+    Separate the Visions from the world deck and shuffle its remaining denizens.
+  image: Table (NF)
+  name: Setup - Table
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP02a-NF
+  text: >-
+    Seat players randomly. Each player chooses a color—the same they just
+    played, if able—then: Takes its player board, warbands, and
+    legacies/advisers stored with it. Places 1 favor, 1 secret, and 3 warbands
+    on their player board. Use purple warbands if Imperial. Places their Supply
+    marker on its leftmost space. **Flip this over for Chancellor.**
+  image: Players (NF)
+  name: Setup - Players
+  flipSide: OATH-SETUP02b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP02b-NF
+  text: >-
+    The Chancellor takes the Chancellor board and purple pieces instead of the
+    pieces of their color. They take the Grand Scepter and choose a relic from
+    the Reliquary to take facedown. **If there's no Chancellor,** a random
+    Citizen becomes the Chancellor first. If there are no Citizens to become
+    Chancellor, do not set up the Chancellor.
+  image: Chancellor (NF)
+  name: Setup - Chancellor
+  flipSide: OATH-SETUP02a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP03a-NF
+  text: >-
+    Fill site slots going Hinterward (rulebook page 9) from Recent Sites in the
+    Atlas. **Stop at the Empire divider.** Edifices start **intact**. **Don't
+    fill empty relic slots!** Place 1 Imperial warband on these sites. **If
+    there is no Chancellor,** use the back of this card instead.
+  image: Empire (NF)
+  name: Setup - Empire
+  flipSide: OATH-SETUP03b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP03b-NF
+  text: >-
+    Set Foundation I to Wide Horizons and V to Mob's Favor. Fill site slots as
+    described on the other side of this card, but: Edifices start **ruined**.
+    **Fill** empty relic slots on these sites from relic deck. Place **bandits**
+    on these sites equal to capacity. Set the Grand Scepter aside. Discard the
+    Reliquary. Citizens in box become Exiles. Give first player marker randomly.
+    Place Usurper Limiter on round 4.
+  image: No Empire (NF)
+  name: Setup - No Empire?
+  flipSide: OATH-SETUP03a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP04a-NF
+  text: >-
+    The Chancellor fills the remaining empty site slots going Hinterward. They
+    must fill these slots with Recent Sites or Forgotten Sites from the Atlas,
+    but not both. **Bandits** are placed on the site equal to its capacity.
+    Edifices start **ruined**. **Fill the site's empty relic slots** by drawing
+    relics from the relic deck.
+  image: Foundation I - Imperial Maps (NF)
+  name: 'Setup - Foundation I: Imperial Maps'
+  flipSide: OATH-SETUP04b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP04b-NF
+  text: >-
+    **Do not fill empty site slots!** In this game, players can spend 1 Supply
+    to **Explore** if their pawn is at the Hintermost site card (rulebook page
+    9). Explore works like a Recover action with a **difficulty of 4**. If you
+    succeed, place a site on the next Hinterward slot, populate it as described
+    on the back of this card, and then place your pawn on the site. _Keep this
+    card out as a reminder._
+  image: Foundation I - Wide Horizons (NF)
+  name: 'Setup - Foundation I: Wide Horizons'
+  flipSide: OATH-SETUP04a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP05a-NF
+  text: >-
+    Place `symbol:favor` `symbol:favor` `symbol:favor` on each suit's favor
+    bank. If you have five or more players, add an extra `symbol:favor` to each
+    favor bank. Then, for each denizen on the map, add an extra `symbol:favor`
+    to the matching favor bank.
+  image: Foundation II - Powerful Tribes (NF)
+  name: 'Setup - Foundation II: Powerful Tribes'
+  flipSide: OATH-SETUP05b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP05b-NF
+  text: >-
+    Each player takes 5 more favor `symbol:favor` `symbol:favor` `symbol:favor`
+    `symbol:favor` `symbol:favor` from the shared bank. _Players usually start
+    with 6._ Then, for each denizen on the map, place `symbol:favor` on the
+    matching favor bank.
+  image: Foundation II - Movers and Shakers (NF)
+  name: 'Setup - Foundation II: Movers and Shakers'
+  flipSide: OATH-SETUP05a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP06a-NF
+  text: >-
+    Each player draws 2 legacy cards, keeps one facedown in their play area, and
+    returns the other to the box.
+  image: Foundation III - Quiet Ambitions (NF)
+  name: 'Setup - Foundation III: Quiet Ambitions'
+  flipSide: OATH-SETUP06b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP06b-NF
+  text: >-
+    Deal 4 legacy cards to a faceup row near the map. Everyone competes to
+    activate these public legacies in the Chronicle Phase. For these, the
+    outgoing Chancellor breaks ties between Imperials alone. Discard public
+    legacies that aren't activated.
+  image: Foundation III - Public Ambitions (NF)
+  name: 'Setup - Foundation III: Public Ambitions'
+  flipSide: OATH-SETUP06a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP07a-NF
+  text: >-
+    Each player who has no starting advisers draws 3 denizens facedown from the
+    starting denizen stack. _You will choose one as an adviser later. Players
+    sometimes carry over advisers from the previous game._ Then, deal 2 denizens
+    from the starting denizen stack facedown to each discard pile.
+  image: Foundation IV - Ties of Fellowship (NF)
+  name: 'Setup - Foundation IV: Ties of Fellowship'
+  flipSide: OATH-SETUP07b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP07b-NF
+  text: >-
+    Each player draws facedown denizens from the starting denizen stack until
+    they have three starting advisers. Discard the rest of the starting denizen
+    stack as evenly as possible, going from Cradle to Provinces to Hinterland.
+    _The world deck will only have Visions!_
+  image: Foundation IV - Teeming World (NF)
+  name: 'Setup - Foundation IV: Teeming World'
+  flipSide: OATH-SETUP07a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP08a-NF
+  text: >-
+    Set the People's Favor on its **Mob** side. Place `symbol:favor` on it from
+    the shared bank. If the Oathkeeper goal is the People's Favor, give the
+    banner to the Chancellor, if any. Otherwise, place it in the shared bank.
+  image: Foundation V - Mob's Favor (NF)
+  name: 'Setup - Foundation V: Mob''s Favor'
+  flipSide: OATH-SETUP08b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP08b-NF
+  text: >-
+    Flip the People's Favor to its **Grand Council** side. Place `symbol:favor`
+    on it from the shared bank. If the Oathkeeper goal is the People's Favor,
+    give the banner to the Chancellor, if any. Otherwise, place it in the shared
+    bank.
+  image: Foundation V - Grand Council (NF)
+  name: 'Setup - Foundation V: Grand Council'
+  flipSide: OATH-SETUP08a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP09a-NF
+  text: >-
+    Set the Darkest Secret on its **Wandering Flame** side. Place
+    `symbol:secret` on it from the shared bank. If the Oathkeeper goal is the
+    Darkest Secret, give the banner to the Chancellor, if any. Otherwise, place
+    it in the shared bank.
+  image: Foundation VI - Wandering Flame (NF)
+  name: 'Setup - Foundation VI: Wandering Flame'
+  flipSide: OATH-SETUP09b-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP09b-NF
+  text: >-
+    Flip the Darkest Secret to its **Festival side**. Place `symbol:secret` on
+    it from the shared bank. Place the Festival marker nearby. If the Oathkeeper
+    goal is the Darkest Secret, give the banner to the Chancellor, if any.
+    Otherwise, place it in the shared bank.
+  image: Foundation VI - Festival (NF)
+  name: 'Setup - Foundation VI: Festival'
+  flipSide: OATH-SETUP09a-NF
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP10-NF
+  text: >-
+    Place `symbol:favor`/`symbol:secret` on sites as shown in their top-left
+    corner. _Some start with nothing._ Form the world deck as shown on the World
+    Deck slot. **If there are fewer than 25 denizens in total,** shuffle all
+    Visions together with all the denizens to form the world deck.
+  image: Sites and World Deck (NF)
+  name: Setup - Sites and World Deck
+  tags:
+    - New Foundations
+    - Setup
+- id: OATH-SETUP11-NF
+  text: >-
+    **In turn order, each player does the following:** If Exile, place your pawn
+    on the Hintermost Imperial site **or** any site ruled by bandits. If
+    Chancellor or Citizen, place your pawn at any Imperial site. If you drew
+    from Ties of Fellowship, choose a facedown adviser and discard the rest. You
+    may reveal relics and advisers, except site-only cards. _This is not playing
+    a card and does not trigger When Played powers._
+  image: Player Choices (NF)
+  name: Setup - Player Choices
+  tags:
+    - New Foundations
+    - Setup
