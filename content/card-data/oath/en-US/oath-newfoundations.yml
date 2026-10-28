@@ -586,3 +586,329 @@
   text: "**Action**: Shuffle the world deck or any region's discard pile."
   image: Clay Rattle (NF)
   imageClass: square
+- id: OATH-005-NF
+  text: >-
+    If defeated in a raid, after the attacker takes what they targeted, place
+    your pawn at this site and end the action. _Do not burn favor, move pawn,
+    etc._
+  image: Keep (NF)
+  name: Keep
+  tags:
+    - New Foundations
+    - Order
+    - Battle Plan
+- id: OATH-009-NF
+  text: >-
+    **Action**: Gain `symbol:favor` `symbol:favor` `symbol:favor` `symbol:favor`
+    from any favor bank or banks.
+  image: Alchemist (NF)
+  name: Alchemist
+  tags:
+    - New Foundations
+    - Arcane
+    - Power
+- id: OATH-010-NF
+  text: >-
+    If you're an Exile and defeat another Exile, you may become a Citizen.
+    _Follow the steps in the rules and end your Act Phase._
+  image: Martial Culture (NF)
+  name: Martial Culture
+  tags:
+    - New Foundations
+    - Order
+    - Battle Plan
+- id: OATH-013-NF
+  text: '**Action**: Draw a relic from the relic deck.'
+  image: Tinker's Fair (NF)
+  name: Tinker's Fair
+  tags:
+    - New Foundations
+    - Hearth
+    - Power
+- id: OATH-020-NF
+  text: >-
+    +4 `symbol:dicer` if the defender rules an `symbol:suit-order` card _(even
+    an adviser)_.
+  image: Disgraced Captain (NF)
+  name: Disgraced Captain
+  tags:
+    - New Foundations
+    - Discord
+    - Battle Plan
+- id: OATH-022-NF
+  text: >-
+    If you're victorious in a raid, burn all `symbol:secret` on the defender's
+    board except their last `symbol:secret`.
+  image: Book Burning (NF)
+  name: Book Burning
+  tags:
+    - New Foundations
+    - Discord
+    - Battle Plan
+- id: OATH-032-NF
+  text: >-
+    If you're challenging the Darkest Secret, gain `symbol:secret`
+    `symbol:secret` and place them on the banner along with any other
+    `symbol:secret` you're placing _(even none)_.
+  image: Magician's Code (NF)
+  name: Magician's Code
+  tags:
+    - New Foundations
+    - Arcane
+    - Recover
+    - Power
+- id: OATH-038-NF
+  text: >-
+    **Action**: Guess the name of a facedown Vision _(even the Conspiracy)_ held
+    by a player whose pawn is at your site. If you are correct, discard it.
+  image: Inquisitor (NF)
+  name: Inquisitor
+  tags:
+    - New Foundations
+    - Arcane
+    - Power
+- id: OATH-044-NF
+  text: >-
+    **When Played**, if you're an Exile, you may become a Citizen. _Follow the
+    steps in the rules and end your Act Phase._
+  image: Long-Lost Heir (NF)
+  name: Long-Lost Heir
+  tags:
+    - New Foundations
+    - Beast
+- id: OATH-049-NF
+  text: >-
+    **Action**: Move all `symbol:favor` from any one favor bank to the
+    `symbol:suit-hearth` bank.
+  image: Memory of Home (NF)
+  name: Memory of Home
+  tags:
+    - New Foundations
+    - Hearth
+    - Power
+- id: OATH-058-NF
+  text: '**Action**: Place an enemy pawn at your site onto any other site.'
+  image: Quick Exit (NF)
+  name: Quick Exit
+  tags:
+    - New Foundations
+    - Arcane
+    - Power
+- id: OATH-067-NF
+  text: >-
+    **When Played**, if you're an Exile and have the most `symbol:secret` _(even
+    on cards)_, you may take a random relic from the Reliquary and become a
+    Citizen. _Follow the steps in the rules and end your Act Phase._
+  image: Bewitch (NF)
+  name: Bewitch
+  tags:
+    - New Foundations
+    - Arcane
+- id: OATH-074-NF
+  text: >-
+    You **cannot** challenge the Darkest Secret. Whenever an enemy burns
+    `symbol:secretb`, you take those secrets.
+  image: Vow of Silence (NF)
+  name: Vow of Silence
+  tags:
+    - New Foundations
+    - Arcane
+- id: OATH-075-NF
+  text: >-
+    Enemies of Forgotten Vault's ruler **cannot** target relics held by its
+    ruler. If ruled by Empire, all Imperials have this power.
+  image: Forgotten Vault (NF)
+  name: Forgotten Vault
+  tags:
+    - New Foundations
+    - Arcane
+    - Campaign
+- id: OATH-086-NF
+  text: >-
+    You **cannot** take the Challenge action. Whenever an enemy burns
+    `symbol:favorb`, you take that favor unless it was burned by a raid
+    targeting you.
+  image: Vow of Division (NF)
+  name: Vow of Division
+  tags:
+    - New Foundations
+    - Discord
+- id: OATH-088-NF
+  text: >-
+    **When Played**, if you're an Exile and rule the most sites, you may take a
+    random relic from the Reliquary and become a Citizen. _Follow the steps in
+    the rules and end your Act Phase._
+  image: Royal Ambitions (NF)
+  name: Royal Ambitions
+  tags:
+    - New Foundations
+    - Discord
+- id: OATH-089-NF
+  text: >-
+    If you're victorious in a conquest, bury all denizens at one site you
+    targeted.
+  image: Salt the Earth (NF)
+  name: Salt the Earth
+  tags:
+    - New Foundations
+    - Discord
+    - Battle Plan
+- id: OATH-091-NF
+  text: >-
+    **When Played**, discard all denizens at sites in this region. Burn the same
+    number of `symbol:favor` from the People's Favor.
+  image: Riots (NF)
+  name: Riots
+  tags:
+    - New Foundations
+    - Discord
+- id: OATH-095-NF
+  text: >-
+    **Action**: Choose a faceup relic held by a player whose pawn is at your
+    site. Roll `symbol:diceb` equal to its defense (min 1). If you roll no
+    `symbol:shield`, take it.
+  image: Relic Thief (NF)
+  name: Relic Thief
+  tags:
+    - New Foundations
+    - Discord
+    - Power
+- id: OATH-099-NF
+  text: >-
+    After an enemy plays an adviser facedown _(including a Vision)_, gain
+    `symbol:favor` from the `symbol:suit-discord` bank.
+  image: Gossip (NF)
+  name: Gossip
+  tags:
+    - New Foundations
+    - Discord
+    - Search
+- id: OATH-100-NF
+  text: >-
+    **When Played**, kill one warband at each site not ruled by the bandits.
+  image: Bandit Chief (NF)
+  name: Bandit Chief
+  tags:
+    - New Foundations
+    - Discord
+- id: OATH-102-NF
+  text: >-
+    After trading with a `symbol:suit-discord` card, burn `symbol:favorb` from
+    any player board.
+  image: Defame (NF)
+  name: Defame
+  tags:
+    - New Foundations
+    - Discord
+    - Trade
+    - Power
+- id: OATH-129-NF
+  text: >-
+    **When Played**, return all `symbol:favor` and `symbol:secret`, and flip
+    your `symbol:secret`, as in the Rest Phase.
+  image: A Round of Ale (NF)
+  name: A Round of Ale
+  tags:
+    - New Foundations
+    - Hearth
+- id: OATH-139-NF
+  text: '**Action**: Bury a relic you hold to gain `symbol:secret`.'
+  image: Relic Breaker (NF)
+  name: Relic Breaker
+  tags:
+    - New Foundations
+    - Hearth
+    - Power
+- id: OATH-141-NF
+  text: >-
+    **Action**: If you have an adviser matching a card at this site, replace all
+    warbands on this site with your warbands. Remove any that can't be replaced.
+  image: Ballot Box (NF)
+  name: Ballot Box
+  tags:
+    - New Foundations
+    - Hearth
+    - Power
+- id: OATH-146-NF
+  text: >-
+    **When Negotiating**: You may give, receive, and swap sites. Old ruler moves
+    warbands from site to their board, and new ruler moves warbands to site from
+    their board.
+  image: Deed Writer (NF)
+  name: Deed Writer
+  tags:
+    - New Foundations
+    - Hearth
+    - Power
+- id: OATH-166-NF
+  text: >-
+    **When Played**, if you're an Exile and hold the Darkest Secret, you may
+    take a random relic from the Reliquary and become a Citizen. _Follow the
+    steps in the rules and end your Act Phase._
+  image: Ancient Pact (NF)
+  name: Ancient Pact
+  tags:
+    - New Foundations
+    - Nomad
+- id: OATH-168-NF
+  text: >-
+    You have no adviser limit but may only have `symbol:suit-nomad`
+    advisers—bury other advisers you have or would gain.
+  image: Family Wagon (NF)
+  name: Family Wagon
+  tags:
+    - New Foundations
+    - Nomad
+- id: OATH-173-NF
+  text: After recovering a relic, gain 2 Supply.
+  image: Relic Worship (NF)
+  name: Relic Worship
+  tags:
+    - New Foundations
+    - Nomad
+    - Recover
+    - Power
+- id: OATH-185-NF
+  text: >-
+    At the start of **any** campaign, you may move any number of warbands from
+    sites you rule in your region to your board or vice versa. You may only have
+    `symbol:suit-beast` advisers—bury other advisers you have or would gain.
+  image: Vow of Union (NF)
+  name: Vow of Union
+  tags:
+    - New Foundations
+    - Beast
+    - Campaign
+- id: OATH-186-NF
+  text: >-
+    **Action**: If you hold the Darkest Secret, move Giant Python to another
+    site, and you may discard a denizen there first. Other cards at this site
+    **cannot** be used for non-persistent powers or placing
+    `symbol:favor`/`symbol:secret`.
+  image: Giant Python (NF)
+  name: Giant Python
+  tags:
+    - New Foundations
+    - Beast
+    - Power
+- id: OATH-194-NF
+  text: >-
+    Enemies of Forest Council's ruler **cannot** place
+    `symbol:favor`/`symbol:secret` on `symbol:suit-beast` cards or use their
+    non-persistent powers.
+  image: Forest Council (NF)
+  name: Forest Council
+  tags:
+    - New Foundations
+    - Beast
+- id: OATH-197-NF
+  text: >-
+    You may put all of the cards you discard on the top or bottom of any one
+    discard pile _(even your region's)_.
+  image: Bracken (NF)
+  name: Bracken
+  tags:
+    - New Foundations
+    - Beast
+    - Search
+    - Power
