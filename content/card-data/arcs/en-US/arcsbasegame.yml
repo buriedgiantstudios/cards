@@ -8,7 +8,7 @@
 - id: ARCS-2SETUP02
   image: 2SETUP02
   imageClass: rotated
-  name: 2 Blorbles
+  name: 2 Players Mix Up
   tags:
     - Base
     - Setup
