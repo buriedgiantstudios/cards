@@ -2878,3 +2878,103 @@
   tags:
     - New Foundations
     - Chronicle
+- id: OATH-B01a-NF
+  meta:
+    defense: 3
+  name: Banner of the People's Favor - Mob
+  flipSide: OATH-B01b-NF
+  tags:
+    - New Foundations
+    - Banner
+    - Search
+    - Power
+    - Recover
+    - Campaign
+  text: >-
+    When playing a card to a site, you may discard a denizen there first.
+
+    **Action**: Place `symbol:favor` on the banner.
+
+    **Challenge or Campaign**: Return all `symbol:favor` on the banner to the
+    favor banks, one at a time, each to the bank with the least
+    `symbol:favor`. On a tie, return it to the leftmost tied bank.
+  image: Banner of the People's Favor - Mob (NF)
+  imageClass: square
+- id: OATH-B01b-NF
+  meta:
+    defense: 3
+  name: Banner of the People's Favor - Grand Council
+  flipSide: OATH-B01a-NF
+  tags:
+    - New Foundations
+    - Banner
+    - Search
+    - Power
+    - Recover
+    - Campaign
+  text: >-
+    When playing a card, you may play it to any Imperial site on the map, and
+    you may discard a denizen from that site first.
+
+    **Action**: Place `symbol:favor` on the banner.
+
+    **Challenge or Campaign**: Return half the `symbol:favor` on the banner,
+    rounded down, to its previous holder. If the banner was in the shared
+    bank, return those to the favor banks instead. Return the rest to the
+    favor banks, one at a time, each to the bank with the least
+    `symbol:favor`. On a tie, return it to the leftmost tied bank.
+  image: Banner of the People's Favor - Grand Council (NF)
+  imageClass: square
+- id: OATH-B02a-NF
+  meta:
+    defense: 3
+  name: Banner of the Darkest Secret - Wandering Flame
+  flipSide: OATH-B02b-NF
+  tags:
+    - New Foundations
+    - Banner
+    - Power
+    - Recover
+    - Campaign
+  text: >-
+    **Action**: Place your pawn at a site with `symbol:secret` on it. _You may
+    do this multiple times per turn._
+
+    **Action**: Place `symbol:secret` on the banner or on your site.
+
+    **Challenge**: Place half the `symbol:secret` on the banner, rounded down,
+    onto sites one at a time, each on the site with the fewest total
+    `symbol:favor` and `symbol:secret`. You decide ties. Return the rest to
+    the banner's previous holder. If the banner was in the shared bank, burn
+    those secrets `symbol:secretb` instead.
+
+    **Campaign**: Burn all `symbol:secretb` on the banner.
+  image: Banner of the Darkest Secret - Wandering Flame (NF)
+  imageClass: square
+- id: OATH-B02b-NF
+  meta:
+    defense: 3
+  name: Banner of the Darkest Secret - Festival
+  flipSide: OATH-B02a-NF
+  tags:
+    - New Foundations
+    - Banner
+    - Power
+    - Recover
+    - Campaign
+  text: >-
+    **Rest**: You must place the festival marker over the cards at your site.
+    _Enemies cannot place resources on these cards or use their powers,
+    unless they're persistent powers._
+
+    **Action**: Place `symbol:secret` on the banner.
+
+    **Challenge**: Burn one `symbol:secretb` from the banner. Return the rest
+    to the banner's previous holder. If the banner was in the shared bank,
+    burn those `symbol:secretb` instead. Remove the festival marker from the
+    map.
+
+    **Campaign**: Burn half the `symbol:secretb` on the banner, rounded down.
+    Remove the festival marker from the map.
+  image: Banner of the Darkest Secret - Festival (NF)
+  imageClass: square

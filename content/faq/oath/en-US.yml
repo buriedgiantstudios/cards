@@ -1105,3 +1105,7 @@
     - q: Does anything happen to the secrets on this if I give away the banner?
       a: Nope!
   card: Banner of the Darkest Secret
+- faq:
+    - q: How does this differ from $link:Fabled Feast?$
+      a: You can use Town Meeting to take from any combination of favor banks.
+  card: Town Meeting
