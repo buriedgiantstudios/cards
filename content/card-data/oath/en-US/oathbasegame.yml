@@ -2815,6 +2815,8 @@
   imageClass: rotated
   name: Banner of the Darkest Secret
   tags:
+    - Base Game
+    - Base Game Only
     - Banner
     - Search
     - Recover
@@ -2847,6 +2849,8 @@
   imageClass: rotated
   name: Banner of the People's Favor
   tags:
+    - Base Game
+    - Base Game Only
     - Banner
     - Search
     - Recover
@@ -2857,7 +2861,9 @@
   image: Oathkeeper of Devotion
   name: Oathkeeper of Devotion
   tags:
-    - Oath
+    - Oathkeeper Goal
+    - Base Game
+    - Base Game Only
 - id: OATH-PRO-OG
   text: >-
     Oathkeeper of Protection holds the most relics and banners. Successor to the
@@ -2865,7 +2871,9 @@
   image: Oathkeeper of Protection
   name: Oathkeeper of Protection
   tags:
-    - Oath
+    - Oathkeeper Goal
+    - Base Game
+    - Base Game Only
 - id: OATH-SUP-OG
   text: >-
     Oathkeeper of Supremacy rules the most sites. Successor to the Chancellor
@@ -2873,7 +2881,9 @@
   image: Oathkeeper of Supremacy
   name: Oathkeeper of Supremacy
   tags:
-    - Oath
+    - Oathkeeper Goal
+    - Base Game
+    - New Foundations
 - id: OATH-PEO-OG
   text: >-
     Oathkeeper of the People holds the People's Favor. Successor to the
@@ -2881,7 +2891,9 @@
   image: Oathkeeper of the People
   name: Oathkeeper of the People
   tags:
-    - Oath
+    - Oathkeeper Goal
+    - Base Game
+    - New Foundations
 - id: OATH-REL01-OG
   text: >-
     If you're the attacker, the defeated player _(even you)_ **must** kill all
@@ -2890,6 +2902,8 @@
   imageClass: square
   name: Brutal
   tags:
+    - Base Game
+    - Base Game Only
     - Reliquary
     - Campaign
 - id: OATH-REL02-OG
@@ -2900,6 +2914,8 @@
   imageClass: square
   name: Careless
   tags:
+    - Base Game
+    - Base Game Only    
     - Reliquary
     - Trade
 - id: OATH-REL03-OG
@@ -2911,6 +2927,8 @@
   imageClass: square
   name: Decadent
   tags:
+    - Base Game
+    - Base Game Only    
     - Reliquary
     - Travel
 - id: OATH-REL04-OG
@@ -2921,5 +2939,7 @@
   imageClass: square
   name: Greedy
   tags:
+    - Base Game
+    - Base Game Only    
     - Reliquary
     - Search

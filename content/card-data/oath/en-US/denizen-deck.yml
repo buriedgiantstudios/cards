@@ -7,7 +7,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Arcane
     - Muster
 - id: OATH-200
@@ -19,7 +18,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Arcane
 - id: OATH-201
   text: >-
@@ -30,7 +28,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Arcane
     - Recover
 - id: OATH-202
@@ -42,7 +39,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Arcane
 - id: OATH-203
   text: >-
@@ -53,7 +49,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Arcane
     - Search
 - id: OATH-204
@@ -65,7 +60,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Arcane
 - id: OATH-205
   text: >-
@@ -76,7 +70,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Arcane
     - Search
 - id: OATH-206
@@ -88,7 +81,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Arcane
     - Battle Plan
 - id: OATH-207
@@ -100,7 +92,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Arcane
     - Battle Plan
 - id: OATH-208
@@ -113,7 +104,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Arcane
 - id: OATH-209
   text: >-
@@ -124,7 +114,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Beast
 - id: OATH-210
   text: >-
@@ -135,7 +124,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Beast
 - id: OATH-211
   text: >-
@@ -146,7 +134,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Beast
 - id: OATH-212
   text: >-
@@ -157,7 +144,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Beast
 - id: OATH-213
   text: >-
@@ -168,7 +154,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Beast
 - id: OATH-214
   text: >-
@@ -179,7 +164,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Beast
 - id: OATH-215
   text: >-
@@ -190,7 +174,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Beast
     - Battle Plan
 - id: OATH-216
@@ -202,7 +185,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Beast
 - id: OATH-217
   text: >-
@@ -213,7 +195,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Beast
     - Battle Plan
 - id: OATH-218
@@ -225,7 +206,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Beast
     - Search
 - id: OATH-219
@@ -235,7 +215,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Discord
 - id: OATH-220
   text: '**When Played**, take a random relic from the Reliquary.'
@@ -244,7 +223,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Discord
 - id: OATH-221
   text: >-
@@ -256,7 +234,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Discord
 - id: OATH-222
   text: >-
@@ -266,7 +243,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Discord
     - Battle Plan
 - id: OATH-223
@@ -278,7 +254,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Discord
 - id: OATH-224
   text: >-
@@ -289,7 +264,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Discord
     - Trade
 - id: OATH-225
@@ -301,7 +275,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Discord
     - Battle Plan
 - id: OATH-226
@@ -313,7 +286,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Discord
 - id: OATH-227
   text: >-
@@ -324,7 +296,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Discord
 - id: OATH-228
   text: '**Action**: Enemies with a pawn at your site each lose 1 Supply.'
@@ -333,7 +304,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Discord
 - id: OATH-229
   text: >-
@@ -343,7 +313,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Hearth
     - Trade
 - id: OATH-230
@@ -355,7 +324,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Hearth
     - Campaign
 - id: OATH-231
@@ -367,7 +335,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Hearth
     - Muster
 - id: OATH-232
@@ -380,7 +347,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Hearth
     - Search
 - id: OATH-233
@@ -392,7 +358,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Hearth
 - id: OATH-234
   text: + `symbol:diceb` if any target is in the Cradle.
@@ -401,7 +366,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Hearth
     - Battle Plan
 - id: OATH-235
@@ -413,7 +377,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Hearth
 - id: OATH-236
   text: >-
@@ -425,7 +388,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Hearth
 - id: OATH-237
   text: >-
@@ -436,7 +398,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Hearth
 - id: OATH-238
   text: You may trade with any denizens in your region.
@@ -445,7 +406,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Hearth
     - Trade
 - id: OATH-239
@@ -457,7 +417,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Nomad
     - Battle Plan
 - id: OATH-240
@@ -469,7 +428,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Nomad
 - id: OATH-241
   text: >-
@@ -480,7 +438,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Nomad
     - Trade
 - id: OATH-242
@@ -490,7 +447,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Nomad
 - id: OATH-243
   text: >-
@@ -501,7 +457,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Nomad
     - Battle Plan
 - id: OATH-244
@@ -513,7 +468,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Nomad
 - id: OATH-245
   text: Travel costs one less Supply _(minimum 1)_.
@@ -522,7 +476,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Nomad
     - Travel
 - id: OATH-246
@@ -534,7 +487,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Nomad
 - id: OATH-247
   text: Gain two more warbands. You **cannot** place warbands on sites.
@@ -543,7 +495,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Nomad
     - Muster
 - id: OATH-248
@@ -555,7 +506,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Nomad
     - Trade
 - id: OATH-249
@@ -567,7 +517,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Order
     - Battle Plan
 - id: OATH-250
@@ -579,7 +528,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Order
     - Search
 - id: OATH-251
@@ -591,7 +539,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Order
 - id: OATH-252
   text: >-
@@ -602,7 +549,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Order
 - id: OATH-253
   text: >-
@@ -613,7 +559,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Order
     - Battle Plan
 - id: OATH-254
@@ -625,7 +570,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Order
     - Battle Plan
 - id: OATH-255
@@ -637,7 +581,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Order
     - Battle Plan
 - id: OATH-256
@@ -647,7 +590,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Order
     - Battle Plan
 - id: OATH-257
@@ -659,7 +601,6 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Order
 - id: OATH-258
   text: '**Wake**: If you rule this card, gain 1 Supply.'
@@ -668,5 +609,4 @@
   tags:
     - Base Game
     - New Foundations
-    - Denizen Deck
     - Order

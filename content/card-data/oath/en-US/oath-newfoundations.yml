@@ -2905,3 +2905,54 @@
     Remove the festival marker from the map.
   image: Banner of the Darkest Secret - Festival (NF)
   imageClass: square
+- id: OATH-GrandScepter-NF
+  meta:
+    defense: 3
+  name: The Grand Scepter
+  tags:
+    - New Foundations
+    - Relic
+    - Battle Plan
+    - Power
+  text: >-
+    If you are an Imperial and victorious against a Citizen, you may exile
+    them. **Action**: You may become a Citizen if an Exile. **When
+    Negotiating**: You may offer Citizenship.
+  image: The Grand Scepter (NF)
+  imageClass: square
+- id: OATH-263-NF
+  text: >-
+    Oathkeeper of Devotion holds the Darkest Secret. Successor to the Chancellor
+    holds the Grand Scepter.
+  image: Devotion Oath (NF)
+  name: Oathkeeper of Devotion
+  tags:
+    - New Foundations
+    - Oathkeeper Goal
+- id: OATH-264-NF
+  text: >-
+    Oathkeeper of Protection holds the most relics. Successor to the Chancellor
+    holds the People's Favor.
+  image: Protection Oath (NF)
+  name: Oathkeeper of Protection
+  tags:
+    - New Foundations
+    - Oathkeeper Goal
+- id: OATH-265-NF
+  text: >-
+    Oathkeeper of Supremacy rules the most sites. Successor to the Chancellor
+    holds more relics than each Imperial.
+  image: Supremacy Oath (NF)
+  name: Oathkeeper of Supremacy
+  tags:
+    - New Foundations
+    - Oathkeeper Goal
+- id: OATH-266-NF
+  text: >-
+    Oathkeeper of the People holds the People's Favor. Successor to the
+    Chancellor holds the Darkest Secret.
+  image: People Oath (NF)
+  name: Oathkeeper of the People
+  tags:
+    - New Foundations
+    - Oathkeeper Goal
