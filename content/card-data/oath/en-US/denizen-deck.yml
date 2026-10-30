@@ -5,10 +5,11 @@
   image: Golem Legions
   name: Golem Legions
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Arcane
     - Muster
-    - Power
 - id: OATH-200
   text: >-
     **When Negotiating**: You may give, receive, and swap advisers. _You cannot
@@ -16,9 +17,10 @@
   image: Council Arbiter
   name: Council Arbiter
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Arcane
-    - Power
 - id: OATH-201
   text: >-
     If this site has an empty relic slot, draw a relic from the relic deck and
@@ -26,10 +28,11 @@
   image: Catacombs
   name: Catacombs
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Arcane
     - Recover
-    - Power
 - id: OATH-202
   text: >-
     **Action**: Choose a player whose pawn is at your site. Flip X
@@ -37,9 +40,10 @@
   image: Ward of Silence
   name: Ward of Silence
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Arcane
-    - Power
 - id: OATH-203
   text: >-
     You **must** gain `symbol:secret` instead of `symbol:favor` when you play to
@@ -47,6 +51,8 @@
   image: Vow of Wisdom
   name: Vow of Wisdom
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Arcane
     - Search
@@ -57,9 +63,10 @@
   image: Arcane Brokers
   name: Arcane Brokers
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Arcane
-    - Power
 - id: OATH-205
   text: >-
     If you have the Darkest Secret, spend only 2 Supply if you're searching the
@@ -67,10 +74,11 @@
   image: Disciples
   name: Disciples
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Arcane
     - Search
-    - Power
 - id: OATH-206
   text: >-
     Set X `symbol:diceb` you have collected to their `symbol:shield`
@@ -78,6 +86,8 @@
   image: Arcane Armor
   name: Arcane Armor
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Arcane
     - Battle Plan
@@ -88,6 +98,8 @@
   image: Glamor
   name: Glamor
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Arcane
     - Battle Plan
@@ -99,6 +111,8 @@
   image: Wizard's Conclave
   name: Wizard's Conclave
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Arcane
 - id: OATH-209
@@ -108,6 +122,8 @@
   image: True Oath
   name: True Oath
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Beast
 - id: OATH-210
@@ -117,9 +133,10 @@
   image: Bog
   name: Bog
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Beast
-    - Power
 - id: OATH-211
   text: >-
     **Action**: Choose a player whose pawn is at your site. They **must** place
@@ -127,9 +144,10 @@
   image: Whispering Leaves
   name: Whispering Leaves
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Beast
-    - Power
 - id: OATH-212
   text: >-
     **Action**: Bury a faceup adviser you have _(even if locked)_ to gain
@@ -137,9 +155,10 @@
   image: Bed of Roots
   name: Bed of Roots
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Beast
-    - Power
 - id: OATH-213
   text: >-
     **When Played**, shuffle together all discard piles, then deal these cards
@@ -147,6 +166,8 @@
   image: Autumn Wind
   name: Autumn Wind
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Beast
 - id: OATH-214
@@ -156,6 +177,8 @@
   image: Shifting Fog
   name: Shifting Fog
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Beast
 - id: OATH-215
@@ -165,6 +188,8 @@
   image: Fae Battalion
   name: Fae Battalion
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Beast
     - Battle Plan
@@ -175,9 +200,10 @@
   image: Hunger
   name: Hunger
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Beast
-    - Power
 - id: OATH-217
   text: >-
     Reveal the top three cards of your region's discard pile. ±2 `symbol:dicer`
@@ -185,6 +211,8 @@
   image: Signal Trees
   name: Signal Trees
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Beast
     - Battle Plan
@@ -195,23 +223,27 @@
   image: Forest Warden
   name: Forest Warden
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Beast
     - Search
-    - Power
 - id: OATH-219
   text: '**Action**: If your site is ruled by bandits, gain 2 warbands.'
   image: Bandit Paymaster
   name: Bandit Paymaster
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Discord
-    - Power
 - id: OATH-220
   text: '**When Played**, take a random relic from the Reliquary.'
   image: Reliquary Raid
   name: Reliquary Raid
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Discord
 - id: OATH-221
@@ -222,15 +254,18 @@
   image: Tracker
   name: Tracker
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Discord
-    - Power
 - id: OATH-222
   text: >-
     +3 `symbol:dicer` if the defender has the Darkest Secret or People's Favor.
   image: Banner Breakers
   name: Banner Breakers
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Discord
     - Battle Plan
@@ -241,6 +276,8 @@
   image: Pledge to Discord
   name: Pledge to Discord
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Discord
 - id: OATH-224
@@ -250,10 +287,11 @@
   image: Friendly Familiar
   name: Friendly Familiar
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Discord
     - Trade
-    - Power
 - id: OATH-225
   text: >-
     If you hold the Darkest Secret, burn X `symbol:secret` from it to collect X
@@ -261,6 +299,8 @@
   image: Unstable Summon
   name: Unstable Summon
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Discord
     - Battle Plan
@@ -271,6 +311,8 @@
   image: Bandit Prince
   name: Bandit Prince
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Discord
 - id: OATH-227
@@ -280,27 +322,30 @@
   image: Dark Enforcer
   name: Dark Enforcer
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Discord
-    - Power
 - id: OATH-228
   text: '**Action**: Enemies with a pawn at your site each lose 1 Supply.'
   image: Spoiled Supplies
   name: Spoiled Supplies
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Discord
-    - Power
 - id: OATH-229
   text: >-
     You may trade with denizens that have exactly one `symbol:secret` on them.
   image: Old Songs
   name: Old Songs
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Hearth
     - Trade
-    - Power
 - id: OATH-230
   text: >-
     Players **cannot** campaign against you unless they rule a
@@ -308,6 +353,8 @@
   image: Diplomat
   name: Diplomat
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Hearth
     - Campaign
@@ -318,10 +365,11 @@
   image: Village Idiot
   name: Village Idiot
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Hearth
     - Muster
-    - Power
 - id: OATH-232
   text: >-
     You may declare a suit, then draw from your discard pile until you draw that
@@ -330,10 +378,11 @@
   image: Spinning Bee
   name: Spinning Bee
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Hearth
     - Search
-    - Power
 - id: OATH-233
   text: >-
     **Action**: Add `symbol:favor` to the People's Favor from any favor bank, or
@@ -341,14 +390,17 @@
   image: Firebrand
   name: Firebrand
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Hearth
-    - Power
 - id: OATH-234
   text: + `symbol:diceb` if any target is in the Cradle.
   image: Watchdog
   name: Watchdog
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Hearth
     - Battle Plan
@@ -359,6 +411,8 @@
   image: Favored Son
   name: Favored Son
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Hearth
 - id: OATH-236
@@ -369,6 +423,8 @@
   image: Town Meeting
   name: Town Meeting
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Hearth
 - id: OATH-237
@@ -378,6 +434,8 @@
   image: League Treaty
   name: League Treaty
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Hearth
 - id: OATH-238
@@ -385,10 +443,11 @@
   image: Skilled Merchants
   name: Skilled Merchants
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Hearth
     - Trade
-    - Power
 - id: OATH-239
   text: >-
     If you're victorious in a conquest, take `symbol:favor` for each card at
@@ -396,6 +455,8 @@
   image: Tribute Spoils
   name: Tribute Spoils
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Nomad
     - Battle Plan
@@ -406,6 +467,8 @@
   image: Search Party
   name: Search Party
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Nomad
 - id: OATH-241
@@ -415,18 +478,20 @@
   image: Moving Market
   name: Moving Market
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Nomad
     - Trade
-    - Power
 - id: OATH-242
   text: '**When Negotiating**: You may negotiate with any player.'
   image: Traveling Negotiator
   name: Traveling Negotiator
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Nomad
-    - Power
 - id: OATH-243
   text: >-
     +X `symbol:diceb` X equals all `symbol:suit-nomad` cards you rule. At end,
@@ -434,6 +499,8 @@
   image: Pledge of Defense
   name: Pledge of Defense
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Nomad
     - Battle Plan
@@ -444,18 +511,20 @@
   image: The Red Seer
   name: The Red Seer
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Nomad
-    - Power
 - id: OATH-245
   text: Travel costs one less Supply _(minimum 1)_.
   image: Royal Stables
   name: Royal Stables
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Nomad
     - Travel
-    - Power
 - id: OATH-246
   text: >-
     **When Played**, reveal and discard up to 6 cards from your region's discard
@@ -463,6 +532,8 @@
   image: Call for Help
   name: Call for Help
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Nomad
 - id: OATH-247
@@ -470,10 +541,11 @@
   image: Vow of Wandering
   name: Vow of Wandering
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Nomad
     - Muster
-    - Power
 - id: OATH-248
   text: >-
     If trading on Mounted Library for `symbol:secret`, gain double the
@@ -481,10 +553,11 @@
   image: Mounted Library
   name: Mounted Library
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Nomad
     - Trade
-    - Power
 - id: OATH-249
   text: >-
     You may reroll any number of dice that show hollow swords `symbol:swordh`
@@ -492,6 +565,8 @@
   image: Master at Arms
   name: Master at Arms
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Order
     - Battle Plan
@@ -502,10 +577,11 @@
   image: Baron
   name: Baron
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Order
     - Search
-    - Power
 - id: OATH-251
   text: >-
     **Action**: Choose a player with no `symbol:suit-order` advisers whose pawn
@@ -513,9 +589,10 @@
   image: Honor Guard
   name: Honor Guard
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Order
-    - Power
 - id: OATH-252
   text: >-
     While at this site, enemies of City Wall's ruler **cannot** place
@@ -523,6 +600,8 @@
   image: City Wall
   name: City Wall
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Order
 - id: OATH-253
@@ -532,6 +611,8 @@
   image: Fearsome General
   name: Fearsome General
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Order
     - Battle Plan
@@ -542,6 +623,8 @@
   image: Careful Plans
   name: Careful Plans
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Order
     - Battle Plan
@@ -552,6 +635,8 @@
   image: Garrison Armory
   name: Garrison Armory
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Order
     - Battle Plan
@@ -560,6 +645,8 @@
   image: Battle Axes
   name: Battle Axes
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Order
     - Battle Plan
@@ -570,14 +657,16 @@
   image: Great Feast
   name: Great Feast
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Order
-    - Power
 - id: OATH-258
   text: '**Wake**: If you rule this card, gain 1 Supply.'
   image: Quartermaster
   name: Quartermaster
   tags:
+    - Base Game
+    - New Foundations
     - Denizen Deck
     - Order
-    - Power

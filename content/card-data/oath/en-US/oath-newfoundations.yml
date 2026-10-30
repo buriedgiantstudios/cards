@@ -31,7 +31,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     **Action**: Reveal the top card of your region's discard pile. Place your
     pawn at a site with a matching card. If you cannot, place it at any site.
@@ -46,7 +45,6 @@
     - New Foundations
     - Relic
     - Search
-    - Power
   text: >-
     You may draw 2 more cards. If you do, you **must** show every card you draw
     and the card you keep to everyone.
@@ -71,7 +69,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     **Wake**: You may take a denizen, but not an edifice, from your site as a
     facedown adviser. _(Once per turn, like all Wake powers.)_
@@ -85,7 +82,6 @@
     - New Foundations
     - Relic
     - Trade
-    - Power
   text: >-
     Spend no Supply if you're trading with a card that **does not** match any of
     your advisers.
@@ -98,7 +94,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     **Action**: Take a pawn from another site, place it at your site, and give
     them the `symbol:secret` here.
@@ -111,7 +106,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     **Action**: Draw a relic from the relic deck and take it. _(You may keep it
     facedown.)_
@@ -125,7 +119,6 @@
     - New Foundations
     - Relic
     - Search
-    - Power
   text: You may put all the cards you discard on the bottom of the world deck.
   image: Cracked Horn (NF)
   imageClass: square
@@ -149,7 +142,6 @@
     - New Foundations
     - Relic
     - Search
-    - Power
   text: >-
     You may discard cards to your region's discard pile instead of the next
     region out.
@@ -162,7 +154,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     **Action**: If your pawn is at a Hinterland site, take a relic from your
     site.
@@ -175,7 +166,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: '**Action**: Peek at the top 3 cards of the world deck.'
   image: Oracular Pig (NF)
   imageClass: square
@@ -197,7 +187,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: '**Action**: Peek at any facedown adviser. _(This includes Visions.)_'
   image: Ivory Eye (NF)
   imageClass: square
@@ -208,7 +197,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: '**Action**: Gain 1 Supply.'
   image: Shifting Map (NF)
   imageClass: square
@@ -220,7 +208,6 @@
     - New Foundations
     - Relic
     - Battle Plan
-    - Power
   text: >-
     If you're victorious, move all unkilled warbands in your enemy's force to
     Obsidian Cage. **Action**: Move any number of warbands from Obsidian Cage to
@@ -234,7 +221,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     **Action**: Take `symbol:favor` `symbol:favor` or `symbol:secret`
     `symbol:secret` from a banner held by a player whose pawn is at your site.
@@ -248,7 +234,6 @@
     - New Foundations
     - Relic
     - Travel
-    - Power
   text: After traveling, gain one warband.
   image: Dragonskin Drum (NF)
   imageClass: square
@@ -259,7 +244,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     **Action**: Bury an adviser of yours or a denizen at your site. _(Bury
     ignores the locked restriction.)_
@@ -272,7 +256,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     **Action**: Bury this to draw 3 legacy cards, keep 1 facedown, and discard
     the other 2.
@@ -286,7 +269,6 @@
     - New Foundations
     - Relic
     - Search
-    - Power
   text: >-
     Instead of drawing from one discard pile, you may draw the top card from
     **each** discard pile. This draw amount cannot be modified.
@@ -299,7 +281,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     **Action**: Roll `symbol:dicer` `symbol:dicer`. Gain 1 Supply for each
     `symbol:sword` rolled, then bury this relic if you rolled any
@@ -326,7 +307,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     **Action**: If no Imperial pawns are at your site, move **any** number of
     Imperial warbands from your site to any Imperial site or Imperial player
@@ -351,7 +331,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     **Action**: Choose a denizen at your site. Move up to `symbol:favor`
     `symbol:favor` between the matching favor bank and the People's Favor.
@@ -388,7 +367,6 @@
     - New Foundations
     - Relic
     - Recover
-    - Power
   text: >-
     Each time you spend Supply to roll `symbol:diceb`, you may also reroll any
     number of previous `symbol:diceb` at the same time.
@@ -401,7 +379,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     **Action**: Burn `symbol:favorb` or `symbol:secretb` from a banner held by a
     player whose pawn is at your site.
@@ -415,7 +392,6 @@
     - New Foundations
     - Relic
     - Search
-    - Power
   text: Draw from the bottom of the world deck instead of the top.
   image: Wine of Welcome (NF)
   imageClass: square
@@ -426,7 +402,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     **Action**: Negotiate with any one player in private, even if their pawn is
     not at your site.
@@ -450,7 +425,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: '**Action**: Take a relic from your site. _(You may keep it facedown.)_'
   image: Barbed Net (NF)
   imageClass: square
@@ -487,7 +461,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     **Action**: Place your pawn at any site. Then, discard Magic Carpet or give
     it to a player at a different site.
@@ -510,7 +483,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: >-
     This turn, you may act as if any cards you use to trade or muster are
     `symbol:suit-discord` cards.
@@ -537,7 +509,6 @@
     - New Foundations
     - Relic
     - Recover
-    - Power
   text: You may challenge the Darkest Secret from any site.
   image: Sigil of the Eye (NF)
   imageClass: square
@@ -549,7 +520,6 @@
     - New Foundations
     - Relic
     - Recover
-    - Power
   text: You may challenge the People's Favor from any site.
   image: Sigil of the Heart (NF)
   imageClass: square
@@ -560,7 +530,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: '**Action**: Bury this relic to gain 4 Supply.'
   image: Magic Waterskin (NF)
   imageClass: square
@@ -571,7 +540,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: '**Action**: Gain 2 Supply.'
   image: Demon Tail (NF)
   imageClass: square
@@ -582,7 +550,6 @@
   tags:
     - New Foundations
     - Relic
-    - Power
   text: "**Action**: Shuffle the world deck or any region's discard pile."
   image: Clay Rattle (NF)
   imageClass: square
@@ -606,7 +573,6 @@
   tags:
     - New Foundations
     - Arcane
-    - Power
 - id: OATH-010-NF
   text: >-
     If you're an Exile and defeat another Exile, you may become a Citizen.
@@ -624,7 +590,6 @@
   tags:
     - New Foundations
     - Hearth
-    - Power
 - id: OATH-020-NF
   text: >-
     +4 `symbol:dicer` if the defender rules an `symbol:suit-order` card _(even
@@ -656,7 +621,6 @@
     - New Foundations
     - Arcane
     - Recover
-    - Power
 - id: OATH-038-NF
   text: >-
     **Action**: Guess the name of a facedown Vision _(even the Conspiracy)_ held
@@ -666,7 +630,6 @@
   tags:
     - New Foundations
     - Arcane
-    - Power
 - id: OATH-044-NF
   text: >-
     **When Played**, if you're an Exile, you may become a Citizen. _Follow the
@@ -685,7 +648,6 @@
   tags:
     - New Foundations
     - Hearth
-    - Power
 - id: OATH-058-NF
   text: '**Action**: Place an enemy pawn at your site onto any other site.'
   image: Quick Exit (NF)
@@ -693,7 +655,6 @@
   tags:
     - New Foundations
     - Arcane
-    - Power
 - id: OATH-067-NF
   text: >-
     **When Played**, if you're an Exile and have the most `symbol:secret` _(even
@@ -772,7 +733,6 @@
   tags:
     - New Foundations
     - Discord
-    - Power
 - id: OATH-099-NF
   text: >-
     After an enemy plays an adviser facedown _(including a Vision)_, gain
@@ -801,7 +761,6 @@
     - New Foundations
     - Discord
     - Trade
-    - Power
 - id: OATH-129-NF
   text: >-
     **When Played**, return all `symbol:favor` and `symbol:secret`, and flip
@@ -818,7 +777,6 @@
   tags:
     - New Foundations
     - Hearth
-    - Power
 - id: OATH-141-NF
   text: >-
     **Action**: If you have an adviser matching a card at this site, replace all
@@ -828,7 +786,6 @@
   tags:
     - New Foundations
     - Hearth
-    - Power
 - id: OATH-146-NF
   text: >-
     **When Negotiating**: You may give, receive, and swap sites. Old ruler moves
@@ -839,7 +796,6 @@
   tags:
     - New Foundations
     - Hearth
-    - Power
 - id: OATH-166-NF
   text: >-
     **When Played**, if you're an Exile and hold the Darkest Secret, you may
@@ -867,7 +823,6 @@
     - New Foundations
     - Nomad
     - Recover
-    - Power
 - id: OATH-185-NF
   text: >-
     At the start of **any** campaign, you may move any number of warbands from
@@ -890,7 +845,6 @@
   tags:
     - New Foundations
     - Beast
-    - Power
 - id: OATH-194-NF
   text: >-
     Enemies of Forest Council's ruler **cannot** place
@@ -911,7 +865,6 @@
     - New Foundations
     - Beast
     - Search
-    - Power
 - id: OATH-V1-NF
   text: >-
     _If drawn from world deck, increase Visions Drawn. **Anyone** can play this
@@ -1698,7 +1651,6 @@
   tags:
     - New Foundations
     - Site
-    - Power
     - Travel
   text: >-
     **River.** **Wake**: You may place your pawn at another River. _This is not
@@ -1771,7 +1723,6 @@
   tags:
     - New Foundations
     - Site
-    - Power
   text: >-
     **Enduring.** Cards at this site are not discarded in the Chronicle Phase
     during the Shape Empire step. 
@@ -1901,7 +1852,6 @@
   tags:
     - New Foundations
     - Site
-    - Power
   text: >-
     **River.** **Wake**: You may place your pawn at another River. _This is not
     a Travel action._
@@ -1916,7 +1866,6 @@
     - New Foundations
     - Site
     - Travel
-    - Power
   text: >-
     **Mountain.** Traveling to this site costs one more Supply than its normal
     Travel cost. _Do not add this Supply cost if this site also has the Coast
@@ -2208,7 +2157,6 @@
     - Edifice
     - Intact
     - Nomad
-    - Power
 - id: OATH-E09b-NF
   text: >-
     **Action**: Bury a denizen at any site _(even here)_. If you do, move
@@ -2221,7 +2169,6 @@
     - Edifice
     - Ruined
     - Nomad
-    - Power
 - id: OATH-E10a-NF
   text: >-
     **Action**: Draw a card from the bottom of the world deck and play it to
@@ -2234,7 +2181,6 @@
     - Edifice
     - Intact
     - Nomad
-    - Power
 - id: OATH-E10b-NF
   text: >-
     **Setup / When Explored**: If you place your pawn here, you may burn
@@ -2261,7 +2207,6 @@
     - Edifice
     - Intact
     - Arcane
-    - Power
 - id: OATH-E11b-NF
   text: >-
     **Setup (End) / When Explored**: Swap denizens in this region's discard pile
@@ -2287,7 +2232,6 @@
     - Edifice
     - Intact
     - Arcane
-    - Power
 - id: OATH-E12b-NF
   text: >-
     **Setup (End) / When Explored**: Advance the round marker once, if possible.
@@ -2312,7 +2256,6 @@
     - Edifice
     - Intact
     - Arcane
-    - Power
 - id: OATH-E13b-NF
   text: >-
     If your pawn is at this site, you may recover the top card of the relic deck
@@ -2326,7 +2269,6 @@
     - Ruined
     - Arcane
     - Recover
-    - Power
 - id: OATH-E14a-NF
   text: >-
     **Action**: If your pawn is at this site, place your pawn on another site.
@@ -2339,7 +2281,6 @@
     - Edifice
     - Intact
     - Arcane
-    - Power
 - id: OATH-E14b-NF
   text: >-
     **Action**: If your pawn is at this site, roll `symbol:dicep` and place your
@@ -2353,7 +2294,6 @@
     - Edifice
     - Ruined
     - Arcane
-    - Power
 - id: OATH-E15a-NF
   text: >-
     **Wake**: If your pawn is at this site, refresh your Supply marker to the
@@ -2366,7 +2306,6 @@
     - Edifice
     - Intact
     - Arcane
-    - Power
 - id: OATH-E15b-NF
   text: >-
     **Action**: If your pawn is at this site, roll 2 `symbol:diceb` and gain
@@ -2380,7 +2319,6 @@
     - Edifice
     - Ruined
     - Arcane
-    - Power
 - id: OATH-E16a-NF
   text: >-
     Enemies of this card's ruler **cannot** discard denizens from sites ruled by
@@ -2468,7 +2406,6 @@
     - Edifice
     - Intact
     - Order
-    - Power
 - id: OATH-E19b-NF
   text: >-
     **When Negotiating**: Players at sites ruled by bandits may negotiate with
@@ -2515,7 +2452,6 @@
     - Edifice
     - Intact
     - Discord
-    - Power
 - id: OATH-E21b-NF
   text: >-
     **Action**: Discard any number of facedown advisers you have. Draw that many
@@ -2528,7 +2464,6 @@
     - Edifice
     - Ruined
     - Discord
-    - Power
 - id: OATH-E22a-NF
   text: '**Setup / When Explored**: If you place your pawn here, gain three warbands.'
   image: Proving Grounds (NF)
@@ -2588,7 +2523,6 @@
     - Intact
     - Discord
     - Travel
-    - Power
 - id: OATH-E24b-NF
   text: >-
     Cards **cannot** be played to this site. _This card can still be discarded
@@ -2613,7 +2547,6 @@
     - Edifice
     - Intact
     - Discord
-    - Power
 - id: OATH-E25b-NF
   text: >-
     **Wake**: If your pawn is at this site, you may burn `symbol:favorb` to
@@ -2626,7 +2559,6 @@
     - Edifice
     - Ruined
     - Discord
-    - Power
 - id: OATH-E26a-NF
   text: >-
     When trading at this site for `symbol:secret`, you **must** place both
@@ -2665,7 +2597,6 @@
     - Intact
     - Beast
     - Recover
-    - Power
 - id: OATH-E27b-NF
   text: >-
     **Setup (End) / When Explored**: Place `symbol:secret` on each site ruled by
@@ -2887,7 +2818,6 @@
     - New Foundations
     - Banner
     - Search
-    - Power
     - Recover
     - Campaign
   text: >-
@@ -2909,7 +2839,6 @@
     - New Foundations
     - Banner
     - Search
-    - Power
     - Recover
     - Campaign
   text: >-
@@ -2933,7 +2862,6 @@
   tags:
     - New Foundations
     - Banner
-    - Power
     - Recover
     - Campaign
   text: >-
@@ -2959,7 +2887,6 @@
   tags:
     - New Foundations
     - Banner
-    - Power
     - Recover
     - Campaign
   text: >-
