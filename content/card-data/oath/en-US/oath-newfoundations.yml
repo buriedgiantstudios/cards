@@ -1,7 +1,7 @@
 - id: OATH-R01-NF
   meta:
     defense: 3
-  name: Sticky Fire
+  name: Sticky Fire (NF)
   tags:
     - New Foundations
     - Relic
@@ -14,7 +14,7 @@
 - id: OATH-R02-NF
   meta:
     defense: 2
-  name: Cursed Cauldron
+  name: Cursed Cauldron (NF)
   tags:
     - New Foundations
     - Relic
@@ -27,7 +27,7 @@
 - id: OATH-R03-NF
   meta:
     defense: 2
-  name: Brass Horse
+  name: Brass Horse (NF)
   tags:
     - New Foundations
     - Relic
@@ -40,7 +40,7 @@
 - id: OATH-R04-NF
   meta:
     defense: 0
-  name: Truthful Harp
+  name: Truthful Harp (NF)
   tags:
     - New Foundations
     - Relic
@@ -53,7 +53,7 @@
 - id: OATH-R05-NF
   meta:
     defense: 1
-  name: Grand Mask
+  name: Grand Mask (NF)
   tags:
     - New Foundations
     - Relic
@@ -65,7 +65,7 @@
 - id: OATH-R06-NF
   meta:
     defense: 2
-  name: Horned Mask
+  name: Horned Mask (NF)
   tags:
     - New Foundations
     - Relic
@@ -77,7 +77,7 @@
 - id: OATH-R07-NF
   meta:
     defense: 1
-  name: Cup of Plenty
+  name: Cup of Plenty (NF)
   tags:
     - New Foundations
     - Relic
@@ -90,7 +90,7 @@
 - id: OATH-R08-NF
   meta:
     defense: 1
-  name: Whistle
+  name: Whistle (NF)
   tags:
     - New Foundations
     - Relic
@@ -102,7 +102,7 @@
 - id: OATH-R09-NF
   meta:
     defense: 1
-  name: Dowsing Sticks
+  name: Dowsing Sticks (NF)
   tags:
     - New Foundations
     - Relic
@@ -114,7 +114,7 @@
 - id: OATH-R10-NF
   meta:
     defense: 1
-  name: Cracked Horn
+  name: Cracked Horn (NF)
   tags:
     - New Foundations
     - Relic
@@ -125,7 +125,7 @@
 - id: OATH-R11-NF
   meta:
     defense: 3
-  name: Bandit Crown
+  name: Bandit Crown (NF)
   tags:
     - New Foundations
     - Relic
@@ -137,7 +137,7 @@
 - id: OATH-R12-NF
   meta:
     defense: 1
-  name: Ring of Devotion
+  name: Ring of Devotion (NF)
   tags:
     - New Foundations
     - Relic
@@ -150,7 +150,7 @@
 - id: OATH-R13-NF
   meta:
     defense: 2
-  name: Skeleton Key
+  name: Skeleton Key (NF)
   tags:
     - New Foundations
     - Relic
@@ -162,7 +162,7 @@
 - id: OATH-R14-NF
   meta:
     defense: 2
-  name: Oracular Pig
+  name: Oracular Pig (NF)
   tags:
     - New Foundations
     - Relic
@@ -172,7 +172,7 @@
 - id: OATH-R15-NF
   meta:
     defense: 0
-  name: Circlet of Command
+  name: Circlet of Command (NF)
   tags:
     - New Foundations
     - Relic
@@ -183,7 +183,7 @@
 - id: OATH-R16-NF
   meta:
     defense: 2
-  name: Ivory Eye
+  name: Ivory Eye (NF)
   tags:
     - New Foundations
     - Relic
@@ -193,7 +193,7 @@
 - id: OATH-R17-NF
   meta:
     defense: 1
-  name: Shifting Map
+  name: Shifting Map (NF)
   tags:
     - New Foundations
     - Relic
@@ -203,7 +203,7 @@
 - id: OATH-R18-NF
   meta:
     defense: 3
-  name: Obsidian Cage
+  name: Obsidian Cage (NF)
   tags:
     - New Foundations
     - Relic
@@ -217,7 +217,7 @@
 - id: OATH-R19-NF
   meta:
     defense: 1
-  name: Book of Records
+  name: Book of Records (NF)
   tags:
     - New Foundations
     - Relic
@@ -229,7 +229,7 @@
 - id: OATH-R20-NF
   meta:
     defense: 2
-  name: Dragonskin Drum
+  name: Dragonskin Drum (NF)
   tags:
     - New Foundations
     - Relic
@@ -240,7 +240,7 @@
 - id: OATH-R21-NF
   meta:
     defense: 1
-  name: Crystal Vial
+  name: Crystal Vial (NF)
   tags:
     - New Foundations
     - Relic
@@ -252,7 +252,7 @@
 - id: OATH-R22-NF
   meta:
     defense: 1
-  name: Ancient Writ
+  name: Ancient Writ (NF)
   tags:
     - New Foundations
     - Relic
@@ -264,7 +264,7 @@
 - id: OATH-R23-NF
   meta:
     defense: 1
-  name: Painted Trumpet
+  name: Painted Trumpet (NF)
   tags:
     - New Foundations
     - Relic
@@ -277,7 +277,7 @@
 - id: OATH-R24-NF
   meta:
     defense: 1
-  name: Bone Dice
+  name: Bone Dice (NF)
   tags:
     - New Foundations
     - Relic
@@ -290,7 +290,7 @@
 - id: OATH-R25-NF
   meta:
     defense: 3
-  name: Brass Army
+  name: Brass Army (NF)
   tags:
     - New Foundations
     - Relic
@@ -303,7 +303,7 @@
 - id: OATH-R26-NF
   meta:
     defense: 2
-  name: Imperial Seal
+  name: Imperial Seal (NF)
   tags:
     - New Foundations
     - Relic
@@ -316,7 +316,7 @@
 - id: OATH-R27-NF
   meta:
     defense: 1
-  name: Fearsome Shield
+  name: Fearsome Shield (NF)
   tags:
     - New Foundations
     - Relic
@@ -327,7 +327,7 @@
 - id: OATH-R28-NF
   meta:
     defense: 1
-  name: Singing Mask
+  name: Singing Mask (NF)
   tags:
     - New Foundations
     - Relic
@@ -339,7 +339,7 @@
 - id: OATH-R29-NF
   meta:
     defense: 1
-  name: Lost Tapestry
+  name: Lost Tapestry (NF)
   tags:
     - New Foundations
     - Relic
@@ -349,7 +349,7 @@
 - id: OATH-R30-NF
   meta:
     defense: 3
-  name: Bandit Standard
+  name: Bandit Standard (NF)
   tags:
     - New Foundations
     - Relic
@@ -362,7 +362,7 @@
 - id: OATH-R31-NF
   meta:
     defense: 1
-  name: Silver Charm
+  name: Silver Charm (NF)
   tags:
     - New Foundations
     - Relic
@@ -375,7 +375,7 @@
 - id: OATH-R32-NF
   meta:
     defense: 2
-  name: Amber Flame
+  name: Amber Flame (NF)
   tags:
     - New Foundations
     - Relic
@@ -387,7 +387,7 @@
 - id: OATH-R33-NF
   meta:
     defense: 1
-  name: Wine of Welcome
+  name: Wine of Welcome (NF)
   tags:
     - New Foundations
     - Relic
@@ -398,7 +398,7 @@
 - id: OATH-R34-NF
   meta:
     defense: 2
-  name: Whispering Stone
+  name: Whispering Stone (NF)
   tags:
     - New Foundations
     - Relic
@@ -410,7 +410,7 @@
 - id: OATH-R35-NF
   meta:
     defense: 2
-  name: Black Sword
+  name: Black Sword (NF)
   tags:
     - New Foundations
     - Relic
@@ -421,7 +421,7 @@
 - id: OATH-R36-NF
   meta:
     defense: 1
-  name: Barbed Net
+  name: Barbed Net (NF)
   tags:
     - New Foundations
     - Relic
@@ -431,7 +431,7 @@
 - id: OATH-R37-NF
   meta:
     defense: 2
-  name: Bag of Siegeworks
+  name: Bag of Siegeworks (NF)
   tags:
     - New Foundations
     - Relic
@@ -444,7 +444,7 @@
 - id: OATH-R38-NF
   meta:
     defense: 2
-  name: Secret Testament
+  name: Secret Testament (NF)
   tags:
     - New Foundations
     - Relic
@@ -457,7 +457,7 @@
 - id: OATH-R39-NF
   meta:
     defense: 1
-  name: Magic Carpet
+  name: Magic Carpet (NF)
   tags:
     - New Foundations
     - Relic
@@ -469,7 +469,7 @@
 - id: OATH-R40-NF
   meta:
     defense: 2
-  name: Yew Staff
+  name: Yew Staff (NF)
   tags:
     - New Foundations
     - Relic
@@ -479,7 +479,7 @@
 - id: OATH-R41-NF
   meta:
     defense: 1
-  name: Spiteful Mirror
+  name: Spiteful Mirror (NF)
   tags:
     - New Foundations
     - Relic
@@ -491,7 +491,7 @@
 - id: OATH-R42-NF
   meta:
     defense: 2
-  name: Weeping Banner
+  name: Weeping Banner (NF)
   tags:
     - New Foundations
     - Relic
@@ -504,7 +504,7 @@
 - id: OATH-R43-NF
   meta:
     defense: 1
-  name: Sigil of the Eye
+  name: Sigil of the Eye (NF)
   tags:
     - New Foundations
     - Relic
@@ -515,7 +515,7 @@
 - id: OATH-R44-NF
   meta:
     defense: 1
-  name: Sigil of the Heart
+  name: Sigil of the Heart (NF)
   tags:
     - New Foundations
     - Relic
@@ -526,7 +526,7 @@
 - id: OATH-R45-NF
   meta:
     defense: 1
-  name: Magic Waterskin
+  name: Magic Waterskin (NF)
   tags:
     - New Foundations
     - Relic
@@ -536,7 +536,7 @@
 - id: OATH-R46-NF
   meta:
     defense: 1
-  name: Demon Tail
+  name: Demon Tail (NF)
   tags:
     - New Foundations
     - Relic
@@ -546,7 +546,7 @@
 - id: OATH-R47-NF
   meta:
     defense: 2
-  name: Clay Rattle
+  name: Clay Rattle (NF)
   tags:
     - New Foundations
     - Relic
@@ -559,7 +559,7 @@
     your pawn at this site and end the action. _Do not burn favor, move pawn,
     etc._
   image: Keep (NF)
-  name: Keep
+  name: Keep (NF)
   tags:
     - New Foundations
     - Order
@@ -569,7 +569,7 @@
     **Action**: Gain `symbol:favor` `symbol:favor` `symbol:favor` `symbol:favor`
     from any favor bank or banks.
   image: Alchemist (NF)
-  name: Alchemist
+  name: Alchemist (NF)
   tags:
     - New Foundations
     - Arcane
@@ -578,7 +578,7 @@
     If you're an Exile and defeat another Exile, you may become a Citizen.
     _Follow the steps in the rules and end your Act Phase._
   image: Martial Culture (NF)
-  name: Martial Culture
+  name: Martial Culture (NF)
   tags:
     - New Foundations
     - Order
@@ -586,7 +586,7 @@
 - id: OATH-013-NF
   text: '**Action**: Draw a relic from the relic deck.'
   image: Tinker's Fair (NF)
-  name: Tinker's Fair
+  name: Tinker's Fair (NF)
   tags:
     - New Foundations
     - Hearth
@@ -595,7 +595,7 @@
     +4 `symbol:dicer` if the defender rules an `symbol:suit-order` card _(even
     an adviser)_.
   image: Disgraced Captain (NF)
-  name: Disgraced Captain
+  name: Disgraced Captain (NF)
   tags:
     - New Foundations
     - Discord
@@ -605,7 +605,7 @@
     If you're victorious in a raid, burn all `symbol:secret` on the defender's
     board except their last `symbol:secret`.
   image: Book Burning (NF)
-  name: Book Burning
+  name: Book Burning (NF)
   tags:
     - New Foundations
     - Discord
@@ -616,7 +616,7 @@
     `symbol:secret` and place them on the banner along with any other
     `symbol:secret` you're placing _(even none)_.
   image: Magician's Code (NF)
-  name: Magician's Code
+  name: Magician's Code (NF)
   tags:
     - New Foundations
     - Arcane
@@ -626,7 +626,7 @@
     **Action**: Guess the name of a facedown Vision _(even the Conspiracy)_ held
     by a player whose pawn is at your site. If you are correct, discard it.
   image: Inquisitor (NF)
-  name: Inquisitor
+  name: Inquisitor (NF)
   tags:
     - New Foundations
     - Arcane
@@ -635,7 +635,7 @@
     **When Played**, if you're an Exile, you may become a Citizen. _Follow the
     steps in the rules and end your Act Phase._
   image: Long-Lost Heir (NF)
-  name: Long-Lost Heir
+  name: Long-Lost Heir (NF)
   tags:
     - New Foundations
     - Beast
@@ -644,14 +644,14 @@
     **Action**: Move all `symbol:favor` from any one favor bank to the
     `symbol:suit-hearth` bank.
   image: Memory of Home (NF)
-  name: Memory of Home
+  name: Memory of Home (NF)
   tags:
     - New Foundations
     - Hearth
 - id: OATH-058-NF
   text: '**Action**: Place an enemy pawn at your site onto any other site.'
   image: Quick Exit (NF)
-  name: Quick Exit
+  name: Quick Exit (NF)
   tags:
     - New Foundations
     - Arcane
@@ -661,7 +661,7 @@
     on cards)_, you may take a random relic from the Reliquary and become a
     Citizen. _Follow the steps in the rules and end your Act Phase._
   image: Bewitch (NF)
-  name: Bewitch
+  name: Bewitch (NF)
   tags:
     - New Foundations
     - Arcane
@@ -670,7 +670,7 @@
     You **cannot** challenge the Darkest Secret. Whenever an enemy burns
     `symbol:secretb`, you take those secrets.
   image: Vow of Silence (NF)
-  name: Vow of Silence
+  name: Vow of Silence (NF)
   tags:
     - New Foundations
     - Arcane
@@ -679,7 +679,7 @@
     Enemies of Forgotten Vault's ruler **cannot** target relics held by its
     ruler. If ruled by Empire, all Imperials have this power.
   image: Forgotten Vault (NF)
-  name: Forgotten Vault
+  name: Forgotten Vault (NF)
   tags:
     - New Foundations
     - Arcane
@@ -690,7 +690,7 @@
     `symbol:favorb`, you take that favor unless it was burned by a raid
     targeting you.
   image: Vow of Division (NF)
-  name: Vow of Division
+  name: Vow of Division (NF)
   tags:
     - New Foundations
     - Discord
@@ -700,7 +700,7 @@
     random relic from the Reliquary and become a Citizen. _Follow the steps in
     the rules and end your Act Phase._
   image: Royal Ambitions (NF)
-  name: Royal Ambitions
+  name: Royal Ambitions (NF)
   tags:
     - New Foundations
     - Discord
@@ -709,7 +709,7 @@
     If you're victorious in a conquest, bury all denizens at one site you
     targeted.
   image: Salt the Earth (NF)
-  name: Salt the Earth
+  name: Salt the Earth (NF)
   tags:
     - New Foundations
     - Discord
@@ -719,7 +719,7 @@
     **When Played**, discard all denizens at sites in this region. Burn the same
     number of `symbol:favor` from the People's Favor.
   image: Riots (NF)
-  name: Riots
+  name: Riots (NF)
   tags:
     - New Foundations
     - Discord
@@ -729,7 +729,7 @@
     site. Roll `symbol:diceb` equal to its defense (min 1). If you roll no
     `symbol:shield`, take it.
   image: Relic Thief (NF)
-  name: Relic Thief
+  name: Relic Thief (NF)
   tags:
     - New Foundations
     - Discord
@@ -738,7 +738,7 @@
     After an enemy plays an adviser facedown _(including a Vision)_, gain
     `symbol:favor` from the `symbol:suit-discord` bank.
   image: Gossip (NF)
-  name: Gossip
+  name: Gossip (NF)
   tags:
     - New Foundations
     - Discord
@@ -747,7 +747,7 @@
   text: >-
     **When Played**, kill one warband at each site not ruled by the bandits.
   image: Bandit Chief (NF)
-  name: Bandit Chief
+  name: Bandit Chief (NF)
   tags:
     - New Foundations
     - Discord
@@ -756,7 +756,7 @@
     After trading with a `symbol:suit-discord` card, burn `symbol:favorb` from
     any player board.
   image: Defame (NF)
-  name: Defame
+  name: Defame (NF)
   tags:
     - New Foundations
     - Discord
@@ -766,14 +766,14 @@
     **When Played**, return all `symbol:favor` and `symbol:secret`, and flip
     your `symbol:secret`, as in the Rest Phase.
   image: A Round of Ale (NF)
-  name: A Round of Ale
+  name: A Round of Ale (NF)
   tags:
     - New Foundations
     - Hearth
 - id: OATH-139-NF
   text: '**Action**: Bury a relic you hold to gain `symbol:secret`.'
   image: Relic Breaker (NF)
-  name: Relic Breaker
+  name: Relic Breaker (NF)
   tags:
     - New Foundations
     - Hearth
@@ -782,7 +782,7 @@
     **Action**: If you have an adviser matching a card at this site, replace all
     warbands on this site with your warbands. Remove any that can't be replaced.
   image: Ballot Box (NF)
-  name: Ballot Box
+  name: Ballot Box (NF)
   tags:
     - New Foundations
     - Hearth
@@ -792,7 +792,7 @@
     warbands from site to their board, and new ruler moves warbands to site from
     their board.
   image: Deed Writer (NF)
-  name: Deed Writer
+  name: Deed Writer (NF)
   tags:
     - New Foundations
     - Hearth
@@ -802,7 +802,7 @@
     take a random relic from the Reliquary and become a Citizen. _Follow the
     steps in the rules and end your Act Phase._
   image: Ancient Pact (NF)
-  name: Ancient Pact
+  name: Ancient Pact (NF)
   tags:
     - New Foundations
     - Nomad
@@ -811,14 +811,14 @@
     You have no adviser limit but may only have `symbol:suit-nomad`
     advisers—bury other advisers you have or would gain.
   image: Family Wagon (NF)
-  name: Family Wagon
+  name: Family Wagon (NF)
   tags:
     - New Foundations
     - Nomad
 - id: OATH-173-NF
   text: After recovering a relic, gain 2 Supply.
   image: Relic Worship (NF)
-  name: Relic Worship
+  name: Relic Worship (NF)
   tags:
     - New Foundations
     - Nomad
@@ -829,7 +829,7 @@
     sites you rule in your region to your board or vice versa. You may only have
     `symbol:suit-beast` advisers—bury other advisers you have or would gain.
   image: Vow of Union (NF)
-  name: Vow of Union
+  name: Vow of Union (NF)
   tags:
     - New Foundations
     - Beast
@@ -841,7 +841,7 @@
     **cannot** be used for non-persistent powers or placing
     `symbol:favor`/`symbol:secret`.
   image: Giant Python (NF)
-  name: Giant Python
+  name: Giant Python (NF)
   tags:
     - New Foundations
     - Beast
@@ -851,7 +851,7 @@
     `symbol:favor`/`symbol:secret` on `symbol:suit-beast` cards or use their
     non-persistent powers.
   image: Forest Council (NF)
-  name: Forest Council
+  name: Forest Council (NF)
   tags:
     - New Foundations
     - Beast
@@ -860,7 +860,7 @@
     You may put all of the cards you discard on the top or bottom of any one
     discard pile _(even your region's)_.
   image: Bracken (NF)
-  name: Bracken
+  name: Bracken (NF)
   tags:
     - New Foundations
     - Beast
@@ -874,7 +874,7 @@
     shown by its right ribbon. Return the Conspiracy to the box.
   image: Conspiracy (NF)
   imageClass: rotated
-  name: Conspiracy
+  name: Conspiracy (NF)
   tags:
     - New Foundations
     - Vision
@@ -885,7 +885,7 @@
     Secret** and at least three Visions have been drawn from the world deck.
   image: Vision of Faith (NF)
   imageClass: rotated
-  name: Vision of Faith
+  name: Vision of Faith (NF)
   tags:
     - New Foundations
     - Vision
@@ -896,7 +896,7 @@
     Favor** and at least three Visions have been drawn from the world deck.
   image: Vision of Rebellion (NF)
   imageClass: rotated
-  name: Vision of Rebellion
+  name: Vision of Rebellion (NF)
   tags:
     - New Foundations
     - Vision
@@ -907,7 +907,7 @@
     relics** and at least three Visions have been drawn from the world deck.
   image: Vision of Sanctuary (NF)
   imageClass: rotated
-  name: Vision of Sanctuary
+  name: Vision of Sanctuary (NF)
   tags:
     - New Foundations
     - Vision
@@ -918,7 +918,7 @@
     sites** and at least three Visions have been drawn from the world deck.
   image: Vision of Conquest (NF)
   imageClass: rotated
-  name: Vision of Conquest
+  name: Vision of Conquest (NF)
   tags:
     - New Foundations
     - Vision
@@ -1609,7 +1609,7 @@
   meta:
     cardcapacity: 2
     defense: 2
-  name: Fair Isle
+  name: Fair Isle (NF)
   tags:
     - New Foundations
     - Site
@@ -1627,7 +1627,7 @@
   meta:
     cardcapacity: 0
     defense: 2
-  name: Sunken Isles
+  name: Sunken Isles (NF)
   tags:
     - New Foundations
     - Site
@@ -1647,7 +1647,7 @@
   meta:
     cardcapacity: 2
     defense: 1
-  name: Tidal Marshes
+  name: Tidal Marshes (NF)
   tags:
     - New Foundations
     - Site
@@ -1664,7 +1664,7 @@
   meta:
     cardcapacity: 1
     defense: 2
-  name: Broken Peaks
+  name: Broken Peaks (NF)
   tags:
     - New Foundations
     - Site
@@ -1679,7 +1679,7 @@
   meta:
     cardcapacity: 3
     defense: 1
-  name: Standing Stones
+  name: Standing Stones (NF)
   tags:
     - New Foundations
     - Site
@@ -1693,7 +1693,7 @@
   meta:
     cardcapacity: 2
     defense: 2
-  name: Hidden Place
+  name: Hidden Place (NF)
   tags:
     - New Foundations
     - Site
@@ -1708,7 +1708,7 @@
   meta:
     cardcapacity: 1
     defense: 1
-  name: Solitary Pillar
+  name: Solitary Pillar (NF)
   tags:
     - New Foundations
     - Site
@@ -1719,7 +1719,7 @@
   meta:
     cardcapacity: 3
     defense: 2
-  name: Ancient City
+  name: Ancient City (NF)
   tags:
     - New Foundations
     - Site
@@ -1735,7 +1735,7 @@
   meta:
     cardcapacity: 3
     defense: 1
-  name: Painted Towers
+  name: Painted Towers (NF)
   tags:
     - New Foundations
     - Site
@@ -1749,7 +1749,7 @@
   meta:
     cardcapacity: 1
     defense: 1
-  name: Desolate Shore
+  name: Desolate Shore (NF)
   tags:
     - New Foundations
     - Site
@@ -1763,7 +1763,7 @@
   meta:
     cardcapacity: 3
     defense: 1
-  name: Deep Woods
+  name: Deep Woods (NF)
   tags:
     - New Foundations
     - Site
@@ -1777,7 +1777,7 @@
   meta:
     cardcapacity: 1
     defense: 2
-  name: Narrow Pass
+  name: Narrow Pass (NF)
   tags:
     - New Foundations
     - Site
@@ -1794,7 +1794,7 @@
   meta:
     cardcapacity: 1
     defense: 1
-  name: Mines
+  name: Mines (NF)
   tags:
     - New Foundations
     - Site
@@ -1809,7 +1809,7 @@
   meta:
     cardcapacity: 2
     defense: 0
-  name: Salt Flats
+  name: Salt Flats (NF)
   tags:
     - New Foundations
     - Site
@@ -1820,7 +1820,7 @@
   meta:
     cardcapacity: 3
     defense: 0
-  name: Steppe
+  name: Steppe (NF)
   tags:
     - New Foundations
     - Site
@@ -1834,7 +1834,7 @@
   meta:
     cardcapacity: 3
     defense: 1
-  name: Golden Valley
+  name: Golden Valley (NF)
   tags:
     - New Foundations
     - Site
@@ -1848,7 +1848,7 @@
   meta:
     cardcapacity: 2
     defense: 1
-  name: Riverbank
+  name: Riverbank (NF)
   tags:
     - New Foundations
     - Site
@@ -1861,7 +1861,7 @@
   meta:
     cardcapacity: 2
     defense: 1
-  name: Headwaters
+  name: Headwaters (NF)
   tags:
     - New Foundations
     - Site
@@ -1879,7 +1879,7 @@
   meta:
     cardcapacity: 1
     defense: 1
-  name: Buried Giant
+  name: Buried Giant (NF)
   tags:
     - New Foundations
     - Site
@@ -1890,7 +1890,7 @@
   meta:
     cardcapacity: 3
     defense: 1
-  name: Great Slum
+  name: Great Slum (NF)
   tags:
     - New Foundations
     - Site
@@ -1904,7 +1904,7 @@
   meta:
     cardcapacity: 2
     defense: 1
-  name: Green Shore
+  name: Green Shore (NF)
   tags:
     - New Foundations
     - Site
@@ -1918,7 +1918,7 @@
   meta:
     cardcapacity: 1
     defense: 1
-  name: Dunes
+  name: Dunes (NF)
   tags:
     - New Foundations
     - Site
@@ -1929,7 +1929,7 @@
   meta:
     cardcapacity: 1
     defense: 2
-  name: Rocky Coast
+  name: Rocky Coast (NF)
   tags:
     - New Foundations
     - Site
@@ -1943,7 +1943,7 @@
   meta:
     cardcapacity: 1
     defense: 2
-  name: Shrouded Woods
+  name: Shrouded Woods (NF)
   tags:
     - New Foundations
     - Site
@@ -1956,7 +1956,7 @@
     target the People's Favor. If ruled by Empire, all Imperials have this
     power.
   image: Hall of Debate (NF)
-  name: Hall of Debate
+  name: Hall of Debate (NF)
   flipSide: OATH-E01b-NF
   tags:
     - New Foundations
@@ -1971,7 +1971,7 @@
     shared bank—players **cannot** start with it. Burn `symbol:favorb` from each
     favor bank.
   image: Hall of Mockery (NF)
-  name: Hall of Mockery
+  name: Hall of Mockery (NF)
   flipSide: OATH-E01a-NF
   tags:
     - New Foundations
@@ -1983,7 +1983,7 @@
     **Setup (End) / When Explored**: Place `symbol:favor` on this site for each
     denizen _(including this)_ in this region. _Players may take it in Wake._
   image: Great Market (NF)
-  name: Great Market
+  name: Great Market (NF)
   flipSide: OATH-E02b-NF
   tags:
     - New Foundations
@@ -1996,7 +1996,7 @@
     the bandits. _(Players may take it in Wake.)_ Burn `symbol:favorb` from each
     favor bank.
   image: Bandit Market (NF)
-  name: Bandit Market
+  name: Bandit Market (NF)
   flipSide: OATH-E02a-NF
   tags:
     - New Foundations
@@ -2006,7 +2006,7 @@
 - id: OATH-E03a-NF
   text: Act as if this site is a Coast along with its other powers.
   image: Grand Canal (NF)
-  name: Grand Canal
+  name: Grand Canal (NF)
   flipSide: OATH-E03b-NF
   tags:
     - New Foundations
@@ -2017,7 +2017,7 @@
 - id: OATH-E03b-NF
   text: Act as if this site is an Island along with its other powers.
   image: Lost Lagoon (NF)
-  name: Lost Lagoon
+  name: Lost Lagoon (NF)
   flipSide: OATH-E03a-NF
   tags:
     - New Foundations
@@ -2030,7 +2030,7 @@
     **Chronicle (Sun)**: Players with a pawn at this site do not discard their
     dormant legacies.
   image: Stone Baths (NF)
-  name: Stone Baths
+  name: Stone Baths (NF)
   flipSide: OATH-E04b-NF
   tags:
     - New Foundations
@@ -2042,7 +2042,7 @@
     **Chronicle (Sun)**: Exiles at this site don't need to meet the goals of
     their active legacies to keep them active.
   image: Ruined Baths (NF)
-  name: Ruined Baths
+  name: Ruined Baths (NF)
   flipSide: OATH-E04a-NF
   tags:
     - New Foundations
@@ -2055,7 +2055,7 @@
     of your legacies _(even dormant)_ to draw 2 dormant legacies and activate
     one.
   image: Amber Doors (NF)
-  name: Amber Doors
+  name: Amber Doors (NF)
   flipSide: OATH-E05b-NF
   tags:
     - New Foundations
@@ -2067,7 +2067,7 @@
     **Setup / When Explored**: If you place your pawn here, draw a dormant
     legacy, then discard one you hold.
   image: Lost Doors (NF)
-  name: Lost Doors
+  name: Lost Doors (NF)
   flipSide: OATH-E05a-NF
   tags:
     - New Foundations
@@ -2079,7 +2079,7 @@
     **Setup / When Explored**: If you place your pawn here, draw a relic from
     the relic deck and take it facedown.
   image: Great Forge (NF)
-  name: Great Forge
+  name: Great Forge (NF)
   flipSide: OATH-E06b-NF
   tags:
     - New Foundations
@@ -2091,7 +2091,7 @@
     **Setup / When Explored**: If you place your pawn here, discard all relics
     at sites in this region.
   image: Broken Forge (NF)
-  name: Broken Forge
+  name: Broken Forge (NF)
   flipSide: OATH-E06a-NF
   tags:
     - New Foundations
@@ -2103,7 +2103,7 @@
     Whenever this card's ruler would discard a `symbol:suit-nomad` card from a
     power, they may instead pay `symbol:favor` to the `symbol:suit-nomad` bank.
   image: Wild Pastures (NF)
-  name: Wild Pastures
+  name: Wild Pastures (NF)
   flipSide: OATH-E07b-NF
   tags:
     - New Foundations
@@ -2115,7 +2115,7 @@
     **Chronicle (Start of Throne)**: Bury all `symbol:suit-nomad` cards on the
     map unless the winner rules this card.
   image: Blasted Pastures (NF)
-  name: Blasted Pastures
+  name: Blasted Pastures (NF)
   flipSide: OATH-E07a-NF
   tags:
     - New Foundations
@@ -2127,7 +2127,7 @@
     Players **cannot** play Visions, except the Conspiracy, faceup unless their
     pawn is at this site.
   image: Sacred Ground (NF)
-  name: Sacred Ground
+  name: Sacred Ground (NF)
   flipSide: OATH-E08b-NF
   tags:
     - New Foundations
@@ -2140,7 +2140,7 @@
     If an Exile reveals a Vision while their pawn is at this site, they do not
     discard their current revealed Vision. _They can have any number!_
   image: Desecrated Ground (NF)
-  name: Desecrated Ground
+  name: Desecrated Ground (NF)
   flipSide: OATH-E08a-NF
   tags:
     - New Foundations
@@ -2150,7 +2150,7 @@
 - id: OATH-E09a-NF
   text: '**Action**: Move this card to another site, then place your pawn there.'
   image: Giant's Path (NF)
-  name: Giant's Path
+  name: Giant's Path (NF)
   flipSide: OATH-E09b-NF
   tags:
     - New Foundations
@@ -2162,7 +2162,7 @@
     **Action**: Bury a denizen at any site _(even here)_. If you do, move
     Giant's Rampage to that site and place your pawn there.
   image: Giant's Rampage (NF)
-  name: Giant's Rampage
+  name: Giant's Rampage (NF)
   flipSide: OATH-E09a-NF
   tags:
     - New Foundations
@@ -2174,7 +2174,7 @@
     **Action**: Draw a card from the bottom of the world deck and play it to
     your advisers or discard it, as if you searched.
   image: Temple of Ancestors (NF)
-  name: Temple of Ancestors
+  name: Temple of Ancestors (NF)
   flipSide: OATH-E10b-NF
   tags:
     - New Foundations
@@ -2187,7 +2187,7 @@
     `symbol:secretb`. If you do and then win the game, score double the legacy
     points and take rule of all bandit sites.
   image: Ruined Temple (NF)
-  name: Ruined Temple
+  name: Ruined Temple (NF)
   flipSide: OATH-E10a-NF
   tags:
     - New Foundations
@@ -2200,7 +2200,7 @@
     discard pile, then add the bottom 3 denizens from that pile to the
     Dispossessed.
   image: Great Spire (NF)
-  name: Great Spire
+  name: Great Spire (NF)
   flipSide: OATH-E11b-NF
   tags:
     - New Foundations
@@ -2213,7 +2213,7 @@
     with the same number of random cards from the Dispossessed. Then, shuffle
     these cards with any Visions in this pile.
   image: Fallen Spire (NF)
-  name: Fallen Spire
+  name: Fallen Spire (NF)
   flipSide: OATH-E11a-NF
   tags:
     - New Foundations
@@ -2225,7 +2225,7 @@
     **Action**: Advance the round marker once, if possible. _Do not roll
     `symbol:dicep`. This cannot end the game._
   image: Great Clock (NF)
-  name: Great Clock
+  name: Great Clock (NF)
   flipSide: OATH-E12b-NF
   tags:
     - New Foundations
@@ -2237,7 +2237,7 @@
     **Setup (End) / When Explored**: Advance the round marker once, if possible.
     _Do not roll `symbol:dicep`. This cannot end the game._
   image: Broken Clock (NF)
-  name: Broken Clock
+  name: Broken Clock (NF)
   flipSide: OATH-E12a-NF
   tags:
     - New Foundations
@@ -2249,7 +2249,7 @@
     **Action**: Peek at all relics in this region, then swap one with a relic
     you have, placing it facedown.
   image: Underground Library (NF)
-  name: Underground Library
+  name: Underground Library (NF)
   flipSide: OATH-E13b-NF
   tags:
     - New Foundations
@@ -2261,7 +2261,7 @@
     If your pawn is at this site, you may recover the top card of the relic deck
     instead. Its recover difficulty is 5.
   image: Drowned Library (NF)
-  name: Drowned Library
+  name: Drowned Library (NF)
   flipSide: OATH-E13a-NF
   tags:
     - New Foundations
@@ -2274,7 +2274,7 @@
     **Action**: If your pawn is at this site, place your pawn on another site.
     If your pawn is not at this site, place your pawn at this site.
   image: Stone Portal (NF)
-  name: Stone Portal
+  name: Stone Portal (NF)
   flipSide: OATH-E14b-NF
   tags:
     - New Foundations
@@ -2287,7 +2287,7 @@
     pawn that many sites Hinterward. The bottom Hinterland site wraps to the top
     Cradle site.
   image: Shattered Portal (NF)
-  name: Shattered Portal
+  name: Shattered Portal (NF)
   flipSide: OATH-E14a-NF
   tags:
     - New Foundations
@@ -2299,7 +2299,7 @@
     **Wake**: If your pawn is at this site, refresh your Supply marker to the
     leftmost space.
   image: Marble Fountains (NF)
-  name: Marble Fountains
+  name: Marble Fountains (NF)
   flipSide: OATH-E15b-NF
   tags:
     - New Foundations
@@ -2312,7 +2312,7 @@
     Supply equal to the total `symbol:shield` rolled. If you roll none, end your
     Act Phase.
   image: Murky Fountain (NF)
-  name: Murky Fountain
+  name: Murky Fountain (NF)
   flipSide: OATH-E15a-NF
   tags:
     - New Foundations
@@ -2324,7 +2324,7 @@
     Enemies of this card's ruler **cannot** discard denizens from sites ruled by
     this card's ruler. _They can still be buried._
   image: Hall of Ministers (NF)
-  name: Hall of Ministers
+  name: Hall of Ministers (NF)
   flipSide: OATH-E16b-NF
   tags:
     - New Foundations
@@ -2334,7 +2334,7 @@
 - id: OATH-E16b-NF
   text: '**Chronicle**: Ruined edifices ruled by bandits are not discarded.'
   image: Hall of Bandits (NF)
-  name: Hall of Bandits
+  name: Hall of Bandits (NF)
   flipSide: OATH-E16a-NF
   tags:
     - New Foundations
@@ -2346,7 +2346,7 @@
     Enemies of this card's ruler **cannot** recover relics at sites ruled by
     this card's ruler.
   image: Relic Patrols (NF)
-  name: Relic Patrols
+  name: Relic Patrols (NF)
   flipSide: OATH-E17b-NF
   tags:
     - New Foundations
@@ -2359,7 +2359,7 @@
     Enemies of this card's ruler **cannot** recover relics at sites ruled by
     bandits.
   image: Bandit Patrols (NF)
-  name: Bandit Patrols
+  name: Bandit Patrols (NF)
   flipSide: OATH-E17a-NF
   tags:
     - New Foundations
@@ -2373,7 +2373,7 @@
     target the Darkest Secret. If ruled by Empire, all Imperials have this
     power.
   image: Tome Guardians (NF)
-  name: Tome Guardians
+  name: Tome Guardians (NF)
   flipSide: OATH-E18b-NF
   tags:
     - New Foundations
@@ -2387,7 +2387,7 @@
     `symbol:secret` on the Darkest Secret and move it to the shared bank.
     Players **cannot** start with it.
   image: Lost Guardians (NF)
-  name: Lost Guardians
+  name: Lost Guardians (NF)
   flipSide: OATH-E18a-NF
   tags:
     - New Foundations
@@ -2399,7 +2399,7 @@
     **When Negotiating**: You may negotiate with players at any sites. Players
     may make binding promises, even into later games.
   image: The Tribunal (NF)
-  name: The Tribunal
+  name: The Tribunal (NF)
   flipSide: OATH-E19b-NF
   tags:
     - New Foundations
@@ -2411,7 +2411,7 @@
     **When Negotiating**: Players at sites ruled by bandits may negotiate with
     each other.
   image: Bandit Tribunal (NF)
-  name: Bandit Tribunal
+  name: Bandit Tribunal (NF)
   flipSide: OATH-E19a-NF
   tags:
     - New Foundations
@@ -2421,7 +2421,7 @@
 - id: OATH-E20a-NF
   text: +2 `symbol:diceb` if your pawn is at this site or this site is targeted.
   image: Towering Rampart (NF)
-  name: Towering Rampart
+  name: Towering Rampart (NF)
   flipSide: OATH-E20b-NF
   tags:
     - New Foundations
@@ -2432,7 +2432,7 @@
 - id: OATH-E20b-NF
   text: +1 `symbol:diceb` if this site is targeted.
   image: Cracked Rampart (NF)
-  name: Cracked Rampart
+  name: Cracked Rampart (NF)
   flipSide: OATH-E20a-NF
   tags:
     - New Foundations
@@ -2445,7 +2445,7 @@
     **When Negotiating**: Players may give, receive, and swap advisers. _Players
     must follow their adviser limits._
   image: Festival District (NF)
-  name: Festival District
+  name: Festival District (NF)
   flipSide: OATH-E21b-NF
   tags:
     - New Foundations
@@ -2457,7 +2457,7 @@
     **Action**: Discard any number of facedown advisers you have. Draw that many
     denizens from the bottom of the world deck as facedown advisers.
   image: Squalid District (NF)
-  name: Squalid District
+  name: Squalid District (NF)
   flipSide: OATH-E21a-NF
   tags:
     - New Foundations
@@ -2467,7 +2467,7 @@
 - id: OATH-E22a-NF
   text: '**Setup / When Explored**: If you place your pawn here, gain three warbands.'
   image: Proving Grounds (NF)
-  name: Proving Grounds
+  name: Proving Grounds (NF)
   flipSide: OATH-E22b-NF
   tags:
     - New Foundations
@@ -2477,7 +2477,7 @@
 - id: OATH-E22b-NF
   text: '**Setup (End) / When Explored**: Discard all other denizens in this region.'
   image: Empty Grounds (NF)
-  name: Empty Grounds
+  name: Empty Grounds (NF)
   flipSide: OATH-E22a-NF
   tags:
     - New Foundations
@@ -2489,7 +2489,7 @@
     If you're victorious in a raid, place the defender's pawn on this site, and
     they lose 2 Supply.
   image: Spiral Castle (NF)
-  name: Spiral Castle
+  name: Spiral Castle (NF)
   flipSide: OATH-E23b-NF
   tags:
     - New Foundations
@@ -2502,7 +2502,7 @@
     If you're victorious, place the attacker's pawn on this site, and they lose
     2 Supply. _Bandits will use this._
   image: Spiral Dungeons (NF)
-  name: Spiral Dungeons
+  name: Spiral Dungeons (NF)
   flipSide: OATH-E23a-NF
   tags:
     - New Foundations
@@ -2515,7 +2515,7 @@
     If you travel to this site and do not rule this card, you **must** kill 2
     warbands on your board if able.
   image: Boiling Lake (NF)
-  name: Boiling Lake
+  name: Boiling Lake (NF)
   flipSide: OATH-E24b-NF
   tags:
     - New Foundations
@@ -2528,7 +2528,7 @@
     Cards **cannot** be played to this site. _This card can still be discarded
     by People's Favor, etc._
   image: Still Boiling Lake (NF)
-  name: Still Boiling Lake
+  name: Still Boiling Lake (NF)
   flipSide: OATH-E24a-NF
   tags:
     - New Foundations
@@ -2540,7 +2540,7 @@
     **Wake**: If your pawn is at this site and its ruler consents, place your
     pawn on any site.
   image: Hidden Passages (NF)
-  name: Hidden Passages
+  name: Hidden Passages (NF)
   flipSide: OATH-E25b-NF
   tags:
     - New Foundations
@@ -2552,7 +2552,7 @@
     **Wake**: If your pawn is at this site, you may burn `symbol:favorb` to
     place your pawn on any site.
   image: Sinking Passages (NF)
-  name: Sinking Passages
+  name: Sinking Passages (NF)
   flipSide: OATH-E25a-NF
   tags:
     - New Foundations
@@ -2564,7 +2564,7 @@
     When trading at this site for `symbol:secret`, you **must** place both
     `symbol:favor` on the card you are trading with _(instead of burning one)_.
   image: Hallowed Spring (NF)
-  name: Hallowed Spring
+  name: Hallowed Spring (NF)
   flipSide: OATH-E26b-NF
   tags:
     - New Foundations
@@ -2577,7 +2577,7 @@
     **Chronicle (Throne)**: This site's ruler may secretly keep a relic they
     have facedown. They start the next game with it.
   image: Hiding Place (NF)
-  name: Hiding Place
+  name: Hiding Place (NF)
   flipSide: OATH-E26a-NF
   tags:
     - New Foundations
@@ -2589,7 +2589,7 @@
     You may challenge a banner held by an enemy even if your pawn is not at
     their pawn's site.
   image: School of Vines (NF)
-  name: School of Vines
+  name: School of Vines (NF)
   flipSide: OATH-E27b-NF
   tags:
     - New Foundations
@@ -2602,7 +2602,7 @@
     **Setup (End) / When Explored**: Place `symbol:secret` on each site ruled by
     the bandits. _Players may take it in Wake._
   image: Ruined School (NF)
-  name: Ruined School
+  name: Ruined School (NF)
   flipSide: OATH-E27a-NF
   tags:
     - New Foundations
@@ -2615,7 +2615,7 @@
     challenge or a raid campaign. If ruled by Empire, all Imperials have this
     power.
   image: Oaken Fortress (NF)
-  name: Oaken Fortress
+  name: Oaken Fortress (NF)
   flipSide: OATH-E28b-NF
   tags:
     - New Foundations
@@ -2627,7 +2627,7 @@
     Players at this site **cannot** be targeted by a challenge or a raid
     campaign, unless the targeting player has a `symbol:suit-beast` adviser.
   image: Rotting Fortress (NF)
-  name: Rotting Fortress
+  name: Rotting Fortress (NF)
   flipSide: OATH-E28a-NF
   tags:
     - New Foundations
@@ -2639,7 +2639,7 @@
     Enemies of this card's ruler **cannot** travel to this site unless they have
     a `symbol:suit-beast` adviser.
   image: Forbidden Forest (NF)
-  name: Forbidden Forest
+  name: Forbidden Forest (NF)
   flipSide: OATH-E29b-NF
   tags:
     - New Foundations
@@ -2651,7 +2651,7 @@
     Imperials **cannot** place `symbol:favor`/`symbol:secret` on denizens ruled
     by bandits or use their non-persistent powers.
   image: Bandit Forest (NF)
-  name: Bandit Forest
+  name: Bandit Forest (NF)
   flipSide: OATH-E29a-NF
   tags:
     - New Foundations
@@ -2675,7 +2675,7 @@
 
     **Now, flip this card over.**
   image: The Sun (NF)
-  name: Chronicle - The Sun
+  name: Chronicle - The Sun (NF)
   flipSide: OATH-CHRON01b-NF
   tags:
     - New Foundations
@@ -2695,7 +2695,7 @@
     task to anyone. **If a player holds both the Beacon and the World tasks,**
     they must give away one of them.
   image: The Sun - Back (NF)
-  name: Chronicle - The Sun (Back)
+  name: Chronicle - The Sun (Back) (NF)
   flipSide: OATH-CHRON01a-NF
   tags:
     - New Foundations
@@ -2722,7 +2722,7 @@
 
     **Now, flip this card over.**
   image: The Throne (NF)
-  name: Chronicle - The Throne
+  name: Chronicle - The Throne (NF)
   flipSide: OATH-CHRON02b-NF
   tags:
     - New Foundations
@@ -2744,7 +2744,7 @@
     Otherwise, choose an Oathkeeper goal that is different from the current
     one.
   image: The Throne - Back (NF)
-  name: Chronicle - The Throne (Back)
+  name: Chronicle - The Throne (Back) (NF)
   flipSide: OATH-CHRON02a-NF
   tags:
     - New Foundations
@@ -2764,7 +2764,7 @@
     the other two stacks, 6 denizens in total, behind the Dispossessed divider
     in the box.
   image: The World (NF)
-  name: Chronicle - The World
+  name: Chronicle - The World (NF)
   tags:
     - New Foundations
     - Chronicle
@@ -2781,7 +2781,7 @@
     **Shape Foundation.** You may flip one altered foundation to its normal
     side unless an active legacy is altering it.
   image: The Beacon (NF)
-  name: Chronicle - The Beacon
+  name: Chronicle - The Beacon (NF)
   tags:
     - New Foundations
     - Chronicle
@@ -2805,14 +2805,14 @@
     Return Visions and the denizen stack from the map to the World Deck section
     in the box.
   image: The Stars (NF)
-  name: Chronicle - The Stars
+  name: Chronicle - The Stars (NF)
   tags:
     - New Foundations
     - Chronicle
 - id: OATH-B01a-NF
   meta:
     defense: 3
-  name: Banner of the People's Favor - Mob
+  name: Banner of the People's Favor - Mob (NF)
   flipSide: OATH-B01b-NF
   tags:
     - New Foundations
@@ -2833,7 +2833,7 @@
 - id: OATH-B01b-NF
   meta:
     defense: 3
-  name: Banner of the People's Favor - Grand Council
+  name: Banner of the People's Favor - Grand Council (NF)
   flipSide: OATH-B01a-NF
   tags:
     - New Foundations
@@ -2857,7 +2857,7 @@
 - id: OATH-B02a-NF
   meta:
     defense: 3
-  name: Banner of the Darkest Secret - Wandering Flame
+  name: Banner of the Darkest Secret - Wandering Flame (NF)
   flipSide: OATH-B02b-NF
   tags:
     - New Foundations
@@ -2882,7 +2882,7 @@
 - id: OATH-B02b-NF
   meta:
     defense: 3
-  name: Banner of the Darkest Secret - Festival
+  name: Banner of the Darkest Secret - Festival (NF)
   flipSide: OATH-B02a-NF
   tags:
     - New Foundations
@@ -2908,7 +2908,7 @@
 - id: OATH-GrandScepter-NF
   meta:
     defense: 3
-  name: The Grand Scepter
+  name: The Grand Scepter (NF)
   tags:
     - New Foundations
     - Relic
@@ -2925,7 +2925,7 @@
     Oathkeeper of Devotion holds the Darkest Secret. Successor to the Chancellor
     holds the Grand Scepter.
   image: Devotion Oath (NF)
-  name: Oathkeeper of Devotion
+  name: Oathkeeper of Devotion (NF)
   tags:
     - New Foundations
     - Oathkeeper Goal
@@ -2934,7 +2934,7 @@
     Oathkeeper of Protection holds the most relics. Successor to the Chancellor
     holds the People's Favor.
   image: Protection Oath (NF)
-  name: Oathkeeper of Protection
+  name: Oathkeeper of Protection (NF)
   tags:
     - New Foundations
     - Oathkeeper Goal
@@ -2943,7 +2943,7 @@
     Oathkeeper of Supremacy rules the most sites. Successor to the Chancellor
     holds more relics than each Imperial.
   image: Supremacy Oath (NF)
-  name: Oathkeeper of Supremacy
+  name: Oathkeeper of Supremacy (NF)
   tags:
     - New Foundations
     - Oathkeeper Goal
@@ -2952,7 +2952,7 @@
     Oathkeeper of the People holds the People's Favor. Successor to the
     Chancellor holds the Darkest Secret.
   image: People Oath (NF)
-  name: Oathkeeper of the People
+  name: Oathkeeper of the People (NF)
   tags:
     - New Foundations
     - Oathkeeper Goal
