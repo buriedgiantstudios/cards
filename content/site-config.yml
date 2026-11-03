@@ -35,6 +35,7 @@ icons:
 
     Defense: bookmark-outline
     CardCapacity: bookmark-outline
+    Zeal: bookmark-outline
 
 colors:
   syntax:

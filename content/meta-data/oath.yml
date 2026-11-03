@@ -9,6 +9,10 @@ filters:
   - name: Card Capacity
     prop: cardcapacity
     type: number
+  
+  - name: Zeal
+    prop: zeal
+    type: number
 
 subproducts:
   - name: Oath Base Game
@@ -28,6 +32,13 @@ subproducts:
       
       Includes dozens of revised and improved denizens, six times as many edifices, twice as many relics, two new player colors, and a set of wooden bandits.
 
+  - name: Clockwork Adversaries
+    id: oath-clockwork
+    desc: >
+      Oath: Clockwork Adversaries and the Queen of Shadows is an expansion that introduces new modes of solo and cooperative play to the world of Oath. 
+
+      It can also be used to spice up multiplayer game nights. This expansion is compatible with both the base game and with Oath: New Foundations.
+
 external:
   rules: https://rules.buriedgiant.com/?product=oathnf
 
@@ -43,5 +54,11 @@ cardTemplate:
     {{#if meta.defense }}
       <div>
         <p>Defense: {{ meta.defense }}
+      </div>
+    {{/if}}
+
+    {{#if meta.zeal }}
+      <div>
+        <p>Zeal: {{ meta.zeal }}
       </div>
     {{/if}}

@@ -76,6 +76,9 @@ Pages:
     CardCapacityLabel: Card Capacity
     CardCapacityPlaceholder: Card Capacity
 
+    ZealLabel: Zeal
+    ZealPlaceholder: Zeal
+
     FAQLabel: Has FAQ?
     FAQPlaceholder: Number of FAQ entries
 

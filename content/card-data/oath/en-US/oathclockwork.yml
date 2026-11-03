@@ -1,0 +1,1571 @@
+- id: OATH-CW-A01a
+  text: >-
+    Campaign against the priority site not ruled by a Servant
+    `symbol:legacy-sites`.
+
+    _Check their Zeal first. If they cannot campaign, muster instead._
+  image: Clockwork A01
+  name: Action A01
+  flipSide: OATH-CW-A01b
+  tags:
+    - Clockwork
+    - Action
+    - Star
+    - Sites
+- id: OATH-CW-A01b
+  text: >-
+    Recover a relic from the Servant's site.
+
+    _If none, they travel to the priority site where they can recover first._
+
+    _If they cannot recover, they campaign against the player with the Eye for a
+    relic. If they have none, the player with the Eye chooses the target._
+  image: Clockwork A01 - Back
+  name: Action A01 (Back)
+  flipSide: OATH-CW-A01a
+  tags:
+    - Clockwork
+    - Action
+    - Star
+    - Sites
+- id: OATH-CW-A02a
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, roll the end die: **1–4:** Gain `symbol:favor` as in Gain Favor.
+    **5–6:** Gain `symbol:secret`.
+  image: Clockwork A02
+  name: Action A02
+  flipSide: OATH-CW-A02b
+  tags:
+    - Clockwork
+    - Action
+    - Reap
+    - Sites
+- id: OATH-CW-A02b
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, roll the end die: **1–4:** Gain `symbol:favor` as in Gain Favor.
+    **5–6:** Gain `symbol:secret`.
+  image: Clockwork A02 - Back
+  name: Action A02 (Back)
+  flipSide: OATH-CW-A02a
+  tags:
+    - Clockwork
+    - Action
+    - Reap
+    - Sites
+- id: OATH-CW-A03
+  text: >-
+    Campaign against the priority site not ruled by a Servant
+    `symbol:legacy-sites`.
+
+    _Check their Zeal first. If they cannot campaign, muster instead._
+  image: Clockwork A03
+  name: Action A03
+  tags:
+    - Clockwork
+    - Action
+    - Moon
+    - Sites
+- id: OATH-CW-A04a
+  text: >-
+    Recover the Darkest Secret `symbol:legacy-secret`.
+
+    _If the Servant cannot, they campaign for the Darkest Secret if anyone holds
+    it. If no one holds it, they target their site instead._
+
+    _If they cannot recover and already hold the Darkest Secret, they gain
+    `symbol:secret`._
+  image: Clockwork A04
+  name: Action A04
+  flipSide: OATH-CW-A04b
+  tags:
+    - Clockwork
+    - Action
+    - Star
+    - Darkest Secret
+- id: OATH-CW-A04b
+  text: |-
+    Campaign for the Grand Scepter `symbol:legacy-scepter`.
+    _If they have it, muster `symbol:action-muster` instead._
+  image: Clockwork A04 - Back
+  name: Action A04 (Back)
+  flipSide: OATH-CW-A04a
+  tags:
+    - Clockwork
+    - Action
+    - Star
+    - Darkest Secret
+- id: OATH-CW-A05a
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, gain `symbol:secret`.
+  image: Clockwork A05
+  name: Action A05
+  flipSide: OATH-CW-A05b
+  tags:
+    - Clockwork
+    - Action
+    - Reap
+    - Darkest Secret
+- id: OATH-CW-A05b
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, roll the end die: **1–4:** Gain `symbol:favor` as in Gain Favor.
+    **5–6:** Gain `symbol:secret`.
+  image: Clockwork A05 - Back
+  name: Action A05 (Back)
+  flipSide: OATH-CW-A05a
+  tags:
+    - Clockwork
+    - Action
+    - Reap
+    - Darkest Secret
+- id: OATH-CW-A06
+  text: >-
+    Recover the Darkest Secret `symbol:legacy-secret`.
+
+    _If the Servant cannot, they campaign for the Darkest Secret if anyone holds
+    it. If no one holds it, they target their site instead._
+
+    _If they cannot recover and already hold the Darkest Secret, they gain
+    `symbol:secret`._
+  image: Clockwork A06
+  name: Action A06
+  tags:
+    - Clockwork
+    - Action
+    - Moon
+    - Darkest Secret
+- id: OATH-CW-A07a
+  text: >-
+    Recover the People's Favor `symbol:legacy-favor`.
+
+    _If the Servant cannot, they campaign for the People's Favor if anyone holds
+    it. If no one holds it, they target their site instead._
+
+    _If they cannot recover and already hold the People's Favor, they gain
+    `symbol:favor` as in Gain Favor._
+  image: Clockwork A07
+  name: Action A07
+  flipSide: OATH-CW-A07b
+  tags:
+    - Clockwork
+    - Action
+    - Star
+    - People's Favor
+- id: OATH-CW-A07b
+  text: >-
+    Recover the Darkest Secret `symbol:legacy-secret`.
+
+    _If the Servant cannot, they campaign for the Darkest Secret if anyone holds
+    it. If no one holds it, they target their site instead._
+
+    _If they cannot recover and already hold the Darkest Secret, they gain
+    `symbol:secret`._
+  image: Clockwork A07 - Back
+  name: Action A07 (Back)
+  flipSide: OATH-CW-A07a
+  tags:
+    - Clockwork
+    - Action
+    - Star
+    - People's Favor
+- id: OATH-CW-A08a
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, gain `symbol:favor` `symbol:favor` as in Gain Favor.
+  image: Clockwork A08
+  name: Action A08
+  flipSide: OATH-CW-A08b
+  tags:
+    - Clockwork
+    - Action
+    - Reap
+    - People's Favor
+- id: OATH-CW-A08b
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, gain `symbol:secret`. If they don't have the People's Favor, also
+    gain `symbol:favor` `symbol:favor` as in Gain Favor.
+  image: Clockwork A08 - Back
+  name: Action A08 (Back)
+  flipSide: OATH-CW-A08a
+  tags:
+    - Clockwork
+    - Action
+    - Reap
+    - People's Favor
+- id: OATH-CW-A09
+  text: >-
+    Recover the People's Favor `symbol:legacy-favor`.
+
+    _If the Servant cannot, they campaign for the People's Favor if anyone holds
+    it. If no one holds it, they target their site instead._
+
+    _If they cannot recover and already hold the People's Favor, they gain
+    `symbol:favor` as in Gain Favor._
+  image: Clockwork A09
+  name: Action A09
+  tags:
+    - Clockwork
+    - Action
+    - Moon
+    - People's Favor
+- id: OATH-CW-A10a
+  text: >-
+    Recover a relic from the Servant's site.
+
+    _If none, they travel to the priority site where they can recover first._
+
+    _If they cannot recover, they campaign against the player with the Eye for a
+    relic. If they have none, the player with the Eye chooses the target._
+  image: Clockwork A10
+  name: Action A10
+  flipSide: OATH-CW-A10b
+  tags:
+    - Clockwork
+    - Action
+    - Star
+    - Relics and Banners
+- id: OATH-CW-A10b
+  text: >-
+    Recover the People's Favor `symbol:legacy-favor`.
+
+    _If the Servant cannot, they campaign for the People's Favor if anyone holds
+    it. If no one holds it, they target their site instead._
+
+    _If they cannot recover and already hold the People's Favor, they gain
+    `symbol:favor` as in Gain Favor._
+  image: Clockwork A10 - Back
+  name: Action A10 (Back)
+  flipSide: OATH-CW-A10a
+  tags:
+    - Clockwork
+    - Action
+    - Star
+    - Relics and Banners
+- id: OATH-CW-A11a
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, roll the end die: **1–4:** Gain `symbol:favor` as in Gain Favor.
+    **5–6:** Gain `symbol:secret`.
+  image: Clockwork A11
+  name: Action A11
+  flipSide: OATH-CW-A11b
+  tags:
+    - Clockwork
+    - Action
+    - Reap
+    - Relics and Banners
+- id: OATH-CW-A11b
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, gain `symbol:favor` `symbol:favor` as in Gain Favor.
+  image: Clockwork A11 - Back
+  name: Action A11 (Back)
+  flipSide: OATH-CW-A11a
+  tags:
+    - Clockwork
+    - Action
+    - Reap
+    - Relics and Banners
+- id: OATH-CW-A12
+  text: >-
+    Recover a relic from the Servant's site.
+
+    _If none, they travel to the priority site where they can recover first._
+
+    _If they cannot recover, they campaign against the player with the Eye for a
+    relic. If they have none, the player with the Eye chooses the target._
+  image: Clockwork A12
+  name: Action A12
+  tags:
+    - Clockwork
+    - Action
+    - Moon
+    - Relics and Banners
+- id: OATH-CW-A13
+  text: |-
+    Campaign for the Grand Scepter `symbol:legacy-scepter`.
+    _If they have it, muster `symbol:action-muster` instead._
+  image: Clockwork A13
+  name: Action A13
+  tags:
+    - Clockwork
+    - Action
+    - Moon
+    - Scepter
+- id: OATH-CW-A01a-NF
+  text: >-
+    Campaign against the priority site not ruled by a Servant
+    `symbol:legacy-sites`.
+
+    _Check their Zeal first. If they cannot campaign, muster instead._
+  image: Clockwork A-NF01
+  name: Action A-NF01
+  flipSide: OATH-CW-A01b-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Star
+    - Sites
+- id: OATH-CW-A01b-NF
+  text: >-
+    Recover `symbol:action-recover` a relic from the Servant's site.
+
+    _If none, they travel to the priority site where they can recover first._
+
+    _If they cannot recover, they campaign against the player with the Eye for a
+    relic. If they have none, the player with the Eye chooses the target._
+  image: Clockwork A-NF01 - Back
+  name: Action A-NF01 (Back)
+  flipSide: OATH-CW-A01a-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Star
+    - Sites
+- id: OATH-CW-A02a-NF
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, roll the end die: **1–4:** Gain `symbol:favor` as in Gain Favor.
+    **5–6:** Gain `symbol:secret`.
+  image: Clockwork A-NF02
+  name: Action A-NF02
+  flipSide: OATH-CW-A02b-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Reap
+    - Sites
+- id: OATH-CW-A02b-NF
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, roll the end die: **1–4:** Gain `symbol:favor` as in Gain Favor.
+    **5–6:** Gain `symbol:secret`.
+  image: Clockwork A-NF02 - Back
+  name: Action A-NF02 (Back)
+  flipSide: OATH-CW-A02a-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Reap
+    - Sites
+- id: OATH-CW-A03-NF
+  text: >-
+    Campaign against the priority site not ruled by a Servant
+    `symbol:legacy-sites`.
+
+    _Check their Zeal first. If they cannot campaign, muster instead._
+  image: Clockwork A-NF03
+  name: Action A-NF03
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Moon
+    - Sites
+- id: OATH-CW-A04a-NF
+  text: >-
+    Challenge the Darkest Secret `symbol:legacy-secret`.
+
+    _If the Servant cannot, they campaign, targeting the Darkest Secret._
+
+    _If the Servant already has the Darkest Secret, they add `symbol:secret` to
+    it from their board._
+  image: Clockwork A-NF04
+  name: Action A-NF04
+  flipSide: OATH-CW-A04b-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Star
+    - Darkest Secret
+- id: OATH-CW-A04b-NF
+  text: |-
+    Campaign for the Grand Scepter `symbol:legacy-scepter`.
+    _If they have it, muster `symbol:action-muster` instead._
+  image: Clockwork A-NF04 - Back
+  name: Action A-NF04 (Back)
+  flipSide: OATH-CW-A04a-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Star
+    - Darkest Secret
+- id: OATH-CW-A05a-NF
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, gain `symbol:secret`.
+  image: Clockwork A-NF05
+  name: Action A-NF05
+  flipSide: OATH-CW-A05b-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Reap
+    - Darkest Secret
+- id: OATH-CW-A05b-NF
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, roll the end die: **1–4:** Gain `symbol:favor` as in Gain Favor.
+    **5–6:** Gain `symbol:secret`.
+  image: Clockwork A-NF05 - Back
+  name: Action A-NF05 (Back)
+  flipSide: OATH-CW-A05a-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Reap
+    - Darkest Secret
+- id: OATH-CW-A06-NF
+  text: >-
+    Challenge the Darkest Secret `symbol:legacy-secret`.
+
+    _If the Servant cannot, they campaign, targeting the Darkest Secret._
+
+    _If the Servant already has the Darkest Secret, they add `symbol:secret` to
+    it from their board._
+  image: Clockwork A-NF06
+  name: Action A-NF06
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Moon
+    - Darkest Secret
+- id: OATH-CW-A07a-NF
+  text: >-
+    Challenge the People's Favor `symbol:legacy-favor`.
+
+    _If the Servant cannot, they campaign, targeting the People's Favor._
+
+    _If the Servant already has the People's Favor, they add `symbol:favor` to
+    it from their board._
+  image: Clockwork A-NF07
+  name: Action A-NF07
+  flipSide: OATH-CW-A07b-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Star
+    - People's Favor
+- id: OATH-CW-A07b-NF
+  text: >-
+    Challenge the Darkest Secret `symbol:legacy-secret`.
+
+    _If the Servant cannot, they campaign, targeting the Darkest Secret._
+
+    _If the Servant already has the Darkest Secret, they add `symbol:secret` to
+    it from their board._
+  image: Clockwork A-NF07 - Back
+  name: Action A-NF07 (Back)
+  flipSide: OATH-CW-A07a-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Star
+    - People's Favor
+- id: OATH-CW-A08a-NF
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, gain `symbol:favor` `symbol:favor` as in Gain Favor.
+  image: Clockwork A-NF08
+  name: Action A-NF08
+  flipSide: OATH-CW-A08b-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Reap
+    - People's Favor
+- id: OATH-CW-A08b-NF
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, gain `symbol:secret`. If they don't have the People's Favor, also
+    gain `symbol:favor` `symbol:favor` as in Gain Favor.
+  image: Clockwork A-NF08 - Back
+  name: Action A-NF08 (Back)
+  flipSide: OATH-CW-A08a-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Reap
+    - People's Favor
+- id: OATH-CW-A09-NF
+  text: >-
+    Challenge the People's Favor `symbol:legacy-favor`.
+
+    _If the Servant cannot, they campaign, targeting the People's Favor._
+
+    _If the Servant already has the People's Favor, they add `symbol:favor` to
+    it from their board._
+  image: Clockwork A-NF09
+  name: Action A-NF09
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Moon
+    - People's Favor
+- id: OATH-CW-A10a-NF
+  text: >-
+    Recover `symbol:action-recover` a relic from the Servant's site.
+
+    _If none, they travel to the priority site where they can recover first._
+
+    _If they cannot recover, they campaign against the player with the Eye for a
+    relic. If they have none, the player with the Eye chooses the target._
+  image: Clockwork A-NF10
+  name: Action A-NF10
+  flipSide: OATH-CW-A10b-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Star
+    - Relics
+- id: OATH-CW-A10b-NF
+  text: >-
+    Challenge the People's Favor `symbol:legacy-favor`.
+
+    _If the Servant cannot, they campaign, targeting the People's Favor._
+
+    _If the Servant already has the People's Favor, they add `symbol:favor` to
+    it from their board._
+  image: Clockwork A-NF10 - Back
+  name: Action A-NF10 (Back)
+  flipSide: OATH-CW-A10a-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Star
+    - Relics
+- id: OATH-CW-A11a-NF
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, roll the end die: **1–4:** Gain `symbol:favor` as in Gain Favor.
+    **5–6:** Gain `symbol:secret`.
+  image: Clockwork A-NF11
+  name: Action A-NF11
+  flipSide: OATH-CW-A11b-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Reap
+    - Relics
+- id: OATH-CW-A11b-NF
+  text: >-
+    Search `symbol:action-search` the world deck if the Servant is an Exile and
+    either has no Vision or fewer than 3 Visions have been drawn.
+
+    Otherwise, gain `symbol:favor` `symbol:favor` as in Gain Favor.
+  image: Clockwork A-NF11 - Back
+  name: Action A-NF11 (Back)
+  flipSide: OATH-CW-A11a-NF
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Reap
+    - Relics
+- id: OATH-CW-A12-NF
+  text: >-
+    Recover `symbol:action-recover` a relic from the Servant's site.
+
+    _If none, they travel to the priority site where they can recover first._
+
+    _If they cannot recover, they campaign against the player with the Eye for a
+    relic. If they have none, the player with the Eye chooses the target._
+  image: Clockwork A-NF12
+  name: Action A-NF12
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Moon
+    - Relics
+- id: OATH-CW-A13-NF
+  text: |-
+    Campaign for the Grand Scepter `symbol:legacy-scepter`.
+    _If they have it, muster `symbol:action-muster` instead._
+  image: Clockwork A-NF13
+  name: Action A-NF13
+  tags:
+    - New Foundations
+    - Clockwork
+    - Action
+    - Moon
+    - Scepter
+- id: OATH-CW-C01
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork C01
+  name: Command C01
+  tags:
+    - Clockwork
+    - Command
+    - Basic
+- id: OATH-CW-C02
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork C02
+  name: Command C02
+  tags:
+    - Clockwork
+    - Command
+    - Basic
+- id: OATH-CW-C03
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork C03
+  name: Command C03
+  tags:
+    - Clockwork
+    - Command
+    - Basic
+- id: OATH-CW-C04
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork C04
+  name: Command C04
+  tags:
+    - Clockwork
+    - Command
+    - Basic
+- id: OATH-CW-C05
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork C05
+  name: Command C05
+  tags:
+    - Clockwork
+    - Command
+    - Sites
+- id: OATH-CW-C06
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork C06
+  name: Command C06
+  tags:
+    - Clockwork
+    - Command
+    - Sites
+- id: OATH-CW-C07
+  meta:
+    zeal: 3
+  text: ''
+  image: Clockwork C07
+  name: Command C07
+  tags:
+    - Clockwork
+    - Command
+    - Sites
+- id: OATH-CW-C08
+  meta:
+    zeal: 7
+  text: ''
+  image: Clockwork C08
+  name: Command C08
+  tags:
+    - Clockwork
+    - Command
+    - Darkest Secret
+- id: OATH-CW-C09
+  meta:
+    zeal: 6
+  text: ''
+  image: Clockwork C09
+  name: Command C09
+  tags:
+    - Clockwork
+    - Command
+    - Darkest Secret
+- id: OATH-CW-C10
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork C10
+  name: Command C10
+  tags:
+    - Clockwork
+    - Command
+    - Darkest Secret
+- id: OATH-CW-C11
+  meta:
+    zeal: 7
+  text: ''
+  image: Clockwork C11
+  name: Command C11
+  tags:
+    - Clockwork
+    - Command
+    - People's Favor
+- id: OATH-CW-C12
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork C12
+  name: Command C12
+  tags:
+    - Clockwork
+    - Command
+    - People's Favor
+- id: OATH-CW-C13
+  meta:
+    zeal: 6
+  text: ''
+  image: Clockwork C13
+  name: Command C13
+  tags:
+    - Clockwork
+    - Command
+    - People's Favor
+- id: OATH-CW-C14
+  meta:
+    zeal: 6
+  text: ''
+  image: Clockwork C14
+  name: Command C14
+  tags:
+    - Clockwork
+    - Command
+    - Relics and Banners
+- id: OATH-CW-C15
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork C15
+  name: Command C15
+  tags:
+    - Clockwork
+    - Command
+    - Relics and Banners
+- id: OATH-CW-C16
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork C16
+  name: Command C16
+  tags:
+    - Clockwork
+    - Command
+    - Relics and Banners
+- id: OATH-CW-C17
+  meta:
+    zeal: 6
+  text: ''
+  image: Clockwork C17
+  name: Command C17
+  tags:
+    - Clockwork
+    - Command
+    - Scepter
+- id: OATH-CW-C18
+  meta:
+    zeal: 7
+  text: ''
+  image: Clockwork C18
+  name: Command C18
+  tags:
+    - Clockwork
+    - Command
+    - Scepter
+- id: OATH-CW-C19
+  meta:
+    zeal: 6
+  text: ''
+  image: Clockwork C19
+  name: Command C19
+  tags:
+    - Clockwork
+    - Command
+    - Scepter
+- id: OATH-CW-C01-NF
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork C-NF01
+  name: Command C-NF01
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Basic
+- id: OATH-CW-C02-NF
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork C-NF02
+  name: Command C-NF02
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Basic
+- id: OATH-CW-C03-NF
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork C-NF03
+  name: Command C-NF03
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Basic
+- id: OATH-CW-C04-NF
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork C-NF04
+  name: Command C-NF04
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Basic
+- id: OATH-CW-C05-NF
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork C-NF05
+  name: Command C-NF05
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Sites
+- id: OATH-CW-C06-NF
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork C-NF06
+  name: Command C-NF06
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Sites
+- id: OATH-CW-C07-NF
+  meta:
+    zeal: 3
+  text: ''
+  image: Clockwork C-NF07
+  name: Command C-NF07
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Sites
+- id: OATH-CW-C08-NF
+  meta:
+    zeal: 7
+  text: ''
+  image: Clockwork C-NF08
+  name: Command C-NF08
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Darkest Secret
+- id: OATH-CW-C09-NF
+  meta:
+    zeal: 6
+  text: ''
+  image: Clockwork C-NF09
+  name: Command C-NF09
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Darkest Secret
+- id: OATH-CW-C10-NF
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork C-NF10
+  name: Command C-NF10
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Darkest Secret
+- id: OATH-CW-C11-NF
+  meta:
+    zeal: 7
+  text: ''
+  image: Clockwork C-NF11
+  name: Command C-NF11
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - People's Favor
+- id: OATH-CW-C12-NF
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork C-NF12
+  name: Command C-NF12
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - People's Favor
+- id: OATH-CW-C13-NF
+  meta:
+    zeal: 6
+  text: ''
+  image: Clockwork C-NF13
+  name: Command C-NF13
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - People's Favor
+- id: OATH-CW-C14-NF
+  meta:
+    zeal: 6
+  text: ''
+  image: Clockwork C-NF14
+  name: Command C-NF14
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Relics
+- id: OATH-CW-C15-NF
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork C-NF15
+  name: Command C-NF15
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Relics
+- id: OATH-CW-C16-NF
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork C-NF16
+  name: Command C-NF16
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Relics
+- id: OATH-CW-C17-NF
+  meta:
+    zeal: 6
+  text: ''
+  image: Clockwork C-NF17
+  name: Command C-NF17
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Scepter
+- id: OATH-CW-C18-NF
+  meta:
+    zeal: 7
+  text: ''
+  image: Clockwork C-NF18
+  name: Command C-NF18
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Scepter
+- id: OATH-CW-C19-NF
+  meta:
+    zeal: 6
+  text: ''
+  image: Clockwork C-NF19
+  name: Command C-NF19
+  tags:
+    - New Foundations
+    - Clockwork
+    - Command
+    - Scepter
+- id: OATH-CW-S01
+  text: Rules the Most Sites
+  image: Clockwork S01
+  name: Mood - Rules the Most Sites
+  tags:
+    - Clockwork
+    - Mood
+- id: OATH-CW-S02
+  text: Holds the Darkest Secret
+  image: Clockwork S02
+  name: Mood - Holds the Darkest Secret
+  tags:
+    - Clockwork
+    - Mood
+- id: OATH-CW-S03
+  text: Holds the People's Favor
+  image: Clockwork S03
+  name: Mood - Holds the People's Favor
+  tags:
+    - Clockwork
+    - Mood
+- id: OATH-CW-S04
+  text: Holds the Most Relics and Banners
+  image: Clockwork S04
+  name: Mood - Holds the Most Relics and Banners
+  tags:
+    - Clockwork
+    - Mood
+- id: OATH-CW-S05
+  text: Holds the Grand Scepter
+  image: Clockwork S05
+  name: Mood - Holds the Grand Scepter
+  tags:
+    - Clockwork
+    - Mood
+- id: OATH-CW-S01-NF
+  text: Rules the Most Sites
+  image: Clockwork S-NF01
+  name: Mood - Rules the Most Sites
+  tags:
+    - New Foundations
+    - Clockwork
+    - Mood
+- id: OATH-CW-S02-NF
+  text: Holds the Darkest Secret
+  image: Clockwork S-NF02
+  name: Mood - Holds the Darkest Secret
+  tags:
+    - New Foundations
+    - Clockwork
+    - Mood
+- id: OATH-CW-S03-NF
+  text: Holds the People's Favor
+  image: Clockwork S-NF03
+  name: Mood - Holds the People's Favor
+  tags:
+    - New Foundations
+    - Clockwork
+    - Mood
+- id: OATH-CW-S04-NF
+  text: Holds the Most Relics
+  image: Clockwork S-NF04
+  name: Mood - Holds the Most Relics
+  tags:
+    - New Foundations
+    - Clockwork
+    - Mood
+- id: OATH-CW-S05-NF
+  text: Holds the Grand Scepter
+  image: Clockwork S-NF05
+  name: Mood - Holds the Grand Scepter
+  tags:
+    - New Foundations
+    - Clockwork
+    - Mood
+- id: OATH-CW-QD01
+  meta:
+    zeal: 3
+  text: ''
+  image: Clockwork QD01
+  name: Darkness QD01
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Darkness
+- id: OATH-CW-QD02
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork QD02
+  name: Darkness QD02
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Darkness
+- id: OATH-CW-QD03
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QD03
+  name: Darkness QD03
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Darkness
+- id: OATH-CW-QD04
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork QD04
+  name: Darkness QD04
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Darkness
+- id: OATH-CW-QD05
+  meta:
+    zeal: 3
+  text: ''
+  image: Clockwork QD05
+  name: Darkness QD05
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Darkness
+- id: OATH-CW-QD06
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork QD06
+  name: Darkness QD06
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Darkness
+- id: OATH-CW-QD07
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork QD07
+  name: Darkness QD07
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Darkness
+- id: OATH-CW-QD08
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork QD08
+  name: Darkness QD08
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Darkness
+- id: OATH-CW-QS01
+  meta:
+    zeal: 3
+  text: ''
+  image: Clockwork QS01
+  name: Shadow QS01
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS02
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS02
+  name: Shadow QS02
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS03
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS03
+  name: Shadow QS03
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS04
+  meta:
+    zeal: 3
+  text: ''
+  image: Clockwork QS04
+  name: Shadow QS04
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS05
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork QS05
+  name: Shadow QS05
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS06
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS06
+  name: Shadow QS06
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS07
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork QS07
+  name: Shadow QS07
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS08
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork QS08
+  name: Shadow QS08
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS09
+  meta:
+    zeal: 3
+  text: ''
+  image: Clockwork QS09
+  name: Shadow QS09
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS10
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS10
+  name: Shadow QS10
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS11
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS11
+  name: Shadow QS11
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS12
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS12
+  name: Shadow QS12
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS13
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS13
+  name: Shadow QS13
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS14
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork QS14
+  name: Shadow QS14
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS15
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS15
+  name: Shadow QS15
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS16
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS16
+  name: Shadow QS16
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS17
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork QS17
+  name: Shadow QS17
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS18
+  meta:
+    zeal: 3
+  text: ''
+  image: Clockwork QS18
+  name: Shadow QS18
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Easy
+- id: OATH-CW-QS19
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS19
+  name: Shadow QS19
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS20
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS20
+  name: Shadow QS20
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS21
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS21
+  name: Shadow QS21
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS22
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS22
+  name: Shadow QS22
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS23
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS23
+  name: Shadow QS23
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS24
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS24
+  name: Shadow QS24
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS25
+  meta:
+    zeal: 2
+  text: ''
+  image: Clockwork QS25
+  name: Shadow QS25
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS26
+  meta:
+    zeal: 6
+  text: ''
+  image: Clockwork QS26
+  name: Shadow QS26
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS27
+  meta:
+    zeal: 6
+  text: ''
+  image: Clockwork QS27
+  name: Shadow QS27
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS28
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork QS28
+  name: Shadow QS28
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS29
+  meta:
+    zeal: 4
+  text: ''
+  image: Clockwork QS29
+  name: Shadow QS29
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS30
+  meta:
+    zeal: 2
+  text: ''
+  image: Clockwork QS30
+  name: Shadow QS30
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS31
+  meta:
+    zeal: 6
+  text: ''
+  image: Clockwork QS31
+  name: Shadow QS31
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS32
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS32
+  name: Shadow QS32
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS33
+  meta:
+    zeal: 5
+  text: ''
+  image: Clockwork QS33
+  name: Shadow QS33
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
+- id: OATH-CW-QS34
+  meta:
+    zeal: 3
+  text: ''
+  image: Clockwork QS34
+  name: Shadow QS34
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Shadow
+    - Hard
