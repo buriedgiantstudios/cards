@@ -2658,6 +2658,29 @@
     - Edifice
     - Ruined
     - Beast
+- id: OATH-E30a-NF
+  text: >-
+    **Action**: Choose a region. Discard all non-`symbol:suit-beast` denizens at
+    sites in that region.
+  image: Forest Horn (NF)
+  name: Forest Horn
+  flipSide: OATH-E30b-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Intact
+    - Beast
+    - Power
+- id: OATH-E30b-NF
+  text: '**Setup (End) / When Explored**: Bury this region''s discard pile.'
+  image: Broken Horn (NF)
+  name: Broken Horn
+  flipSide: OATH-E30a-NF
+  tags:
+    - New Foundations
+    - Edifice
+    - Ruined
+    - Beast
 - id: OATH-CHRON01a-NF
   text: >-
     **Resolve Legacies.** Reveal facedown relics held by players. Dormant
