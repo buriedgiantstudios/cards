@@ -564,7 +564,6 @@
   name: Portal
   tags:
     - Base Game
-    - New Foundations
     - Arcane
     - Travel
 - id: OATH-059
@@ -846,7 +845,6 @@
   name: Vow of Renewal
   tags:
     - Base Game
-    - New Foundations
     - Discord
 - id: OATH-087
   text: >-
@@ -1008,7 +1006,6 @@
   name: Slander
   tags:
     - Base Game
-    - New Foundations
     - Discord
     - Battle Plan
 - id: OATH-103
@@ -1995,7 +1992,6 @@
   name: Sprawling Rampart
   tags:
     - Base Game
-    - New Foundations
     - Edifice
     - Order
     - Campaign
@@ -2005,7 +2001,6 @@
   name: Bandit Rampart
   tags:
     - Base Game
-    - New Foundations
     - Edifice
     - Order
     - Battle Plan
@@ -2035,7 +2030,6 @@
   name: Forest Temple
   tags:
     - Base Game
-    - New Foundations
     - Edifice
     - Beast
 - id: OATH-E06-OG
@@ -2102,7 +2096,6 @@
   name: Ancient Forge
   tags:
     - Base Game
-    - New Foundations
     - Edifice
     - Nomad
 - id: OATH-E12-OG
@@ -2324,7 +2317,6 @@
   name: Map
   tags:
     - Base Game
-    - New Foundations
     - Relic
   text: '**Action**: Put this relic on the bottom of the relic deck to gain 4 Supply.'
   image: Map
@@ -2376,7 +2368,6 @@
   name: The Grand Scepter
   tags:
     - Base Game
-    - New Foundations
     - Relic
   text: >-
     You cannot use this if you took it on this turn. **Action**: Peek in the
@@ -2471,7 +2462,6 @@
   name: Barren Coast
   tags:
     - Base Game
-    - New Foundations
     - Site
     - Travel
   text: >-
@@ -2502,7 +2492,6 @@
   name: Charming Valley
   tags:
     - Base Game
-    - New Foundations
     - Site
     - Travel
   text: >-
@@ -2533,7 +2522,6 @@
   name: Drowned City
   tags:
     - Base Game
-    - New Foundations
     - Site
   text: >-
     At the end of your Wake Phase, if your pawn is here, you may take one
@@ -2547,7 +2535,6 @@
   name: Fertile Valley
   tags:
     - Base Game
-    - New Foundations
     - Site
     - Search
   text: >-
@@ -2594,7 +2581,6 @@
   name: Lush Coast
   tags:
     - Base Game
-    - New Foundations
     - Site
     - Travel
   text: >-
@@ -2609,7 +2595,6 @@
   name: Marshes
   tags:
     - Base Game
-    - New Foundations
     - Site
     - Search
   text: When searching, you **must** draw one fewer card if your pawn is here.
@@ -2622,7 +2607,6 @@
   name: Mine
   tags:
     - Base Game
-    - New Foundations
     - Site
   text: >-
     At the end of your Wake Phase, if your pawn is here, you may take one
@@ -2636,7 +2620,6 @@
   name: Mountain
   tags:
     - Base Game
-    - New Foundations
     - Site
     - Campaign
   text: >-
@@ -2669,7 +2652,6 @@
   name: Plains
   tags:
     - Base Game
-    - New Foundations
     - Site
     - Campaign
   text: >-
@@ -2684,7 +2666,6 @@
   name: River
   tags:
     - Base Game
-    - New Foundations
     - Site
     - Muster
   text: >-
@@ -2728,7 +2709,6 @@
   name: Shrouded Wood
   tags:
     - Base Game
-    - New Foundations
     - Site
     - Travel
   text: >-
@@ -2777,7 +2757,6 @@
   name: The Hidden Place
   tags:
     - Base Game
-    - New Foundations
     - Site
     - Campaign
     - Travel
@@ -2793,7 +2772,6 @@
   name: Wastes
   tags:
     - Base Game
-    - New Foundations
     - Site
     - Search
   text: >-
@@ -2883,7 +2861,6 @@
   tags:
     - Oathkeeper Goal
     - Base Game
-    - New Foundations
 - id: OATH-PEO-OG
   text: >-
     Oathkeeper of the People holds the People's Favor. Successor to the
@@ -2893,7 +2870,6 @@
   tags:
     - Oathkeeper Goal
     - Base Game
-    - New Foundations
 - id: OATH-REL01-OG
   text: >-
     If you're the attacker, the defeated player _(even you)_ **must** kill all
