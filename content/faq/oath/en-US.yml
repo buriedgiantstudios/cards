@@ -947,6 +947,12 @@
         were freely given the power to use it, rather than seizing it.
   card: The Grand Scepter
 - faq:
+    - q: >-
+        Do I need to burn the favor at the start of the campaign to use this?
+      a: >-
+        Yes!
+  card: The Grand Scepter (NF)
+- faq:
     - q: 'How does this interact with the $link:Fertile Valley$?'
       a: >-
         If you play a Hearth card to the Fertile Valley, you will get one secret
