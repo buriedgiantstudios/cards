@@ -1,6 +1,12 @@
 /*
   Access-Control-Allow-Origin: *
 
+/*.json
+  Cache-Control: public, max-age=0, must-revalidate
+
+/i18n/*.json
+  Cache-Control: public, max-age=0, must-revalidate
+
 /cards/*
   Cache-Control: public
   Cache-Control: max-age=86400
