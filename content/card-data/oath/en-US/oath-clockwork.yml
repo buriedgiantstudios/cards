@@ -1569,3 +1569,77 @@
     - Queen of Shadows
     - Shadow
     - Hard
+- id: OATH-CW-QT01
+  text: >-
+    **Wake**: You hold the Oathkeeper title and it is already on its Usurper
+    side.
+  image: Clockwork QT01
+  imageClass: rotated
+  name: Keeper of the Oath
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Title
+- id: OATH-CW-QT02
+  text: '**Wake**: You have revealed the Vision of Conquest and meet its goal.'
+  image: Clockwork QT02
+  imageClass: rotated
+  name: Keeper of Sites
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Title
+- id: OATH-CW-QT03
+  text: '**Wake**: You have revealed the Vision of Sanctuary and meet its goal.'
+  image: Clockwork QT03
+  imageClass: rotated
+  name: Keeper of Relics
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Title
+- id: OATH-CW-QT04
+  text: '**Wake**: You have revealed the Vision of Rebellion and meet its goal.'
+  image: Clockwork QT04
+  imageClass: rotated
+  name: Keeper of Favor
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Title
+- id: OATH-CW-QT05
+  text: '**Wake**: You have revealed the Vision of Faith and meet its goal.'
+  image: Clockwork QT05
+  imageClass: rotated
+  name: Keeper of Secrets
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Title
+- id: OATH-CW-QT06
+  text: >-
+    Successfully play the Conspiracy under the following conditions:
+
+    1. Burn more keys than the number of prisoners on the map.
+
+    2. Use the Conspiracy against the Queen of Shadows. Your advisers must match
+    the suits of two **prisoners** at that site.
+  image: Clockwork QT06
+  imageClass: rotated
+  name: Title - Keeper of Keys
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Title
+- id: OATH-CW-QT06-NF
+  text: |-
+    Successfully play the Conspiracy under the following conditions:
+    1. Burn more keys than the number of prisoners on the map.
+    2. Use the Conspiracy against the Queen of Shadows.
+  image: Clockwork QT-NF06
+  imageClass: rotated
+  name: Keeper of Keys (New Foundations)
+  tags:
+    - Clockwork
+    - Queen of Shadows
+    - Title
